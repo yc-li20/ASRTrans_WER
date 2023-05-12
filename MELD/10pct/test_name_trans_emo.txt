@@ -1,0 +1,2608 @@
+test-dia180_utt7,I dunno,neutral,neutral
+test-dia71_utt8,I totally understand,neutral,neutral
+test-dia262_utt10,Regular or decaf,neutral,neutral
+test-dia191_utt9,Yeah,neutral,neutral
+test-dia197_utt4,Can can I get your autograph I’m your biggest fan,joy,positive
+test-dia40_utt1,I’m really glad you guys are okay but I just keep thinking what would happen if if you two actually had hooked up,neutral,neutral
+test-dia166_utt2,Joey you have to tell her what’s going on And what did it look like,surprise,negative
+test-dia264_utt2,Oh my God What happened here Did you do all this,surprise,positive
+test-dia191_utt8,Eh do you believe that,surprise,positive
+test-dia64_utt11,Ya see it’s just see I was a regular on a soap opera y’know,neutral,neutral
+test-dia47_utt11,So I I told Rachel it was just gonna be the two of us,neutral,neutral
+test-dia222_utt11,Yeah you were but you decided to make salmon because you had some left over at the restaurant,neutral,neutral
+test-dia147_utt8,I'm going and I'm gone,neutral,neutral
+test-dia54_utt6,Uh yes heroin and crack,neutral,neutral
+test-dia83_utt4,Woooo hoooo,joy,positive
+test-dia145_utt10,Yeah I I considered that I just know it would make me happy,neutral,neutral
+test-dia92_utt5,Arghh,disgust,negative
+test-dia75_utt2,Come sit,neutral,neutral
+test-dia238_utt3,I don't see why not,neutral,neutral
+test-dia146_utt1,Oh thanks but listen I was just at Monica’s and she and Chandler had a big fight and they’re not moving in,sadness,negative
+test-dia43_utt1,Oh yeah who’s playing,neutral,neutral
+test-dia168_utt0,All right okay this is great uh Chandler you get behind the desk,neutral,neutral
+test-dia116_utt10,It is,neutral,neutral
+test-dia201_utt0,This is the unit for you my friend Sturdy construction tons of storage compartments some big enough to fit a grown man,neutral,neutral
+test-dia239_utt8,Nope nope I’d just ah I’d rather talk to you,neutral,neutral
+test-dia160_utt8,Hey,anger,negative
+test-dia203_utt1,Y'know I gotta tell ya I just,neutral,neutral
+test-dia172_utt1,Oh no no believe me I’m leaving as soon as possible,neutral,neutral
+test-dia56_utt3,Do you really,neutral,neutral
+test-dia237_utt6,"You are ideally suited for a career in data processing for a large multinational corporation",anger,negative
+test-dia100_utt2,Right,neutral,neutral
+test-dia191_utt1,What,neutral,neutral
+test-dia166_utt13,Two people screwing in there if you want to check that out,neutral,neutral
+test-dia259_utt6,I’m Doctor Monkey,anger,negative
+test-dia17_utt24,Look honey I have tried to make nice it doesn’t work,anger,negative
+test-dia175_utt20,No Come on its late we’re not gonna go down to the office,anger,negative
+test-dia7_utt1,Oh,neutral,neutral
+test-dia205_utt7,How can people do that Oh you guys look Ugly Naked Guy got gravity boots,surprise,negative
+test-dia168_utt14,Okay who are you,surprise,negative
+test-dia149_utt1,No I I I gotta go,sadness,negative
+test-dia199_utt2,Well I did my best to convince him that I’m not some crazy girl who is dying to get married—I’m just going through a hard time,neutral,neutral
+test-dia78_utt6,Guess what,neutral,neutral
+test-dia132_utt4,Oh yay Great Okay what room number is he in,joy,positive
+test-dia47_utt1,No more Joey and Chan’s,sadness,negative
+test-dia175_utt1,Sure,neutral,neutral
+test-dia175_utt9,Tag,anger,negative
+test-dia160_utt0,And you’re upset because you didn’t make your best friend cry,sadness,negative
+test-dia145_utt12,No I mean happy,neutral,neutral
+test-dia154_utt18,Oh I gotta get to work So call me later,neutral,neutral
+test-dia267_utt8,It's ah step ity step and jazz hands,sadness,negative
+test-dia164_utt0,You forget how many great songs Heart had,neutral,neutral
+test-dia225_utt0,Thank you for your patience you’re the next caller,neutral,neutral
+test-dia185_utt1,Yeah we’re done,neutral,neutral
+test-dia241_utt10,Wow,surprise,positive
+test-dia22_utt18,Ohh welcome to an adult relationship,joy,positive
+test-dia258_utt6,Joe Joe Joe Stalin,neutral,neutral
+test-dia270_utt1,No she's at a faculty meeting,neutral,neutral
+test-dia156_utt10,Good God Bing I well I can’t say I’m altogether surprised I saw the way she looked at you and there was no love there,sadness,negative
+test-dia222_utt1,Y’know what It,neutral,neutral
+test-dia194_utt0,Yeah all right All right Just keep walkin' All right,anger,negative
+test-dia255_utt6,So he's calling from Rome I could do that Just gotta go to Rome,neutral,neutral
+test-dia201_utt11,Sometimes I get in here just to get away from it Hey a nickel,anger,negative
+test-dia210_utt6,Oh my good God,disgust,negative
+test-dia95_utt19,Yeah okay my bad,joy,positive
+test-dia153_utt10,Oh yeah Go for it man jump off the high dive stare down the barrel of the gun pee into the wind,joy,positive
+test-dia117_utt4,Umm hey a couple of questions though,neutral,neutral
+test-dia9_utt15,Wow Oh okay look pal I am,joy,positive
+test-dia156_utt0,Bing We’re all set for tonight 8 o’clock,joy,positive
+test-dia111_utt0,Car's waiting downstairs I just wanted to drop off these copies of my book for your friends Anything you want from Lisbon,neutral,neutral
+test-dia167_utt12,Would ya care to venture one,neutral,neutral
+test-dia22_utt21,Okay,neutral,neutral
+test-dia100_utt9,‘Cause let’s face it we’re at Monica’s,neutral,neutral
+test-dia264_utt3,I sure did,neutral,neutral
+test-dia57_utt0,Gin,neutral,neutral
+test-dia96_utt3,Oh my God Okay go into the bathroom use whatever you want just don't ever tell me what you did in there,disgust,negative
+test-dia112_utt15,Oh yeah well I’m sorry about that too but what are you going to do,neutral,neutral
+test-dia120_utt15,What do you have against the beautiful guest room,anger,negative
+test-dia190_utt2,That’s a mailman That’s,surprise,negative
+test-dia125_utt20,Sorry,sadness,negative
+test-dia34_utt7,It’s not like I haven’t any opportunities,anger,negative
+test-dia196_utt16,It it is broken,anger,negative
+test-dia0_utt2,Y'know what,neutral,neutral
+test-dia234_utt1,Ice coffee Tell me it’s ice coffee,surprise,negative
+test-dia191_utt3,Rachel,neutral,neutral
+test-dia279_utt10,Yeah fade the accent out and people will think you’re y’know that you’re adjusting to life in America,anger,negative
+test-dia171_utt6,Cut,neutral,neutral
+test-dia113_utt11,All right,neutral,neutral
+test-dia206_utt0,Man that was great Huh Can you believe how long we threw that ball around,joy,positive
+test-dia48_utt2,Yeah okay give that a try,neutral,neutral
+test-dia75_utt3,Sit,neutral,neutral
+test-dia34_utt16,Y’know people should be able to sleep with who ever they want whenever,neutral,neutral
+test-dia154_utt7,I’m missin’ picture time,joy,positive
+test-dia192_utt7,This is going in your book,surprise,negative
+test-dia53_utt0,Look what I got Look what I got Look what I got Can you believe they make these for little people,surprise,positive
+test-dia23_utt2,What Yeti—I mean Danny,neutral,neutral
+test-dia168_utt9,Way to be cool man,neutral,neutral
+test-dia155_utt8,No A break from us,sadness,negative
+test-dia125_utt22,Why would they do that It was a good show right,surprise,negative
+test-dia7_utt5,Yeah anything goes except ah eye gouging and fish hooking,neutral,neutral
+test-dia182_utt7,Whoa,surprise,negative
+test-dia54_utt1,Yes your honor and here are are forms all filled out,neutral,neutral
+test-dia88_utt8,Can we please turn this off,sadness,negative
+test-dia14_utt6,Hey,joy,positive
+test-dia123_utt0,Hey Okay I gave him another chance but Tim has,neutral,neutral
+test-dia88_utt11,Are you intrigued,surprise,positive
+test-dia266_utt10,The physical act of love,joy,positive
+test-dia259_utt13,The joke sucks,anger,negative
+test-dia86_utt7,Are you kidding,surprise,negative
+test-dia52_utt0,Okay I I just have to stop by my place first,neutral,neutral
+test-dia278_utt4,Oooh I’m afraid that does not exist,neutral,neutral
+test-dia22_utt20,I'm afraid so,neutral,neutral
+test-dia202_utt6,Why wouldn’t ya Erin is great Then then there’s you guys,joy,positive
+test-dia234_utt7,Huh,anger,negative
+test-dia34_utt4,Of course I have What do you think I’m some 30 year old virgin,anger,negative
+test-dia210_utt2,We said six,anger,negative
+test-dia105_utt1,No No It’s me It’s me I I didn’t want to make any noise,fear,negative
+test-dia76_utt7,He doesn't speak much English,neutral,neutral
+test-dia58_utt6,Oh,neutral,neutral
+test-dia98_utt4,Why mom,anger,negative
+test-dia217_utt1,Why are we in bed together,surprise,negative
+test-dia86_utt4,then a little more custard and then bananas and then I just put some whipped cream on top,neutral,neutral
+test-dia130_utt17,Huh Yeah fine invite whoever you want,neutral,neutral
+test-dia144_utt3,Frannie was the one who found your,neutral,neutral
+test-dia267_utt10,Bye,neutral,neutral
+test-dia252_utt7,No,surprise,negative
+test-dia106_utt2,Then why are you smoking,disgust,negative
+test-dia178_utt2,Nope sound like me Pheebs it’s going great Look at Chandler with little baby girl Chandler,joy,positive
+test-dia221_utt2,I am I'm,neutral,neutral
+test-dia198_utt11,You're there for her,neutral,neutral
+test-dia111_utt5,Really stupid,anger,negative
+test-dia215_utt2,That’s really beautiful What does it mean,joy,positive
+test-dia41_utt0,So we did okay at the strip club right,neutral,neutral
+test-dia189_utt8,To Put the Camera Away,anger,negative
+test-dia9_utt3,Oh,surprise,negative
+test-dia95_utt5,Yeah but they didn't ask me,anger,negative
+test-dia175_utt15,I’m telling you you never gave them to me,neutral,neutral
+test-dia137_utt9,Oh really Uh Monica said she had a date at 9:00,surprise,negative
+test-dia135_utt3,Yes,joy,positive
+test-dia112_utt13,What,surprise,positive
+test-dia12_utt2,Well apparently not and I can’t just stand by and watch two people I care about very much be hurt over something that is so silly,sadness,negative
+test-dia33_utt1,Go back in time and listen to Phoebe,anger,negative
+test-dia270_utt3,Come in,neutral,neutral
+test-dia234_utt6,What are you just some big dumb stupid doofy idiot with a doofy idiot hairdo huh,anger,negative
+test-dia121_utt4,Yes You are so smart I love you,joy,positive
+test-dia94_utt1,And I too am just a love machine,neutral,neutral
+test-dia118_utt4,Well it just hurts so bad I uh,sadness,negative
+test-dia155_utt4,Okay it’s not it’s not,neutral,neutral
+test-dia114_utt2,Whoa Whoa Whoa Joey,surprise,positive
+test-dia161_utt4,That’s so great for you guys,joy,positive
+test-dia32_utt5,Oh no I I’m sorry I guess we lost track of everybody after high school,sadness,negative
+test-dia183_utt2,He’s not here right now,neutral,neutral
+test-dia34_utt2,Yeah I can And don’t think I don’t because I do I mean all the time you betcha,joy,positive
+test-dia270_utt9,Well you know you have to take a course Otherwise they don't let you do it,neutral,neutral
+test-dia278_utt13,That’s a good idea I bet they have one of those wind machines Y’know,joy,positive
+test-dia208_utt7,I’ve just been thinking about how my baby and I are gonna be all alone,sadness,negative
+test-dia153_utt8,Amazingly that makes sense,joy,positive
+test-dia246_utt12,That’s okay I’m cool over here I’ll catch up with you later Joey,neutral,neutral
+test-dia131_utt8,Oh no I know I couldn’t see it either at first but it’s right umm Ross I lost it again,joy,positive
+test-dia5_utt1,Hi,neutral,neutral
+test-dia196_utt14,What the hell,anger,negative
+test-dia213_utt8,Just go for it Chandler,neutral,neutral
+test-dia133_utt15,I can’t I can’t stay here all night and if I go in there she’s she’s gonna wanna do stuff,fear,negative
+test-dia107_utt9,What,neutral,neutral
+test-dia168_utt16,Look I don’t need to steal some stupid ring all right,anger,negative
+test-dia78_utt3,I know I do,neutral,neutral
+test-dia94_utt2,Ross let me show you where the guest room is,neutral,neutral
+test-dia99_utt6,Sure,neutral,neutral
+test-dia24_utt3,Ohh I'm gonna be on the news,joy,positive
+test-dia8_utt1,Well that makes me feel so good,joy,positive
+test-dia112_utt2,I know but that creep that I went on that date with goes to there so I have to find a new one,disgust,negative
+test-dia203_utt5,Really,surprise,positive
+test-dia206_utt3,No I meant with the dropper over here,neutral,neutral
+test-dia102_utt9,Oh no Bonnie’s the best,joy,positive
+test-dia169_utt0,Oh my God Joey,surprise,negative
+test-dia100_utt5,Okay I’m sorry,sadness,negative
+test-dia125_utt7,Oh hey,surprise,positive
+test-dia252_utt8,Look Ross you have what you want you’re back with Rachel,neutral,neutral
+test-dia233_utt5,Oh it's so much more fun with you,joy,positive
+test-dia209_utt0,Bob Bob Bob What the hell are you doing,surprise,negative
+test-dia154_utt15,Together Like like to people,surprise,negative
+test-dia100_utt13,Okay good,neutral,neutral
+test-dia262_utt1,Hi Hey Pete you’re back Hey check this out,joy,positive
+test-dia16_utt7,Okay first there is a Chilean Sea Bass prepared with a Mango relish on a bag—Why is nobody writing these down,neutral,neutral
+test-dia71_utt4,Joey this is the awkward part,joy,positive
+test-dia156_utt3,Oh uh well tomorrow’s no good for her either,neutral,neutral
+test-dia79_utt1,Oh,neutral,neutral
+test-dia144_utt0,Yes yes it is It’s uh Every time on the lips Why Why on lips,anger,negative
+test-dia60_utt3,I can't believe I didn't even think of that,surprise,positive
+test-dia270_utt14,You're not serious I mean you really you really talk to it,surprise,negative
+test-dia49_utt10,Y'know what if we went away for a whole weekend,neutral,neutral
+test-dia267_utt7,Y'know it's hand hand head head up pas de bouree pas de bouree big turn here grand sissone sissone sissone slide back step step step and jazz hands,neutral,neutral
+test-dia264_utt0,Aww man I can’t believe I locked myself out again,anger,negative
+test-dia9_utt14,So uh you’re not gonna be able to live here for a while you ladies have a place to stay,neutral,neutral
+test-dia231_utt13,Ohhh hoo funny story,joy,positive
+test-dia210_utt1,We said seven,anger,negative
+test-dia41_utt5,What he doesn’t like Josh,surprise,negative
+test-dia144_utt1,Here’s Frannie Hmm won’t she be happy to see me,joy,positive
+test-dia249_utt6,Come on over here sweetheart,neutral,neutral
+test-dia45_utt2,No Phoebe I’ll tell you what if you get ready now I’ll let you play it at the wedding,neutral,neutral
+test-dia150_utt4,Good bye Chandler Bing,sadness,negative
+test-dia70_utt9,What do you think you're gonna do have sex with her right here on my couch,disgust,negative
+test-dia33_utt3,Ok,neutral,neutral
+test-dia172_utt2,Good Good Not that we don’t want you to stay obviously you’re welcome—How much more homework do you have,neutral,neutral
+test-dia194_utt1,Ross What are you I'm sorry sir I just I think he just really likes you,neutral,neutral
+test-dia134_utt1,He’s not gonna make it he’s stuck in Chicago,sadness,negative
+test-dia174_utt15,Ah that’s okay thanks,sadness,negative
+test-dia187_utt8,Oh no my dad's a doctor and he would always tell me just horror stories about ghosts and goblins who totally supported the princess's right to smoke,neutral,neutral
+test-dia126_utt6,Well okay Would would you get me a,neutral,neutral
+test-dia37_utt5,So this is my ideayou and me spending some quality time together,neutral,neutral
+test-dia258_utt4,Y'know Joey makes me sound like I'm I dunno this big,neutral,neutral
+test-dia58_utt7,Oh right,surprise,positive
+test-dia175_utt22,Okay get your coat Oh When did you unhook this Nice work,joy,positive
+test-dia192_utt0,Hey honey you got the kind with the little girl you said we were gonna to get the kind with the baby,anger,negative
+test-dia271_utt4,Oh my God He's trapped in an ATM vestibule with Jill Goodacre Chandler listen,surprise,positive
+test-dia270_utt4,Thanks Yeah Carol borrowed it for a class and I have to get it back to the museum,neutral,neutral
+test-dia156_utt14,Now here’s the plan grab your coat we’re going to a strip club,joy,positive
+test-dia122_utt3,This is so great Now we can enter into doubles tournaments,joy,positive
+test-dia254_utt1,Hey Ross look what I've got going here,neutral,neutral
+test-dia51_utt2,Oh you know uh Kash really liked you the other day He said he thought you were charming,neutral,neutral
+test-dia222_utt3,I’m so exited,joy,positive
+test-dia37_utt1,I ah I never said hate I was very careful about that,neutral,neutral
+test-dia141_utt2,Yes that is cool Because I have models here y'know never,neutral,neutral
+test-dia41_utt12,Because we’re girls,neutral,neutral
+test-dia109_utt7,What What can't you do,surprise,negative
+test-dia129_utt7,Count it off,neutral,neutral
+test-dia125_utt6,Hello,neutral,neutral
+test-dia233_utt12,Great all right okay and Monica ask me to make the drumming stop,neutral,neutral
+test-dia175_utt14,Yes I did And I put a little,anger,negative
+test-dia200_utt4,We’re trying to think,anger,negative
+test-dia228_utt10,What,surprise,negative
+test-dia258_utt10,Might wanna try Joseph,neutral,neutral
+test-dia195_utt4,Do you want me to be afraid of you,neutral,neutral
+test-dia189_utt0,All right,joy,positive
+test-dia106_utt3,Well it’s very unsettling,sadness,negative
+test-dia202_utt2,Hey hey who’s your friend Hey,joy,positive
+test-dia39_utt11,Great He’s doing great Don’t you worry about Chandler,neutral,neutral
+test-dia41_utt11,We really weren’t great at being guys but you know why,sadness,negative
+test-dia127_utt4,All right so we weren’t,neutral,neutral
+test-dia247_utt2,I’m not supposed to drink coffee it makes me gassy,neutral,neutral
+test-dia268_utt12,Ok given your situation the options with the greatest chances for success would be surrogacy or insemination using a sperm donor,neutral,neutral
+test-dia15_utt2,Okay,joy,positive
+test-dia208_utt1,I just saw a woman breast feeding both of her twins at the same time it is like a freak show up here,neutral,neutral
+test-dia263_utt6,Hey He beat ya,joy,positive
+test-dia259_utt9,You are both idiots,disgust,negative
+test-dia113_utt8,I'm not a dropper,anger,negative
+test-dia125_utt18,All right bye,anger,negative
+test-dia153_utt9,You think,neutral,neutral
+test-dia233_utt9,Oh I would love to,joy,positive
+test-dia126_utt12,Get up,anger,negative
+test-dia102_utt2,How could you not tell me that she has hair,surprise,negative
+test-dia154_utt4,Oh uh ordinarily I would love too but I am just swamped right now,neutral,neutral
+test-dia222_utt9,Well you’re making him a frieze salad with goat cheese and pine nuts wild nuts wild rice roast asparagus and salmon au croup,neutral,neutral
+test-dia126_utt3,What’s the matter honey Did you see a little mouse,neutral,neutral
+test-dia150_utt2,Yeah um I’m I’m leaving now,sadness,negative
+test-dia112_utt6,The universe said I was going to meet a nice guy and that’s what they gave me,anger,negative
+test-dia72_utt5,Since I have been waiting four women that’s four one higher than the number of centimeters that I am dilated have come and gone with their babies,anger,negative
+test-dia72_utt12,Uh Rach,neutral,neutral
+test-dia258_utt5,Which I'm not,neutral,neutral
+test-dia30_utt0,Oh my God what happened,surprise,negative
+test-dia72_utt10,Not this hospital I’m going to sue you,anger,negative
+test-dia67_utt1,Umm do health inspectors work on commission,neutral,neutral
+test-dia45_utt0,Phoebe Come on Let’s go Come on Why aren’t you dressed yet,anger,negative
+test-dia117_utt7,No No no No What would,anger,negative
+test-dia65_utt10,What’s up with Gene,surprise,negative
+test-dia17_utt28,Okay well can’t you just try it one more time Ross For me For me,sadness,negative
+test-dia242_utt4,There you go,joy,positive
+test-dia198_utt12,You pick up the pieces and then you usher in the age of Ross,joy,positive
+test-dia198_utt6,Yes now is when you swoop,joy,positive
+test-dia146_utt2,What do you mean they’re not moving in They they’re still moving in right,surprise,negative
+test-dia24_utt1,Yeah,joy,positive
+test-dia4_utt3,Oh my God,surprise,positive
+test-dia126_utt5,Honey we don’t have any bears here,neutral,neutral
+test-dia127_utt3,Perhaps Now I’m curious at what point during those girlish screams would you have begun to,neutral,neutral
+test-dia217_utt5,No,neutral,neutral
+test-dia240_utt13,I don’t know Why Did you hear something,neutral,neutral
+test-dia100_utt10,I broke it,sadness,negative
+test-dia173_utt12,It’s not,sadness,negative
+test-dia151_utt0,Oh ew,disgust,negative
+test-dia233_utt6,We did have fun didn't we,joy,positive
+test-dia194_utt4,Miss May I help you,neutral,neutral
+test-dia130_utt1,Ohh God nobody likes him and he’s so cheap he’d never fly to London in a million years,disgust,negative
+test-dia130_utt3,Hey did I do these neat enough,neutral,neutral
+test-dia85_utt2,No way,anger,negative
+test-dia268_utt3,Hi there,neutral,neutral
+test-dia96_utt15,No no resentment believe me it's worth it,neutral,neutral
+test-dia95_utt3,Yeah uh huh a 100 dollars,neutral,neutral
+test-dia65_utt7,See you later Gene,neutral,neutral
+test-dia17_utt21,I am,neutral,neutral
+test-dia2_utt7,You can do it,joy,positive
+test-dia252_utt14,Sure it’s hard to forget,neutral,neutral
+test-dia73_utt3,I’m just going to say hi to the lads All right,neutral,neutral
+test-dia14_utt1,Yeah,joy,positive
+test-dia154_utt13,Y’know every year I say I’m gonna send out holiday cards and I never do it,neutral,neutral
+test-dia258_utt9,Joe Stalin Y'know that's pretty good,joy,positive
+test-dia240_utt5,Oh just years of experience,neutral,neutral
+test-dia103_utt4,I actually had a topic in mind I’m I’m kinda going through a dry spell sex wise,anger,negative
+test-dia217_utt8,Oh I remember laughing I laughed a lot,joy,positive
+test-dia14_utt7,Hey hey hey,joy,positive
+test-dia252_utt9,If you bring this up now you’re gonna wreck the best thing that even happened to you,neutral,neutral
+test-dia137_utt2,Hey,neutral,neutral
+test-dia93_utt12,Why should I help you,anger,negative
+test-dia70_utt19,Yeah come on in Molly,neutral,neutral
+test-dia66_utt4,Ohh it was the best,joy,positive
+test-dia257_utt3,Oh sure they love us over there,neutral,neutral
+test-dia211_utt1,Well what did he do,surprise,negative
+test-dia112_utt14,I’m sorry it’s just that you’re so incredibly beautiful,surprise,positive
+test-dia229_utt2,Pat the dog Oh Oh I get it,joy,positive
+test-dia248_utt0,Op,neutral,neutral
+test-dia133_utt10,Okay I gotta go,neutral,neutral
+test-dia213_utt4,We share a wall So either he’s great in bed or she just likes to agree with him a lot,neutral,neutral
+test-dia49_utt1,Hi,joy,positive
+test-dia188_utt2,Yes Bunny,neutral,neutral
+test-dia278_utt0,Someone on the subway licked my neck Licked my neck,disgust,negative
+test-dia113_utt5,What,surprise,negative
+test-dia3_utt6,Yeah I really like his glasses,neutral,neutral
+test-dia187_utt3,She is kidding but don't ever disagree with her again Okay now I'm kidding,joy,positive
+test-dia185_utt0,Thanks for the coffee or bedankt voor de koffie Gunter,neutral,neutral
+test-dia167_utt8,Well honey that was pretty obvious,sadness,negative
+test-dia183_utt8,Oh really Well maybe you and I go out for drinks You’re the other one right,neutral,neutral
+test-dia173_utt17,I I am going to,neutral,neutral
+test-dia262_utt6,Awww hotel toiletries from Japan,joy,positive
+test-dia255_utt4,Hello Hello Oh Rachel it's Paolo calling from Rome,joy,positive
+test-dia192_utt3,You said the baby,neutral,neutral
+test-dia231_utt12,Thanks I’m glad you see it that way,joy,positive
+test-dia247_utt0,How’s that coffee comin’ dear,neutral,neutral
+test-dia119_utt2,They’re all Chandler,neutral,neutral
+test-dia93_utt1,Oh I’m so sorry man Is there anything I can do,sadness,negative
+test-dia199_utt9,Yeah maybe,sadness,negative
+test-dia234_utt8,What’s your favourite thing about summertime,neutral,neutral
+test-dia237_utt9,Oh Chandler I know I know oh hey You can see your nipples through this shirt,sadness,negative
+test-dia7_utt2,And it’s not fake it’s totally brutal,neutral,neutral
+test-dia257_utt0,Oh yeah yeah sure We live in the building by the uh sidewalk,neutral,neutral
+test-dia123_utt5,Because I’m dumping him today,neutral,neutral
+test-dia202_utt5,Yeah we ended up spending the day together and had such a great time,joy,positive
+test-dia228_utt6,I don’t care,neutral,neutral
+test-dia92_utt1,I'll sneak over as soon as Ross picks up Ben,neutral,neutral
+test-dia46_utt7,I stepped in something icky,joy,positive
+test-dia98_utt11,Well I never call,neutral,neutral
+test-dia12_utt19,Good A verbal contract is binding in the state of New York,joy,positive
+test-dia128_utt9,I totally understand Can I,neutral,neutral
+test-dia139_utt0,It’s yours,neutral,neutral
+test-dia143_utt2,I would really love it if I could do both,neutral,neutral
+test-dia123_utt8,Just don’t pick up your phone,neutral,neutral
+test-dia237_utt8,Can you believe it I mean don't I seem like somebody who should be doing something really,anger,negative
+test-dia241_utt11,Yeah,neutral,neutral
+test-dia228_utt12,Does this mean we’re gonna have to start paying for coffee,surprise,negative
+test-dia130_utt15,Yeah sure,neutral,neutral
+test-dia124_utt9,Janice,surprise,positive
+test-dia196_utt1,A Magic Eight ball You can't be serious you can't make this decision with a toy,disgust,negative
+test-dia124_utt7,No,anger,negative
+test-dia214_utt3,Here come on let’s ahh let’s try it again,neutral,neutral
+test-dia145_utt2,Gary I'm here to report a crime,neutral,neutral
+test-dia95_utt1,See ya Phoebe Oh and hey thanks for chipping in,joy,positive
+test-dia7_utt7,Huh what’s fish hooking Thanks man that would have been really hard to describe What is that taste,neutral,neutral
+test-dia53_utt2,Okay look at this one This is my favourite,joy,positive
+test-dia111_utt7,And I don't even know how it happened,sadness,negative
+test-dia28_utt1,Oh down please I I hate to be a ball buster can I just do it,joy,positive
+test-dia173_utt13,I mean you were just You’re so incredible,sadness,negative
+test-dia184_utt1,What You’re crazy There’s nothing sexual about the noises I make,surprise,positive
+test-dia107_utt1,Hmm,neutral,neutral
+test-dia100_utt8,Okay,neutral,neutral
+test-dia20_utt4,Exactly Unisex,neutral,neutral
+test-dia2_utt4,Okay y'know what There is no more left left,anger,negative
+test-dia242_utt7,Yeah about 300 guys I went to high school with,neutral,neutral
+test-dia54_utt3,Fine I’m mentally unstable,anger,negative
+test-dia181_utt3,Hey Phoebe,neutral,neutral
+test-dia28_utt5,Well it’s a long story,neutral,neutral
+test-dia52_utt4,It’s not for me it’s for Rachel,neutral,neutral
+test-dia112_utt18,Would you like to go out and have a cup of coffee,neutral,neutral
+test-dia171_utt2,Hey when the music starts up again I was thinking of maybe goind into the robot y’know,neutral,neutral
+test-dia75_utt1,Thank you All right,neutral,neutral
+test-dia208_utt2,What’s the matter,neutral,neutral
+test-dia0_utt0,Why do all you’re coffee mugs have numbers on the bottom,surprise,positive
+test-dia249_utt2,Well don’t think I haven’t noticed your potential,neutral,neutral
+test-dia42_utt1,Yeah I lost it,sadness,negative
+test-dia201_utt2,Oh yeah,joy,positive
+test-dia70_utt12,What makes you think that I'm just gonna sleep with her and then blow her off,anger,negative
+test-dia222_utt5,I got my hair coloured,joy,positive
+test-dia124_utt6,Chandler,neutral,neutral
+test-dia52_utt3,Oh you’re switching apartments,surprise,negative
+test-dia78_utt5,Hi,neutral,neutral
+test-dia53_utt9,Unless we give her all gifts she can use after she’s done being pregnant,joy,positive
+test-dia168_utt15,The Hardy boys,anger,negative
+test-dia88_utt12,You're flingin' flangin' right I am,joy,positive
+test-dia214_utt0,I’m sure as hell a dancer it’s no use Marge will never go for me,sadness,negative
+test-dia34_utt12,Oh my God Do it Honey you’ve waited,surprise,negative
+test-dia90_utt0,Well you might want to tell him it sounds like his wife is gay,neutral,neutral
+test-dia34_utt6,Say it louder I don’t think the guy all the way in the back heard you,disgust,negative
+test-dia199_utt14,Again Y’know what I think we all did,sadness,negative
+test-dia96_utt11,Hey listen I wanna borrow a coupla things Aurora spent the night I really wanna make her breakfast,neutral,neutral
+test-dia81_utt1,Well I assume I’ll have to take showers with him but y'know that’s true of any job,neutral,neutral
+test-dia68_utt3,I can't believe you would say that,sadness,negative
+test-dia71_utt12,One hundred percent natural,joy,positive
+test-dia184_utt13,I guess,neutral,neutral
+test-dia153_utt1,Do we have any Do we have any thoughts here,neutral,neutral
+test-dia110_utt2,But she said she's looking for someone and someone is gonna be there tonight,neutral,neutral
+test-dia76_utt8,Look at that,surprise,positive
+test-dia133_utt3,Awww,joy,positive
+test-dia215_utt9,Bye Phoebe,neutral,neutral
+test-dia222_utt2,Sorry,neutral,neutral
+test-dia186_utt0,Ah no no no just Ross Ross and Joey is embarrassing enough,disgust,negative
+test-dia266_utt6,This is just about tonight,neutral,neutral
+test-dia169_utt16,Yeah,neutral,neutral
+test-dia144_utt6,Am I doing here Why Surprised to see me Ross brought me How do you like that,anger,negative
+test-dia98_utt7,Eligible looters,anger,negative
+test-dia212_utt3,Y’know,neutral,neutral
+test-dia44_utt1,I don’t want to say,neutral,neutral
+test-dia188_utt5,Actually nectarines but basically,neutral,neutral
+test-dia12_utt0,What’s all this about you guys fighting Is this really over a room I mean that is so silly,anger,negative
+test-dia217_utt3,Yeah,neutral,neutral
+test-dia132_utt0,Could you help me with something,neutral,neutral
+test-dia35_utt0,Push push,neutral,neutral
+test-dia212_utt0,Y’know you really didn’t have to take me to the airport,neutral,neutral
+test-dia132_utt14,He’s a patient of mine I’ve been treating him for years,neutral,neutral
+test-dia169_utt17,Who Who is it,surprise,negative
+test-dia231_utt4,But in very different ways,neutral,neutral
+test-dia22_utt9,Chandler that's crazy,surprise,positive
+test-dia208_utt0,Hey,neutral,neutral
+test-dia189_utt1,Westminster Abbey,joy,positive
+test-dia211_utt7,Yeah,neutral,neutral
+test-dia8_utt6,Well there really wasn't much time to get used to it you know what I mean,joy,positive
+test-dia98_utt1,Mom says it's all of Manhattan parts of Brooklyn and Queens and they have no idea when it's coming back on,anger,negative
+test-dia35_utt1,We're here,joy,positive
+test-dia84_utt0,What’s wrong with you,anger,negative
+test-dia269_utt1,Fine Fine alright now you'll never know,anger,negative
+test-dia169_utt3,Hey lady your day’s over It’s my turn,anger,negative
+test-dia108_utt4,Not at these prices,anger,negative
+test-dia88_utt5,You go to the refrigerator to get a nice glass of milk and these darn cartons are so flingin' flangin' hard to open,neutral,neutral
+test-dia216_utt2,Yeah,neutral,neutral
+test-dia12_utt13,Why do you do it,neutral,neutral
+test-dia3_utt3,Yes but too me he's just man,neutral,neutral
+test-dia244_utt17,I have to go Yeah Carol should be home by now soo,neutral,neutral
+test-dia45_utt7,Fair enough now go get ready,neutral,neutral
+test-dia33_utt2,Alright here’s something it says to try holding the baby close to your body and then swing her rapidly from side to side,neutral,neutral
+test-dia93_utt14,What do you need,neutral,neutral
+test-dia225_utt3,Of course not,sadness,negative
+test-dia228_utt7,I don’t care which pot is regular and which pot is decaf I don’t care where the tray spot is I just don’t care this is not what I want to do,anger,negative
+test-dia245_utt0,Hey,neutral,neutral
+test-dia275_utt1,Fine,neutral,neutral
+test-dia102_utt7,Well maybe it won’t work out Maybe Ross won’t like her personality,sadness,negative
+test-dia246_utt6,It’s me Rhonda,neutral,neutral
+test-dia92_utt0,I can't wait to be with you,joy,positive
+test-dia29_utt11,Thank you for a delightful stay,joy,positive
+test-dia110_utt3,'Tonight' tonight,surprise,positive
+test-dia225_utt5,Okay I just wanted them to hear it from somebody else,neutral,neutral
+test-dia1_utt1,Push,joy,positive
+test-dia241_utt1,Yeah,joy,positive
+test-dia49_utt12,All weekend That's a whole lotta naked,surprise,positive
+test-dia52_utt7,She is,surprise,negative
+test-dia112_utt17,A little Now you’re talking,neutral,neutral
+test-dia34_utt18,Oh what do you know Virgin,anger,negative
+test-dia3_utt5,Ugh can you believe that guy,disgust,negative
+test-dia23_utt1,So you like the short hair better,neutral,neutral
+test-dia272_utt3,Oh and the chilliest has carpel tunel syndrome,neutral,neutral
+test-dia21_utt3,You know what I just have one more question um if you had figured this out sooner and um I had been around do you think that I would have been the one who,neutral,neutral
+test-dia153_utt2,Well I've never been through the tunnel myself 'cause as I understand it you're not allowed to go through with more than one girl in the car right,neutral,neutral
+test-dia34_utt10,He’s not perfect but umm I think maybe I should just get it over with,neutral,neutral
+test-dia109_utt4,Oh are you sure,surprise,positive
+test-dia241_utt14,Oh let me get this These are for you,neutral,neutral
+test-dia25_utt14,What what was it you were gonna tell us,neutral,neutral
+test-dia241_utt6,Hi,joy,positive
+test-dia171_utt3,Ross I think we should stick to the routine we don’t wanna look stupid,joy,positive
+test-dia120_utt8,I mean you can buy old arcade games like uh like,neutral,neutral
+test-dia88_utt3,Shhhh,anger,negative
+test-dia278_utt1,Oh Willie’s still alive,surprise,positive
+test-dia175_utt18,Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch,disgust,negative
+test-dia266_utt11,What Are you crazy,surprise,negative
+test-dia137_utt6,Huh Uh,neutral,neutral
+test-dia25_utt5,Oh God,surprise,negative
+test-dia72_utt15,Okay well then bring her in,neutral,neutral
+test-dia198_utt2,No no she kicked our butts You could be on the Olympic standing there team,anger,negative
+test-dia86_utt6,I like it,joy,positive
+test-dia86_utt2,First there’s a layer of ladyfingers then a layer of jam then custard which I made from scratch,neutral,neutral
+test-dia212_utt4,Besides somebody had to ride in that other taxi with the rest of your luggage and your friends don’t really seem to care too much that you’re leaving,sadness,negative
+test-dia279_utt14,Monica you really think I should try this phasing out thing,neutral,neutral
+test-dia237_utt1,It's creamier,neutral,neutral
+test-dia238_utt0,I thought it was gonna be a closed casket,neutral,neutral
+test-dia175_utt21,Okay I understand I wouldn’t want to be proved wrong either,neutral,neutral
+test-dia34_utt0,Well you’re not,neutral,neutral
+test-dia215_utt6,You’re right You’re right Don’t say it,sadness,negative
+test-dia140_utt1,I'm sorry man,sadness,negative
+test-dia96_utt10,Oh that would be Monica,neutral,neutral
+test-dia57_utt1,We were playing Gin Y'know if we were a couple we could play this game naked,joy,positive
+test-dia17_utt6,What a wank,anger,negative
+test-dia189_utt2,Hands down best Abbey I’ve ever seen,joy,positive
+test-dia47_utt6,Yeah but we won’t be able to like get up in the middle of the night and have those long talks about our feelings and the future,sadness,negative
+test-dia188_utt1,Peach pit,neutral,neutral
+test-dia245_utt4,No no no no,fear,negative
+test-dia116_utt4,Maybe you should,anger,negative
+test-dia214_utt1,Come on Treeger don’t say that,sadness,negative
+test-dia174_utt5,Hi Oh I’m so glad you called,joy,positive
+test-dia191_utt7,Good one Actually ah Terry wants you to take the training again whenever,neutral,neutral
+test-dia158_utt5,Okay okay Umm well ah maybe he maybe he feels awkward because you are my boss,neutral,neutral
+test-dia111_utt8,I'm sorry honey I promise it will never happen again,sadness,negative
+test-dia184_utt3,Oo God,sadness,negative
+test-dia131_utt2,Hey So how was the doctor,neutral,neutral
+test-dia32_utt8,Oh what What was it,surprise,positive
+test-dia173_utt7,I didn’t make it,sadness,negative
+test-dia213_utt5,Sweetie with you it’s gonna be different The sex is gonna be great ‘cause you you guys are in love,joy,positive
+test-dia221_utt3,Yeah and and I'm just gonna pay for this with a check,neutral,neutral
+test-dia166_utt10,I can do that,neutral,neutral
+test-dia166_utt5,Look it’s not that easy She said she wanted to marry me I don’t want to hurt her,sadness,negative
+test-dia251_utt4,Yeah well I had a great time with you I just can't stand your friends,neutral,neutral
+test-dia169_utt4,Phoebe,surprise,negative
+test-dia30_utt2,Wow Spinning that sounds like fun,joy,positive
+test-dia37_utt2,A little birdie told me something about you wanting to rip your arm off and throw it at me,anger,negative
+test-dia262_utt12,Okay,neutral,neutral
+test-dia73_utt10,Come on The time we were all waiting in line for,anger,negative
+test-dia47_utt13,Really well Yeah Surprisingly well Yeah she didn’t cry She wasn’t angry or sad,neutral,neutral
+test-dia83_utt8,What is the worse part,neutral,neutral
+test-dia154_utt11,That is a good one,joy,positive
+test-dia56_utt8,That’s it Well I saw that Ohh ohh oh thank you,joy,positive
+test-dia67_utt0,Oh Larry,neutral,neutral
+test-dia245_utt1,Hi,neutral,neutral
+test-dia234_utt5,You were gonna spill hot coffee all over me huh,anger,negative
+test-dia67_utt2,No bribes,neutral,neutral
+test-dia39_utt3,You can’t ask us son that’s cheating,neutral,neutral
+test-dia123_utt13,Are you kidding Another week with that sip I’ll kill,disgust,negative
+test-dia12_utt14,I don’t know,neutral,neutral
+test-dia105_utt0,Ow My ass Okay Okay Oh shhh,anger,negative
+test-dia56_utt1,Oh sure come here Sure you can Uh look come here look it’s it’s it’s it’s right there,neutral,neutral
+test-dia266_utt15,Noo No You thought you actually thought I wanted to have sex with you,anger,negative
+test-dia234_utt0,Okay it’s coffee,neutral,neutral
+test-dia201_utt7,No you you can’t fit in that thing That’s not deep enough,neutral,neutral
+test-dia132_utt9,A doctor at this hospital,surprise,negative
+test-dia114_utt5,Thursday’s clearly not good for ya pick a day,joy,positive
+test-dia126_utt14,Ahh Thank you,joy,positive
+test-dia151_utt3,Um can you roll your tongue,neutral,neutral
+test-dia168_utt13,We know you took so just just save yourself the time and confess,anger,negative
+test-dia166_utt1,No She had the ring on she seemed so excited and then she took her breast out,anger,negative
+test-dia229_utt3,Do you uh do you—ready for a refill,neutral,neutral
+test-dia71_utt1,Yeah,neutral,neutral
+test-dia42_utt5,What,surprise,positive
+test-dia77_utt1,When Mom and Dad drove you to the hospital to get your nose fixed I swam into the lake and fished it out,neutral,neutral
+test-dia201_utt1,What,surprise,negative
+test-dia117_utt1,It’s a great class,joy,positive
+test-dia115_utt3,Shielding your face and shrieking like a girl is not a backhand,disgust,negative
+test-dia50_utt2,I’m so sorry,fear,negative
+test-dia169_utt14,Ohh I wonder if that dude,neutral,neutral
+test-dia100_utt15,Where is Leslie,fear,negative
+test-dia60_utt4,I guess I was just so worried about having to come here and do 'that',sadness,negative
+test-dia132_utt8,Remoray It’s Portuguese We need that information I’m a doctor,neutral,neutral
+test-dia176_utt0,Hey Ross this is one of my co stars Dirk Dirk this is my good friend Ross,neutral,neutral
+test-dia199_utt5,Ohh sweetie Hey I bet you anything that he’s gonna call you again,sadness,negative
+test-dia213_utt1,Yeah I was going for the metaphor,neutral,neutral
+test-dia25_utt6,Hey you guys Guess what,joy,positive
+test-dia268_utt10,Oh DAMN IT,anger,negative
+test-dia169_utt9,Hey,anger,negative
+test-dia232_utt9,Hi,sadness,negative
+test-dia240_utt15,Oh uh one of the writers,sadness,negative
+test-dia4_utt4,Oh no wait oh no the elastic on my underwear busted,neutral,neutral
+test-dia201_utt9,All right you have yourself a deal,neutral,neutral
+test-dia102_utt3,I don’t know I hardly ever say that about people,neutral,neutral
+test-dia161_utt9,So what do you say Can I be your girlfriend again,neutral,neutral
+test-dia262_utt7,Oh these are gonna go in my permanent collection,joy,positive
+test-dia174_utt16,Hey you don’t have to smile You just have to dance,neutral,neutral
+test-dia93_utt11,Joey Joey I I I’ll g get you your job back if you help me out,neutral,neutral
+test-dia260_utt8,Give me your hands Strings Gimme it Pick Do you want to learn to play guitar,anger,negative
+test-dia231_utt5,Hey,surprise,positive
+test-dia180_utt6,Second date,joy,positive
+test-dia224_utt0,You are falling fast asleep,neutral,neutral
+test-dia76_utt16,Ah Well There you go Last to know again And I'm guessing since nobody told me this is Paolo,joy,positive
+test-dia125_utt15,Ohh,neutral,neutral
+test-dia270_utt13,What you don't think they can hear sounds in there,joy,positive
+test-dia144_utt12,Stuart,anger,negative
+test-dia145_utt6,Well I heard that you thinking about asking Phoebe to move in with you and I thought maybe we should have a talk,neutral,neutral
+test-dia13_utt4,Actually it's it's quite y'know typical behaviour when you have this kind of dysfunctional group dynamic,neutral,neutral
+test-dia108_utt7,Eh Monica it it feels so weird y'know Chandler’s your friend Oh,surprise,positive
+test-dia144_utt9,Why,surprise,negative
+test-dia278_utt6,No there are great pictures of you standing next to a guy who’s going like this,neutral,neutral
+test-dia49_utt0,Hi,joy,positive
+test-dia60_utt2,oh oh yeah ok thanks,joy,positive
+test-dia200_utt0,I don’t get it,surprise,negative
+test-dia142_utt0,Well listen I ah still have one more person to ah meet but unless it turns out to be your sister I think you’re chances are pretty good,neutral,neutral
+test-dia17_utt19,Does Monica still turn on the lights in her bedroom,neutral,neutral
+test-dia168_utt12,Wait you guys think I stole some ring,surprise,negative
+test-dia76_utt0,Lucky sixes,neutral,neutral
+test-dia182_utt3,The charity's on fire,fear,negative
+test-dia255_utt8,Hey dad what's up Oh God Ross it's Nana,sadness,negative
+test-dia41_utt10,Okay y’know what you were right you were right,sadness,negative
+test-dia79_utt0,You know what this is this is us getting ready for the prom,neutral,neutral
+test-dia4_utt7,Look I know I feel asleep before I could shower and now I don’t have time,anger,negative
+test-dia208_utt8,What are you talking about alone What about Ross,surprise,negative
+test-dia126_utt2,I feel like we’re the only two people in the world Oops Sorry,joy,positive
+test-dia137_utt0,I’m full and yet I know if I stop eating this I’ll regret it,neutral,neutral
+test-dia204_utt5,She buys tickets for plays that I wanna see,anger,negative
+test-dia92_utt3,Laundry Huh Is that my new nickname,joy,positive
+test-dia193_utt0,Yes I made it,joy,positive
+test-dia223_utt5,Phoebe,joy,positive
+test-dia97_utt10,Sorry about that Thanks for waitin',neutral,neutral
+test-dia22_utt8,Because of the weekend we had a fight,sadness,negative
+test-dia252_utt4,“ I can begin to trust you again,anger,negative
+test-dia196_utt15,This is broken,anger,negative
+test-dia6_utt1,I don’t know exactly It’s it’s sorta like wrestling,neutral,neutral
+test-dia161_utt0,Do I know why we’re rushing,neutral,neutral
+test-dia195_utt1,But after I unpacked the boxes I wanted to do something nice for you so I I I cleaned the apartment,neutral,neutral
+test-dia156_utt7,Well now now you’re just talking crazy,joy,positive
+test-dia22_utt15,You deal with it and move on,joy,positive
+test-dia181_utt0,Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon,neutral,neutral
+test-dia29_utt3,Oh my god,surprise,positive
+test-dia154_utt20,Bye guys,neutral,neutral
+test-dia257_utt2,Hey look since we're neighbors and all what do you say we uh get together for a drink,neutral,neutral
+test-dia14_utt8,What are you doing,neutral,neutral
+test-dia199_utt10,And I I am just trying to figure out why,sadness,negative
+test-dia47_utt10,Hi,neutral,neutral
+test-dia231_utt0,I know,neutral,neutral
+test-dia17_utt26,Look sweetie I could be the bigger man I could be the biggest man I could be a big huge giant man and it still wouldn’t make any difference except that I could pick your Father up and say ‘Like me,anger,negative
+test-dia113_utt9,It's really a uh uh three person game y'know,neutral,neutral
+test-dia96_utt19,Oh um Chandler,neutral,neutral
+test-dia158_utt0,Did he call,neutral,neutral
+test-dia123_utt14,Okay well then we’ll both do it today and he’ll just have to deal with it,neutral,neutral
+test-dia64_utt13,Okay but the money’s good plus you get to stare at Rachel as much as you want,neutral,neutral
+test-dia177_utt2,To see if know what these guys are talking about,neutral,neutral
+test-dia217_utt7,I mean I don’t remember much about last night it was such a blur,neutral,neutral
+test-dia28_utt3,Sure I feel so bad for you I broke my leg once too,sadness,negative
+test-dia8_utt5,And uh maybe you have to get used to it,neutral,neutral
+test-dia85_utt5,Damn you 15s,anger,negative
+test-dia72_utt2,Okay wait,anger,negative
+test-dia136_utt0,Oh my God That is so good,joy,positive
+test-dia233_utt13,Um Done,neutral,neutral
+test-dia77_utt3,No it’s not You want it you’re gonna have to win it,anger,negative
+test-dia48_utt3,All right Let’s do it,joy,positive
+test-dia183_utt0,Can I help you,neutral,neutral
+test-dia167_utt2,How would you characterize the theme of this book uh let's see here Rachel Green,neutral,neutral
+test-dia228_utt4,Gunther y'know what I am a terrible waitress do you know why I’m a terrible waitress,anger,negative
+test-dia131_utt1,Hey,joy,positive
+test-dia195_utt8,Really,surprise,positive
+test-dia76_utt12,Well the cat the cat turned out to be Paolo's cat,neutral,neutral
+test-dia68_utt7,Is he romantic with her,joy,positive
+test-dia160_utt11,It’s like the end of an era,sadness,negative
+test-dia241_utt12,Really,surprise,positive
+test-dia73_utt0,Ross Ross Ross Ross Stay away from that guy and that guy And that one—Dude They’re all huge,fear,negative
+test-dia195_utt2,So I moved everything around and then I forgot where it where it went back and I'm sorry I'm very sorry I'm sorry I'm sorry,sadness,negative
+test-dia110_utt5,Y'know it's just gonna be the two of us she spent all day taking care of my monkey,neutral,neutral
+test-dia255_utt0,WHAT IS IT,anger,negative
+test-dia111_utt12,Shh He did it He told her off and not just about the kiss about everything,neutral,neutral
+test-dia125_utt4,Was she happy you gave her the job,neutral,neutral
+test-dia180_utt4,Whoo hoo,joy,positive
+test-dia242_utt6,Would you like to call somebody,neutral,neutral
+test-dia123_utt1,But,neutral,neutral
+test-dia180_utt9,I mean how needy is that,disgust,negative
+test-dia55_utt1,I mean you live alone you don't walk around naked,neutral,neutral
+test-dia223_utt6,If you would’ve let me finish it goes on to say that he’s probably not gay,neutral,neutral
+test-dia169_utt2,You can’t marry him,anger,negative
+test-dia42_utt4,Yeah like I could,neutral,neutral
+test-dia4_utt6,Oh wait Joey you can’t go like that You stink,disgust,negative
+test-dia202_utt1,Hey,joy,positive
+test-dia240_utt7,Oh anyway I just wanted to say how wonderful I think you are,joy,positive
+test-dia263_utt3,At the vet,neutral,neutral
+test-dia262_utt11,Ah which ever is closest,neutral,neutral
+test-dia12_utt10,Well we are fond of the silliness but we also have a soft spot for the love,neutral,neutral
+test-dia2_utt3,Okay go left Left Left,surprise,negative
+test-dia60_utt6,It was a "Wendy's ",anger,negative
+test-dia68_utt0,Come on Joey,anger,negative
+test-dia147_utt5,Come on I'll only use my left hand huh,anger,negative
+test-dia231_utt9,Okay good good good ‘cause good ‘cause I was kinda having second thoughts too,fear,negative
+test-dia210_utt0,Chandler we said we would meet at the coffeehouse at six,anger,negative
+test-dia68_utt2,Look it's not that big of a deal so Monica and Chandler are doing it,neutral,neutral
+test-dia113_utt16,Baking it didn't help huh,neutral,neutral
+test-dia147_utt3,Yeah get out,anger,negative
+test-dia97_utt2,Aw come on It'll be years before I forget you,neutral,neutral
+test-dia188_utt4,Peaches,neutral,neutral
+test-dia118_utt11,Well the heart wants what it wants I’ll see you later,neutral,neutral
+test-dia245_utt2,What what are what are these,surprise,negative
+test-dia173_utt16,I will,sadness,negative
+test-dia132_utt17,Thank you,neutral,neutral
+test-dia228_utt1,Can’t I just look at the handles on them,neutral,neutral
+test-dia249_utt4,How does that sound,neutral,neutral
+test-dia227_utt1,Monica number one I don’t think Ben understands the concept of bribery and number two I What,surprise,negative
+test-dia205_utt6,I feel violated And not in a good way,disgust,negative
+test-dia181_utt5,You talked to him Are you crazy,surprise,negative
+test-dia160_utt9,I did not cry my eyes out,anger,negative
+test-dia184_utt2,There’s nothing sexual about this,anger,negative
+test-dia254_utt8,For the ride,neutral,neutral
+test-dia138_utt0,Okay is this lamp in the same place,neutral,neutral
+test-dia226_utt1,Good,joy,positive
+test-dia125_utt21,I’m sorry Joey,sadness,negative
+test-dia243_utt3,Okay very cute braces Anyway y’know what the,neutral,neutral
+test-dia169_utt8,Oh my God,surprise,negative
+test-dia175_utt2,Okay Oh wait Umm did you send those contracts to Milan,surprise,positive
+test-dia204_utt6,She she buys clothes from stores that I'm intimidated by the sales people,anger,negative
+test-dia203_utt7,I mean you definitely should do that,neutral,neutral
+test-dia33_utt9,Oh my god I am losing my mind,anger,negative
+test-dia72_utt16,OH MY GAWD,surprise,positive
+test-dia67_utt3,It's okay to laugh right,joy,positive
+test-dia234_utt3,Hot coffee,surprise,negative
+test-dia260_utt5,Yeah listen so I thought I was getting better so on my way home today I stopped by this guitar store and,neutral,neutral
+test-dia185_utt3,Hey Ross Listen do you want to go see that new Imax movie on tide pools,joy,positive
+test-dia254_utt10,Save it,neutral,neutral
+test-dia99_utt0,What ‘cha doing,neutral,neutral
+test-dia77_utt0,Okay where in the hell did you get that,surprise,negative
+test-dia154_utt1,Hi,joy,positive
+test-dia68_utt10,I don't know,neutral,neutral
+test-dia126_utt10,I came with Paul,anger,negative
+test-dia53_utt10,Like like umm regular coffee Tequila,neutral,neutral
+test-dia124_utt12,I had to have one last kiss and also also you said that you were going to leave right after I got on the plane,sadness,negative
+test-dia17_utt3,Ewww Oh It’s the Mattress King,disgust,negative
+test-dia18_utt0,Okay now Joey y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear,neutral,neutral
+test-dia254_utt2,Yeah save it for the cab okay,disgust,negative
+test-dia81_utt0,So he’s just a nice guy You really think this Mark doesn’t want anything in exchange for helping him,joy,positive
+test-dia113_utt6,He's a dropper,anger,negative
+test-dia140_utt3,You should make something happen for yourself,neutral,neutral
+test-dia39_utt1,I thought he was with you,neutral,neutral
+test-dia9_utt0,Coming through Oh Coming through Oh Hello Hi No Right Coming through,fear,negative
+test-dia90_utt2,Good day for married people huh,surprise,negative
+test-dia226_utt7,Hi honey,neutral,neutral
+test-dia100_utt11,All right,neutral,neutral
+test-dia166_utt9,I I’ll go tell her now before Ross finds out and I’ll be gentle,neutral,neutral
+test-dia98_utt5,Who am I gonna meet in a blackout,anger,negative
+test-dia99_utt9,Noo Oh it’s okay it’s okay baby baby baby,fear,negative
+test-dia171_utt7,No Year Happy No Year,joy,positive
+test-dia252_utt17,What the hell happened on that beach,surprise,negative
+test-dia58_utt5,Oh I can’t Dr Roger is coming over again,neutral,neutral
+test-dia109_utt0,You know ever since I was little I've been able to pick up quarters with my toes,joy,positive
+test-dia84_utt2,Well I I got this blinding pain in my stomach when I was lifting weights before then I uh passed out and uh haven’t been able to stand up since,sadness,negative
+test-dia103_utt1,Hey,neutral,neutral
+test-dia17_utt29,Rachel one brunch is not gonna solve anything You gotta face it okay we’re never gonna get along,anger,negative
+test-dia21_utt0,So um have you told your parents,neutral,neutral
+test-dia239_utt4,Y'know what Gunther go ah go ahead I’m I’m talking to ah This is the part where you say your name,neutral,neutral
+test-dia48_utt5,Yeah cheerie o,joy,positive
+test-dia244_utt3,Hey,neutral,neutral
+test-dia76_utt10,Oh Italy I think,neutral,neutral
+test-dia9_utt12,Isn’t that mine,neutral,neutral
+test-dia107_utt2,Do you still have that um Navy uniform,joy,positive
+test-dia237_utt5,Eight and a half hours of aptitude tests intelligence tests personality tests and what do I learn,disgust,negative
+test-dia99_utt8,Wait Give him a minute,neutral,neutral
+test-dia279_utt2,You stole them from me,anger,negative
+test-dia45_utt8,I’ll get everybody else finally we can start celebrating my— I’m sorry uh apparently I’ve opened the door to the past,neutral,neutral
+test-dia161_utt6,Oh thank you Hey hey Rachel,joy,positive
+test-dia197_utt2,Are you Phoebe Buffay,neutral,neutral
+test-dia5_utt7,What a coincidence I listen in my sleep,neutral,neutral
+test-dia52_utt6,Yeah but when the baby comes she’s gonna want to move,neutral,neutral
+test-dia137_utt11,That’s what Monica said,neutral,neutral
+test-dia166_utt12,Oh by the way,neutral,neutral
+test-dia20_utt6,No No Joey U N I sex,joy,positive
+test-dia208_utt13,I just never thought I would raise this baby all by myself Pretty dumb huh,sadness,negative
+test-dia244_utt20,Oh really,surprise,positive
+test-dia12_utt7,Do you really want to throw that all away over a room,sadness,negative
+test-dia56_utt7,Sweetie that’s it,joy,positive
+test-dia29_utt12,Oh my maple candy,joy,positive
+test-dia256_utt1,Oh yeah um alright I kinda need a divorce,neutral,neutral
+test-dia48_utt4,Woo hoo,joy,positive
+test-dia169_utt6,I can and I will,anger,negative
+test-dia30_utt1,Oh God crazy Chandler He spun me off the bed,joy,positive
+test-dia169_utt21,Oh my God I know who the father is,surprise,negative
+test-dia173_utt6,Okay,surprise,negative
+test-dia132_utt7,Dr Drake who,neutral,neutral
+test-dia97_utt4,Do you have a dressing room,neutral,neutral
+test-dia76_utt2,Hi,neutral,neutral
+test-dia163_utt1,Oh come on,disgust,negative
+test-dia276_utt0,Hey,neutral,neutral
+test-dia230_utt8,Ewww,disgust,negative
+test-dia5_utt0,You’re coming on to the entire room I’m Chandler,anger,negative
+test-dia29_utt8,There's a forest right outside,neutral,neutral
+test-dia25_utt7,Got a job on a river boat,neutral,neutral
+test-dia70_utt20,Hey Guys this is Tabatha I'll see you tomorrow,neutral,neutral
+test-dia173_utt11,No no it’s not okay,sadness,negative
+test-dia54_utt10,Oh come on,sadness,negative
+test-dia111_utt3,You kissed my best Ross Or something to that effect,anger,negative
+test-dia43_utt3,Somebody seems to be missing being the hostess,neutral,neutral
+test-dia152_utt3,Your not doing it,neutral,neutral
+test-dia243_utt4,So when do you imagine you gave them to me In the morning or in the afternoon,anger,negative
+test-dia178_utt0,Pheebs how’s it going,neutral,neutral
+test-dia118_utt5,Ohh I’m sorry,sadness,negative
+test-dia218_utt2,Chandler,neutral,neutral
+test-dia204_utt4,Look at this look,anger,negative
+test-dia170_utt0,Oh my God you’re back,surprise,positive
+test-dia68_utt5,No I mean come on This is a,anger,negative
+test-dia97_utt8,Uh oh,fear,negative
+test-dia203_utt6,Yeah,joy,positive
+test-dia198_utt0,I think she took it pretty well You know Paolo's over there right now so,neutral,neutral
+test-dia169_utt20,The guy left this,neutral,neutral
+test-dia174_utt11,Is that Mark,neutral,neutral
+test-dia192_utt6,You guys I’m sorry could you please talk a little slower,neutral,neutral
+test-dia261_utt0,Really You'd you'd do that for me,surprise,positive
+test-dia175_utt16,Y’know what Tag if we went down to the office you would see those contracts sitting on your desk,anger,negative
+test-dia223_utt4,Check it out Okay I can play this when the guests are coming in Okay,neutral,neutral
+test-dia227_utt0,Okay Ben I won’t tell your daddy that you had ice cream for dinner if you don’t tell about our little bonking incident,fear,negative
+test-dia108_utt8,Oh my God,surprise,positive
+test-dia246_utt9,I gave you my,neutral,neutral
+test-dia87_utt1,No but he told me he thinks your a fox,neutral,neutral
+test-dia28_utt2,Could you press up too please,neutral,neutral
+test-dia68_utt13,What,joy,positive
+test-dia196_utt11,Ask again later,neutral,neutral
+test-dia167_utt4,Well that's sort of a given but yes Anyone else,neutral,neutral
+test-dia208_utt11,I’m just saying that y’know someday Ross is gonna meet somebody and he’s gonna have his own life Right,sadness,negative
+test-dia100_utt4,Okay after I get rid of this dirty diaper Leslie I’ll set you up with a clean one,neutral,neutral
+test-dia71_utt13,I tell ya that has never happened before,fear,negative
+test-dia15_utt3,Bye,neutral,neutral
+test-dia255_utt3,Oh oh a quality good because I was worried you guys were gonna be vague about this,neutral,neutral
+test-dia34_utt13,Y’know what You are right,surprise,positive
+test-dia144_utt14,So it’s really a question of,neutral,neutral
+test-dia163_utt6,Ohh yeah she really would’ve wanted to be there,sadness,negative
+test-dia98_utt0,Wow this is so cool you guys The entire city is blacked out,surprise,positive
+test-dia154_utt5,Hey where where are the pictures that creepy pretzel vendor took of us together,neutral,neutral
+test-dia196_utt0,Okay that's it I cannot make this decision It is,anger,negative
+test-dia88_utt9,Noo way Kevin,joy,positive
+test-dia42_utt6,I played bad on purpose guys,joy,positive
+test-dia164_utt3,So you heard it you repeated it so that must mean you wrote it,neutral,neutral
+test-dia12_utt12,That’s laughter,joy,positive
+test-dia69_utt4,I know we both said some things we didn't mean but that doesn't mean we still don't love each other,neutral,neutral
+test-dia71_utt6,Hey right,surprise,positive
+test-dia154_utt12,Wow it looks like a like a holiday card y’know with the tree in the middle and the skaters and the snow,joy,positive
+test-dia244_utt11,Two,neutral,neutral
+test-dia198_utt5,What now,surprise,negative
+test-dia167_utt16,Okay then,neutral,neutral
+test-dia229_utt1,I know Yeah his name is Pat,neutral,neutral
+test-dia167_utt10,What do you think You in the blue shirt,neutral,neutral
+test-dia58_utt10,I mean I remember a time when,sadness,negative
+test-dia11_utt2,So I’m gonna go through the hotel and see if there’s any other weddings going on,neutral,neutral
+test-dia32_utt12,Yeah no it was great,joy,positive
+test-dia178_utt6,When you’re done over there we kinda have a situation over here too,fear,negative
+test-dia56_utt5,Come on Come on Here okay okay you see this This tiny thing that looks like a peanut,joy,positive
+test-dia39_utt8,Honey it isn’t good luck,neutral,neutral
+test-dia16_utt9,Because your all gonna make up fake specials and make me cook them like you did the other night,anger,negative
+test-dia147_utt9,One more game,neutral,neutral
+test-dia134_utt0,What happened,surprise,negative
+test-dia162_utt5,DO YOU,anger,negative
+test-dia253_utt5,Oh by the way that is her full name,neutral,neutral
+test-dia88_utt4,Folks has this ever happened to you,neutral,neutral
+test-dia261_utt5,And it can't be Joey,neutral,neutral
+test-dia160_utt2,Is that too much to ask after six years,anger,negative
+test-dia226_utt3,Y’know I wish I could get him to open up a little bit share some feelings,sadness,negative
+test-dia74_utt4,My mom never gave birth Oh But my birth mom did,neutral,neutral
+test-dia175_utt12,Those contracts absolutely had to go out today,anger,negative
+test-dia32_utt6,Oh okay Well so tell me everything about my parents Everything,neutral,neutral
+test-dia168_utt2,Uh okay and then you buzz Ross and I,neutral,neutral
+test-dia43_utt6,Oh,neutral,neutral
+test-dia27_utt0,Hi,joy,positive
+test-dia9_utt9,Oh it’s bad It’s really bad The only thing in there that isn’t burned is an ass Which I do,sadness,negative
+test-dia221_utt4,Yeah I know I'm I'm just not that bright either,sadness,negative
+test-dia244_utt0,Phoebe she doesn’t know that you sneak out every night she doesn’t know that you sneak back every morning and she doesn’t know that you’ve been living with your Grandmother’s for a week now,neutral,neutral
+test-dia233_utt11,Good good good good good,joy,positive
+test-dia168_utt8,Where’s my ring My dead grandmother’s wedding ring Where is it Where is it,fear,negative
+test-dia70_utt3,No where did you study acting,neutral,neutral
+test-dia69_utt3,Oh c'mon Dora don't be mad,neutral,neutral
+test-dia249_utt0,Eh,joy,positive
+test-dia213_utt2,Yes and I was saying the actual words,neutral,neutral
+test-dia173_utt15,Y’know I’m just gonna—I I am gonna make this up to you,joy,positive
+test-dia44_utt0,Whose is it,neutral,neutral
+test-dia47_utt2,No more J and C’s,sadness,negative
+test-dia233_utt1,Honey if you wanted to do that you might as well just gotten him a fish you know how fish freaked me out,disgust,negative
+test-dia232_utt4,Yeah I don't think he's up to meeting everyone yet,neutral,neutral
+test-dia7_utt8,What My hands are totally clean I just gave the duck a bath,neutral,neutral
+test-dia252_utt11,I mean no you’re right,sadness,negative
+test-dia190_utt4,Hey you know who used to have nails like that,neutral,neutral
+test-dia156_utt11,And the way she looked at me pure lust,joy,positive
+test-dia108_utt3,I mean if you buy a bed from Janice’s ex husband that’s like betraying Chandler,anger,negative
+test-dia174_utt1,Well then he’s he’s probably just out,neutral,neutral
+test-dia129_utt0,All right let's do it,joy,positive
+test-dia22_utt0,Hey,joy,positive
+test-dia274_utt2,Yeah are you just going down there to gawk at that hot girl with the belly button ring again,anger,negative
+test-dia111_utt14,No no He said "When are you gonna grow up and start being a mom",neutral,neutral
+test-dia246_utt1,That’s just the way it is,neutral,neutral
+test-dia203_utt4,Because I think about shaving it all off again sometime,neutral,neutral
+test-dia203_utt8,Y'know what I should do it,joy,positive
+test-dia244_utt6,Well let’s see there was the guy with the ferrets that’s plural,disgust,negative
+test-dia155_utt2,Is this about Mark,neutral,neutral
+test-dia83_utt0,Well my apartment isn’t there anymore because I drank it,neutral,neutral
+test-dia133_utt8,Oh my God,surprise,positive
+test-dia150_utt3,You can’t leave I have your shoe,sadness,negative
+test-dia134_utt3,Stupid useless Canadian money,anger,negative
+test-dia71_utt2,My whole family’s from Naples,joy,positive
+test-dia244_utt19,Oh better actually Y'know I I I think I finally figured out why we were having so much trouble lately,neutral,neutral
+test-dia68_utt6,I don't know,neutral,neutral
+test-dia278_utt15,Chandler what do you say,neutral,neutral
+test-dia182_utt2,Hey,anger,negative
+test-dia203_utt12,All right,neutral,neutral
+test-dia260_utt10,Then don't touch one,anger,negative
+test-dia99_utt4,Are you sure,neutral,neutral
+test-dia15_utt1,Oh yeah Well maybe you and I should take a walk through a bad neighborhood,joy,positive
+test-dia123_utt15,Okay But the question is who’s gonna go first ‘Cause whoever goes second is the bitch,sadness,negative
+test-dia156_utt1,Oh uh as it turns out we can’t do it Monica has to work,joy,positive
+test-dia53_utt8,Wait a minute,surprise,positive
+test-dia252_utt3,But this break up was not all my fault and she she says here “If you accept full responsibility ” Full responsibility,anger,negative
+test-dia274_utt3,Yeah You wanna come,joy,positive
+test-dia179_utt2,Uh what was that,surprise,negative
+test-dia214_utt6,Hey,joy,positive
+test-dia259_utt14,It’s your joke,neutral,neutral
+test-dia132_utt3,I think I know who you’re talking about,neutral,neutral
+test-dia181_utt4,Hey oh you know that guy who's been following me I talked to him today,neutral,neutral
+test-dia16_utt8,Because we can remember them,neutral,neutral
+test-dia38_utt0,Guess what I got an audition,joy,positive
+test-dia41_utt7,All right well I’m gonna put my sweats back on,neutral,neutral
+test-dia85_utt1,This sounds like a hernia You have to—you you—Go to the doctor,surprise,negative
+test-dia259_utt11,You shouldn’t be arguing over who gets credit you should be arguing over who gets blamed for inflicting this horrible joke upon the world,anger,negative
+test-dia71_utt5,Oh,surprise,positive
+test-dia83_utt5,Ow no ‘woo hooing’ no ‘woo hooing’,anger,negative
+test-dia93_utt9,Wayne Chandler,neutral,neutral
+test-dia110_utt4,Well I think it's perfect,joy,positive
+test-dia200_utt3,Shh,anger,negative
+test-dia132_utt2,And umm he’s like early to mid thirties very attractive,neutral,neutral
+test-dia107_utt8,Well honey what about you,neutral,neutral
+test-dia199_utt6,Yeah maybe but I don’t think I even care,sadness,negative
+test-dia255_utt2,Yes Absolutely A quality,neutral,neutral
+test-dia41_utt6,No I don’t,disgust,negative
+test-dia229_utt0,Ohh I mean it’s just so realistic,joy,positive
+test-dia132_utt16,816 thank you,joy,positive
+test-dia210_utt3,The only way that I said six would be if the seven’s let meet at seven not at six,neutral,neutral
+test-dia22_utt5,What,neutral,neutral
+test-dia95_utt18,Something to think about,neutral,neutral
+test-dia45_utt3,Really,surprise,positive
+test-dia101_utt0,Hey,joy,positive
+test-dia213_utt0,No I’m afraid I won’t be able to make love as well as him,anger,negative
+test-dia273_utt2,Joey Joey Tribbiani,neutral,neutral
+test-dia17_utt23,So I’ll invite him to brunch tomorrow and you can make nice,neutral,neutral
+test-dia233_utt3,It wouldn't have mattered anyway Phoebe you and I are are gonna live together we're roommates; that's the deal,neutral,neutral
+test-dia201_utt10,Okay See I told ya,surprise,positive
+test-dia253_utt6,Oh wow I’m free for her,joy,positive
+test-dia156_utt6,What’s going on Bing Does uh your wife have a problem with me or something,anger,negative
+test-dia232_utt0,So Chandler have you heard about Monica's secret boyfriend,neutral,neutral
+test-dia244_utt18,Umm how’s it going with you guys,neutral,neutral
+test-dia209_utt1,I just found out this is Chandler’s office Come on Toby give me a hand,joy,positive
+test-dia92_utt2,I'll just tell Rachel I'm gonna be doing laundry for a couple of hours,neutral,neutral
+test-dia34_utt15,There shouldn’t be all this rules and restrictions,anger,negative
+test-dia272_utt0,and that was all before 10 o’clock,neutral,neutral
+test-dia80_utt4,That’s not true,anger,negative
+test-dia65_utt8,Bye Gene,neutral,neutral
+test-dia161_utt3,Oh I found it,joy,positive
+test-dia70_utt1,So where did you study,neutral,neutral
+test-dia17_utt22,All right look here’s the bottom line Ross this is fixable if we act fast okay,neutral,neutral
+test-dia201_utt8,Oh yeah If I can’t I’ll knock five bucks off the price off the unit,anger,negative
+test-dia127_utt5,I’m sorry I had to take such drastic measures to make my point but I—look I just want you guys to be safe,neutral,neutral
+test-dia127_utt2,Ohh,neutral,neutral
+test-dia188_utt6,Could've been a peach,neutral,neutral
+test-dia130_utt16,Earl Grey,neutral,neutral
+test-dia99_utt5,I don’t know Should we try it,neutral,neutral
+test-dia2_utt10,You got it,neutral,neutral
+test-dia2_utt1,Ross didn't you say that there was an elevator in here,neutral,neutral
+test-dia93_utt3,Hey Joey I want to talk to you,neutral,neutral
+test-dia111_utt2,Alright well be good I love you,joy,positive
+test-dia58_utt14,I bet he can,neutral,neutral
+test-dia5_utt8,So why don’t you give me your number,neutral,neutral
+test-dia54_utt7,Crack isn’t even an intravenous drug,anger,negative
+test-dia210_utt5,Hi,joy,positive
+test-dia259_utt5,Plus I’m a doctor and I had a monkey,neutral,neutral
+test-dia168_utt5,Did anybody call for security,neutral,neutral
+test-dia130_utt6,If anyone asks we’ll just say Ben addressed them Oh So you invited Rachel then,surprise,positive
+test-dia174_utt10,Is it okay if I finish the apple juice,neutral,neutral
+test-dia234_utt9,Umm going to the beach When it stays light real late,neutral,neutral
+test-dia6_utt2,Oh,surprise,negative
+test-dia252_utt12,Yeah I guess I’ll let it go,neutral,neutral
+test-dia234_utt13,Ooh I don’t know Probably the smell of freshly cut grass,neutral,neutral
+test-dia268_utt13,Ok,neutral,neutral
+test-dia53_utt6,Because she’s not gonna get to keep the babies,sadness,negative
+test-dia140_utt15,Yeah I'll make up a schedule and make sure you stick to it,neutral,neutral
+test-dia254_utt5,Joey get out of the fridge,anger,negative
+test-dia141_utt0,Soo ah Eric what kind of photography do ya do,neutral,neutral
+test-dia9_utt13,Fine I’m sorry for your loss,anger,negative
+test-dia110_utt8,Hey y'know what you should do You should take her back to the 1890's when that phrase was last used,disgust,negative
+test-dia73_utt7,Whoa I kinda liked it,joy,positive
+test-dia133_utt11,Whoa What Why,surprise,negative
+test-dia168_utt11,There was a ring in a box on my nightstand after you left it was gone,anger,negative
+test-dia58_utt0,Hey,joy,positive
+test-dia217_utt9,And we didn’t have sex,neutral,neutral
+test-dia257_utt4,Ben Ben Ben,joy,positive
+test-dia83_utt9,I can’t remember which sister,sadness,negative
+test-dia146_utt4,What Over a stupid room,surprise,negative
+test-dia130_utt11,Wait wait wait do you do you think maybe we shouldn’t invite her,fear,negative
+test-dia204_utt0,Oh Monica You are not still going over that thing,sadness,negative
+test-dia183_utt4,All all right well make sure you tell him that Joey Tribbiani stopped by to drop off all of these clothes,neutral,neutral
+test-dia185_utt5,No But I got Knicks tickets for you me and Chandler,neutral,neutral
+test-dia23_utt0,Hi,joy,positive
+test-dia214_utt2,You just ahh you just need more practice,neutral,neutral
+test-dia3_utt0,Oh okay I get it,neutral,neutral
+test-dia259_utt7,I’m not arguing with that,neutral,neutral
+test-dia279_utt5,You just wanna each take one,neutral,neutral
+test-dia17_utt31,Because I already got a Mother and a Father who cannot stay in the same room together okay I don’t wanna have to have a separate room for you too,anger,negative
+test-dia17_utt16,I’m I’m freaking out,fear,negative
+test-dia204_utt8,You're not an artist,neutral,neutral
+test-dia109_utt2,By the way Chandler I cut you out of all my pictures So if you want I have a bag with just your heads,anger,negative
+test-dia63_utt1,Hey,neutral,neutral
+test-dia183_utt7,Y’know there are two people who could put your picture up there,neutral,neutral
+test-dia233_utt8,Oh anyway they say if we want we can see it tonight,neutral,neutral
+test-dia25_utt15,Yeah Oh Was how you invented the cotton gin,neutral,neutral
+test-dia111_utt6,Really stupid,sadness,negative
+test-dia39_utt2,He he was with me umm we’re playing a little game y’know Hide and seek,neutral,neutral
+test-dia18_utt2,Okay it's missing something Ooh I know Umm okay,neutral,neutral
+test-dia75_utt0,Umm thank you for meeting with me,neutral,neutral
+test-dia261_utt1,Yeah,joy,positive
+test-dia268_utt2,Oh I can't believe my sperm have low motility because let me tell you when I was growing up they sure seem to be in a hurry to get places,surprise,negative
+test-dia187_utt1,Well umm that one is pretty but uh I just I just love this fabric Sorry,neutral,neutral
+test-dia233_utt7,We did,joy,positive
+test-dia173_utt14,You went through all this time and effort to make this tape for me,sadness,negative
+test-dia64_utt7,Here you go,neutral,neutral
+test-dia1_utt2,Push 'em out push 'em out harder harder,joy,positive
+test-dia45_utt5,Thanks Mon,joy,positive
+test-dia78_utt4,Hi,neutral,neutral
+test-dia251_utt0,Wow,surprise,positive
+test-dia25_utt4,Ow,anger,negative
+test-dia149_utt0,Ohhh Don’t go,sadness,negative
+test-dia95_utt2,You chipped in,surprise,positive
+test-dia189_utt3,Hey,joy,positive
+test-dia266_utt5,Okay Rach before anything happens I just want to lay down a couple of ground rules,neutral,neutral
+test-dia134_utt2,Ohh man Chicago is sooo lucky,joy,positive
+test-dia154_utt19,Uh sure sure,neutral,neutral
+test-dia46_utt2,Down at the heel holes in the toes,joy,positive
+test-dia216_utt1,I can’t believe you’re getting married,joy,positive
+test-dia122_utt2,I don't know,neutral,neutral
+test-dia147_utt1,Where are you guys going Come on one more game,surprise,negative
+test-dia124_utt14,Well I then guess I’m going to Yemen I’m going to Yemen When we get to Yemen can I stay with you,joy,positive
+test-dia174_utt9,Nobody,neutral,neutral
+test-dia191_utt2,Well as old as he is in dog years do you think Snoopy should still be allowed to fly this thing,sadness,negative
+test-dia60_utt1,Oh Chandler look You and Monica are meant to have children I am sure it's gonna be just fine,neutral,neutral
+test-dia138_utt2,No no no no no no no no You can't come in here R r r r Ross is naked,surprise,negative
+test-dia17_utt9,And four ninety nine for a pillow top queen set who cares about the divorce those babies will sell themselves,anger,negative
+test-dia17_utt11,You had to do it didn’t you You couldn’t just leave it alone,sadness,negative
+test-dia107_utt5,I think I have an old band uniform from high school,joy,positive
+test-dia118_utt0,I’m sorry Chandler y’know you are such a sweet guy and I I don’t want to hurt you,sadness,negative
+test-dia196_utt2,Ooh it's not a toy,anger,negative
+test-dia127_utt1,A lesson in the importance of unagi,neutral,neutral
+test-dia258_utt1,No still too ethnic My agent thinks I should have a name that's more neutral,neutral,neutral
+test-dia201_utt5,Yeah,neutral,neutral
+test-dia157_utt6,Oh oh thanks Alright well now that I'm up I'm going to go to the bathroom,neutral,neutral
+test-dia160_utt7,I mean we we told Joey he cried his eyes out,sadness,negative
+test-dia197_utt0,Excuse me,neutral,neutral
+test-dia145_utt5,What's up,neutral,neutral
+test-dia240_utt14,Who told you that,surprise,negative
+test-dia156_utt15,Oh no no no Monica would freak But to hell with that bitch,anger,negative
+test-dia73_utt6,Hi,neutral,neutral
+test-dia3_utt4,Okay fine whatever Welcome to the building,anger,negative
+test-dia244_utt16,What,neutral,neutral
+test-dia244_utt4,I’m never gonna find a roommate ever,sadness,negative
+test-dia174_utt8,Who’s that,surprise,negative
+test-dia196_utt9,Here we go,neutral,neutral
+test-dia3_utt2,Howard's the,neutral,neutral
+test-dia132_utt15,He’s in room 816,neutral,neutral
+test-dia28_utt7,Let’s just say there was a typographical error with a sex manual,joy,positive
+test-dia61_utt2,Like you I don’t even know where you work,surprise,positive
+test-dia112_utt12,Oh excuse me I think you dropped s Wow,surprise,positive
+test-dia26_utt0,Hey I got one I got one,joy,positive
+test-dia95_utt7,This way I'm just y'know the exotic generous stranger,joy,positive
+test-dia223_utt0,Chandler It happens to lots of guys You you you were probably tired you had a lot of champagne don’t worry about it,sadness,negative
+test-dia246_utt2,That’s crazy,surprise,negative
+test-dia45_utt1,I’m sorry but I just wrote the best dance song for your wedding Check this out,neutral,neutral
+test-dia232_utt2,So Mon when are we gonna meet this new secret waiter man,neutral,neutral
+test-dia262_utt3,Wow You’re a lot sturdier that Chandler He crumpled like a piece of paper So how was you’re trip,surprise,positive
+test-dia278_utt14,Yeah that’s great Next to that Chandler won’t look so stupid,neutral,neutral
+test-dia107_utt10,I mean do you have any fun you know fantasy type things,neutral,neutral
+test-dia120_utt1,Okay I was thinking we should have a beautiful guest room right,neutral,neutral
+test-dia129_utt1,No no no What was that,surprise,negative
+test-dia223_utt3,Which is funny because in high school I uh I I failed Biology and tonight Biology failed me,fear,negative
+test-dia196_utt8,Okay then,neutral,neutral
+test-dia192_utt1,No you said the baby creeps you out,neutral,neutral
+test-dia201_utt6,It was funny ‘til I started feeling like I was in a coffin,neutral,neutral
+test-dia192_utt4,Why would the baby creep me out,anger,negative
+test-dia39_utt9,Oh my God Monica,surprise,positive
+test-dia184_utt12,Yes,neutral,neutral
+test-dia48_utt1,Okay okay but Rachel’s gonna be here too can’t I just ask her this stuff,neutral,neutral
+test-dia132_utt6,Uh she’s with me Dr Drake Remoray,neutral,neutral
+test-dia160_utt5,I mean do we not have as much fun,anger,negative
+test-dia27_utt1,Hi,neutral,neutral
+test-dia118_utt3,Of course,joy,positive
+test-dia240_utt2,What are you going to do Kill him Like you did with Charles,anger,negative
+test-dia158_utt6,Awkward Why should he feel awkward,surprise,negative
+test-dia174_utt6,Really I’ve been thinking this is crazy I mean don’t don’t you think we can work on this,sadness,negative
+test-dia129_utt4,People people people,neutral,neutral
+test-dia76_utt15,Oh I found him He was Paolo's cat,neutral,neutral
+test-dia118_utt9,This actor friend and he would kill me if he thought I was doing this umm but umm would it be possible for him to get an audition for your movie say on Thursday,fear,negative
+test-dia32_utt9,The three losers,sadness,negative
+test-dia54_utt4,And based on the fact that Mr Geller is intravenous drug user,neutral,neutral
+test-dia259_utt0,Are you kidding,surprise,negative
+test-dia147_utt0,Shut out,surprise,negative
+test-dia68_utt14,They did it right there on the couch,neutral,neutral
+test-dia83_utt1,Where’d you get too We lost you after you opened up all the presents,neutral,neutral
+test-dia260_utt2,Even when I found out umm all right well let's just say I found something out something about someone and let's just say she's gonna keep it,neutral,neutral
+test-dia96_utt20,Y'know the the old Monica would would remind you to scrub that Teflon pan with a plastic brush But I'm not gonna do that,neutral,neutral
+test-dia175_utt19,You wanna go down to the office right now,neutral,neutral
+test-dia278_utt12,Hey why don’t you guys go get portraits done by a professional photographer,neutral,neutral
+test-dia58_utt3,Hey check me out I’m a slut,joy,positive
+test-dia238_utt1,Well that doesn't mean she can't look nice,sadness,negative
+test-dia203_utt9,Yeah,joy,positive
+test-dia168_utt3,You be Mr Gonzalez and I’ll be uh Mr Wong,neutral,neutral
+test-dia240_utt3,Oh my baby,sadness,negative
+test-dia148_utt0,I’m sorry,sadness,negative
+test-dia34_utt14,I mean sex does not have to be a big deal,anger,negative
+test-dia82_utt0,How ya feelin’,neutral,neutral
+test-dia140_utt5,Write a movie,joy,positive
+test-dia54_utt8,Well you would know,neutral,neutral
+test-dia165_utt2,What is it,surprise,negative
+test-dia110_utt7,Anyway I figured after work I'd go pick up a bottle of wine go over there and uh try to woo her,joy,positive
+test-dia120_utt5,Well I like that idea,joy,positive
+test-dia169_utt22,People have got to finish their stories,anger,negative
+test-dia235_utt0,OK try this salmon mousse,neutral,neutral
+test-dia244_utt21,Yeah y'know how I have you guys well she doesn’t really have any close friends that are just hers but last week she meet this woman at the gym Susan something and they really hit it off and I I I think it’s gonna make a difference,joy,positive
+test-dia129_utt5,Let's try it again and this time let's watch everybody watch Joey,neutral,neutral
+test-dia185_utt6,Sweet,joy,positive
+test-dia224_utt5,You don’t need to smoke,neutral,neutral
+test-dia0_utt1,Oh That’s so Monica can keep track That way if one on them is missing she can be like ‘Where’s number 27’,anger,negative
+test-dia9_utt10,How’s your room Rach,neutral,neutral
+test-dia110_utt1,Well I added the 'exactly like me' part,neutral,neutral
+test-dia270_utt6,Kinda like a big face without skin,neutral,neutral
+test-dia12_utt16,Yeah I do,neutral,neutral
+test-dia204_utt9,Yeah well I might be if I had the supplies I mean I could do all this stuff Only I don't,anger,negative
+test-dia96_utt2,Whaddya think Today's the big day,joy,positive
+test-dia155_utt7,Let’s ah let’s take a break let’s cool off okay let’s get some frozen yoghurt or something,neutral,neutral
+test-dia203_utt11,Awww stop Come on Now go shave that head,neutral,neutral
+test-dia64_utt15,Flexible hours,neutral,neutral
+test-dia130_utt14,More tea,neutral,neutral
+test-dia160_utt6,Don’t I deserve a few tears,sadness,negative
+test-dia124_utt4,Oh Well I’ll right you everyday 15 Yemen Road Yemen,neutral,neutral
+test-dia107_utt7,Yeah,sadness,negative
+test-dia22_utt7,Why exactly,surprise,negative
+test-dia183_utt1,Uh yeah where where’s the guy who decides who’s pictures go up on the wall,neutral,neutral
+test-dia29_utt5,There's something new in the bowl,surprise,positive
+test-dia153_utt6,Right,neutral,neutral
+test-dia262_utt5,Oh what’d ya bring me,joy,positive
+test-dia244_utt15,Sure your dresser is missing but this she notices,anger,negative
+test-dia69_utt2,Who's he sleeping with,neutral,neutral
+test-dia233_utt0,Did you get all this stuff for Joey to try and drive me out of the apartment,anger,negative
+test-dia184_utt11,Are you sure,surprise,positive
+test-dia189_utt4,Okay,neutral,neutral
+test-dia96_utt1,For what,neutral,neutral
+test-dia100_utt16,Well you can’t answer,neutral,neutral
+test-dia90_utt1,She is not She’s gay Oh my God She is,anger,negative
+test-dia152_utt2,Yeah yeah You can do it to,surprise,positive
+test-dia266_utt16,No No No No no no no,joy,positive
+test-dia68_utt11,You don't know anything,anger,negative
+test-dia85_utt0,But um I don’t think it’s anything serious,neutral,neutral
+test-dia145_utt11,You mean scared,neutral,neutral
+test-dia112_utt4,What,surprise,negative
+test-dia222_utt4,I’ve been waiting for this for months,joy,positive
+test-dia239_utt10,Yes I do have to go to the bathroom,neutral,neutral
+test-dia17_utt4,Don’t look honey Change the channel Change the channel,disgust,negative
+test-dia208_utt10,Okay how long was I watching that woman,neutral,neutral
+test-dia29_utt4,What,surprise,positive
+test-dia102_utt4,Ohh well this is just perfect,anger,negative
+test-dia239_utt2,Jeez man did you fall Hi So ah did ya did did did ya fall high,surprise,positive
+test-dia184_utt0,Yeah and it really freaked me out And after a while I even tried to hurt you and it just spurred you on,sadness,negative
+test-dia166_utt8,You’re right,neutral,neutral
+test-dia139_utt3,Hi Jill,joy,positive
+test-dia83_utt10,You see what men do Don’t tell me men are not nice This is men,anger,negative
+test-dia205_utt2,I don't know you don't wanna mess with corn nuts They're craaazy,neutral,neutral
+test-dia270_utt12,The uh the baby that hasn't been born yet Wouldn't that mean you're crazy,surprise,positive
+test-dia88_utt1,Oh oh It's on again,joy,positive
+test-dia22_utt12,You are so cute,joy,positive
+test-dia95_utt16,Oh hey Ross,neutral,neutral
+test-dia168_utt10,What’s he talking about,neutral,neutral
+test-dia110_utt6,I can't remember the last time I got a girl to take care of my monkey,sadness,negative
+test-dia195_utt5,Of course not,neutral,neutral
+test-dia120_utt7,I was thinking maybe maybe maybe it could be a game room y’know,neutral,neutral
+test-dia279_utt8,Well,neutral,neutral
+test-dia269_utt3,Yeah C'mon,joy,positive
+test-dia163_utt4,And that picture of Chi Chi with her mischievous grin,neutral,neutral
+test-dia203_utt3,Ohh,surprise,positive
+test-dia123_utt10,What So now I’m not allowed to fire him,surprise,negative
+test-dia137_utt10,What Tonight,surprise,negative
+test-dia100_utt6,I didn’t mean to scare you,sadness,negative
+test-dia49_utt6,I guess I'll get washed up then Watch that sunrise,neutral,neutral
+test-dia193_utt2,Okay why don’t we all uh open our books to page 23,neutral,neutral
+test-dia176_utt1,Nice to meet you,neutral,neutral
+test-dia24_utt0,Can I tell you a little secret,neutral,neutral
+test-dia116_utt3,Ok look maybe I should just go,neutral,neutral
+test-dia12_utt17,And Mon you wanna live with Chandler don’t ya,neutral,neutral
+test-dia29_utt6,Look we have enough just walk away,fear,negative
+test-dia124_utt0,This is the final boarding call for Flight 664 to Yemen,neutral,neutral
+test-dia155_utt1,You want me to just quit my job so that you can feel like you’ve got a girlfriend,anger,negative
+test-dia49_utt15,Okay y'know your not though Let's go,neutral,neutral
+test-dia70_utt8,Will the stable boy never get the princess,sadness,negative
+test-dia94_utt0,What,surprise,negative
+test-dia239_utt11,Someone in here,neutral,neutral
+test-dia97_utt7,Yeah listen uh I want you to make sure you tell Chandler that he couldn't have been more wrong,neutral,neutral
+test-dia125_utt16,All right see you Monday,neutral,neutral
+test-dia111_utt1,No just knowing you're gonna be there is enough,neutral,neutral
+test-dia120_utt2,With a mahogany sleigh bed and bedside tables with flowers on them all the time,joy,positive
+test-dia174_utt7,Hey what do you want to drink,neutral,neutral
+test-dia232_utt5,I don’t care I wanna meet this guy who's the best sex she ever had,joy,positive
+test-dia64_utt5,Well I’m not going to go now anyway,neutral,neutral
+test-dia243_utt2,It’s my sister,neutral,neutral
+test-dia80_utt1,I told you not to go down there,anger,negative
+test-dia266_utt7,I don't to go through with this if it's going to raise the question of "Us",neutral,neutral
+test-dia72_utt14,I don’t think the next patient is very far along,neutral,neutral
+test-dia117_utt5,Umm about that that that last move where the woman tripped you and then pinned you to the floor what what what what would you do next,fear,negative
+test-dia175_utt5,What contracts,neutral,neutral
+test-dia146_utt0,Hey Oh listen I was just clearing some space for your stuff,joy,positive
+test-dia74_utt0,Y'know you guys were a lot more supportive when I wanted to make denim furniture,joy,positive
+test-dia269_utt2,We're kidding C'mon tell us,joy,positive
+test-dia272_utt4,Whoa whoa whoa Emily honey okay,surprise,negative
+test-dia273_utt0,Where’s Chandler,neutral,neutral
+test-dia144_utt8,You invite my brother you invite my whole family and not me,anger,negative
+test-dia262_utt0,Hi,neutral,neutral
+test-dia162_utt2,Ah,neutral,neutral
+test-dia8_utt4,Well maybe he had some kind of uh new cool style that you're not familiar with,neutral,neutral
+test-dia210_utt4,Yeah and if I had seven maybe I would’ve said something like this "Wow My boyfriend’s such a wise ass—seven",anger,negative
+test-dia199_utt12,Well yeah y’know how Ross and I were on again off again on again off again,sadness,negative
+test-dia120_utt6,Obviously,joy,positive
+test-dia261_utt2,Thanks,joy,positive
+test-dia56_utt11,Yeah that’s our baby,joy,positive
+test-dia184_utt4,What are you looking at,anger,negative
+test-dia137_utt8,Oh Sorry Uh I’ve got those plans with Phoebe why,neutral,neutral
+test-dia268_utt7,Ok,neutral,neutral
+test-dia20_utt3,See look,neutral,neutral
+test-dia17_utt10,And I’m appalled for you by the way,anger,negative
+test-dia155_utt6,Fine you’re right,neutral,neutral
+test-dia10_utt0,There’s just so much pressure,anger,negative
+test-dia165_utt0,I can’t find garbage bags,anger,negative
+test-dia231_utt2,That’s Yasmine Bleeth she’s a completely different kind of chick,neutral,neutral
+test-dia57_utt3,Okay All right,neutral,neutral
+test-dia25_utt3,I know,neutral,neutral
+test-dia31_utt0,Whoops Oh hey do you need help with that,neutral,neutral
+test-dia154_utt8,Y’know she has a face Ross,anger,negative
+test-dia154_utt9,Okay Okay here’s a good one of us,joy,positive
+test-dia167_utt7,You completely stole my answer,anger,negative
+test-dia191_utt5,Do you remember when you first came here how you spent two weeks getting trained by another waitress,neutral,neutral
+test-dia88_utt13,Keep in mind he's never used this product before you're gonna see how easy this is to do,neutral,neutral
+test-dia233_utt2,Fish,surprise,negative
+test-dia196_utt6,'Cause I I got nothing,anger,negative
+test-dia76_utt14,Alright I looked all over the building and I couldn't find the kitty anywhere,neutral,neutral
+test-dia133_utt13,Here Now,surprise,negative
+test-dia52_utt1,To tape the game You do this every time Ross you’re,disgust,negative
+test-dia17_utt25,Okay look Ross I realise that my Father is difficult but that’s why you have got to be the bigger man here,neutral,neutral
+test-dia50_utt0,Oh umm there’s also a book here by a woman named Wendy Bagina What is that,neutral,neutral
+test-dia192_utt8,Yeah it’s about relationships Y’know The traps the pitfalls what not to do keep going This stuff is great,joy,positive
+test-dia5_utt3,You mind if I,neutral,neutral
+test-dia278_utt16,All right but I should warn you I’m not going I’m going,neutral,neutral
+test-dia73_utt9,I totally don’t know what you’re talking about,neutral,neutral
+test-dia182_utt6,Thank you I need that,joy,positive
+test-dia254_utt11,Okay hating this,disgust,negative
+test-dia126_utt0,It’s so secluded up here,neutral,neutral
+test-dia114_utt4,Well it would be easier to move just right across the hall Wait a minute unless you’re thinking about Naked Wednesday’s,neutral,neutral
+test-dia179_utt3,Uh,neutral,neutral
+test-dia135_utt1,Really,surprise,positive
+test-dia52_utt5,But Rachel has an apartment,neutral,neutral
+test-dia250_utt1,No But thanks,neutral,neutral
+test-dia147_utt4,You guys are always hanging out in my apartment,anger,negative
+test-dia125_utt14,Like they’re taking it off the air,surprise,negative
+test-dia162_utt0,Ooh I'm sorry I think I THINK that may have missed the table,joy,positive
+test-dia122_utt0,I never sucked I actually didn't want you to know how good I was,neutral,neutral
+test-dia17_utt32,Okay okay okay I’ll get the bagels,neutral,neutral
+test-dia52_utt2,No no I I have to see if this apartment became available,neutral,neutral
+test-dia186_utt3,I’m sorry I gotta cancel tonight baby,sadness,negative
+test-dia32_utt0,Yes Yes Yes Yes That’s my Dad that’s Frank Yeah I’m sorry I’m getting all flingy,surprise,positive
+test-dia28_utt12,Uh huh yeah,neutral,neutral
+test-dia143_utt0,As bad as that went I actually enjoyed myself I think that I’m going to apologize for all of the stupid things I do,neutral,neutral
+test-dia215_utt0,Are you sure I’ll bet there’s another flight to Minsk in like,neutral,neutral
+test-dia215_utt3,Please clean my beakers I don’t get out of the lab much,neutral,neutral
+test-dia113_utt2,That's right baby,joy,positive
+test-dia72_utt0,This room’s available,neutral,neutral
+test-dia49_utt2,Monica What time is it,neutral,neutral
+test-dia29_utt10,Ok go quick,fear,negative
+test-dia254_utt15,All right I'm going I'm going,anger,negative
+test-dia73_utt5,Okay,neutral,neutral
+test-dia115_utt0,So that’s two boxes of the Holiday Macaroons On behalf of the Brown Birds of America I salute you,joy,positive
+test-dia198_utt7,You gotta make sure that when Paolo walks out of there the first guy Rachel sees is you She's gotta know that you're everything he's not,joy,positive
+test-dia163_utt3,All that stuff you said about true love you were right I mean we did learn a lot from Mom and Dad,joy,positive
+test-dia258_utt12,Oh yes Bye Bye Birdie starring Joseph Stalin Joseph Stalin is the Fiddler on the Roof,joy,positive
+test-dia259_utt10,The joke is not funny and it’s offensive to women and doctors and monkeys,disgust,negative
+test-dia184_utt10,Well not clients lovers But let’s just y’know try it again Come back and and we’ll work through it,neutral,neutral
+test-dia41_utt9,Wait,surprise,negative
+test-dia240_utt11,An an anyway I I just wanted to say that since I’m getting your brain when you leave the show I was wondering if there was any tips you can give me,neutral,neutral
+test-dia40_utt0,Yeah baby,joy,positive
+test-dia164_utt8,Your joke Well I think ‘the Hef’ would disagree which is why he sent me a check for one hundred ah dollars,neutral,neutral
+test-dia54_utt11,Ross please I found the magazines,sadness,negative
+test-dia250_utt6,Well okay let this be a lesson to all of you all right,neutral,neutral
+test-dia131_utt6,Oh,joy,positive
+test-dia147_utt2,Uh it's 2:30 in the morning,sadness,negative
+test-dia113_utt12,Oh Oh That's so hard,surprise,positive
+test-dia139_utt1,Yeah well I’m I’m a slut,sadness,negative
+test-dia183_utt5,Okay,neutral,neutral
+test-dia62_utt0,Yeah,neutral,neutral
+test-dia70_utt18,Hi is Molly here,neutral,neutral
+test-dia184_utt14,Great Okay if you’ll just excuse me So did you hear something you liked,joy,positive
+test-dia65_utt6,It’s Clint It’s Clint,anger,negative
+test-dia137_utt3,What do you got there,neutral,neutral
+test-dia96_utt18,Well every single second is like that with Aurora and I've just wasted about thirty five of them talking to you people so uh Monica can you help me with the door,neutral,neutral
+test-dia279_utt7,Look I really need some help okay Why Why did I have to speak in a British accent What do I do,anger,negative
+test-dia208_utt5,Really it’s nothing I’m just,sadness,negative
+test-dia132_utt18,And what is his name,neutral,neutral
+test-dia252_utt18,It’s between us and the sea Ross,neutral,neutral
+test-dia172_utt0,So Lizzie are are are you planning on staying the night,neutral,neutral
+test-dia164_utt1,Yeah,neutral,neutral
+test-dia125_utt9,It’s the producers over at Mac and CHEESE,neutral,neutral
+test-dia96_utt6,He's in the bathroom I don't think you wanna go in there,anger,negative
+test-dia45_utt4,Oh that’s so exciting,joy,positive
+test-dia58_utt8,Right,surprise,positive
+test-dia171_utt4,Alright we’re back Ten seconds left here we go Ten Nine Eight Seven,joy,positive
+test-dia147_utt6,Come on wussies,anger,negative
+test-dia96_utt14,Ooh do I sense a little bit of resentment,surprise,negative
+test-dia229_utt9,Okay God y’know if someone told me a week ago that I would be peeing in Joey Tribbiani’s apartment,joy,positive
+test-dia208_utt4,What is it Hey,sadness,negative
+test-dia205_utt4,I can't believe it He's looking right at us,surprise,negative
+test-dia140_utt11,I can't write,anger,negative
+test-dia253_utt4,Whoa whoa whoa whoa Is this hot Rachel that you took to the Christmas party Rachel,surprise,positive
+test-dia22_utt6,Well y'know you and me it had to end sometime,sadness,negative
+test-dia70_utt6,Sure I'll go check on Emma,neutral,neutral
+test-dia240_utt4,That was a great scene And and and that slap looks so real How do you do that,surprise,positive
+test-dia137_utt4,Oh it’s umm it’s tofu cake Do you want some,neutral,neutral
+test-dia239_utt0,Someone in there,neutral,neutral
+test-dia13_utt2,Well I'm not I'm not at all surprised they feel that way,neutral,neutral
+test-dia175_utt4,No seriously y’know the contracts I gave you did you overnight them,fear,negative
+test-dia143_utt5,Are you gonna break up with me if I get fat again,fear,negative
+test-dia249_utt5,Oh that sounds great,joy,positive
+test-dia22_utt10,If you give up every time you'd have a fight with someone you'd never be with anyone longer than—Ohhh,anger,negative
+test-dia112_utt8,Don’t worry Phoebe you’re gonna meet someone If I can meet a great guy so can you,neutral,neutral
+test-dia268_utt9,So keep having sex on a regular basis,neutral,neutral
+test-dia230_utt5,What's goin' on,neutral,neutral
+test-dia49_utt5,Well that's because you always sleep to noon silly This is what 9 looks like,neutral,neutral
+test-dia157_utt7,There you go sweetie This isn't over,neutral,neutral
+test-dia270_utt11,Actually I'm reading it to the baby,neutral,neutral
+test-dia192_utt2,No the little girl creeps me out,anger,negative
+test-dia68_utt4,Sorry Monica and Chandler are making love,neutral,neutral
+test-dia182_utt1,Now that's trash Young lady you can't Hey Stop that young lady she donated trash,anger,negative
+test-dia97_utt3,Joey what's it like on a movie set huh,neutral,neutral
+test-dia58_utt11,Are you okay,neutral,neutral
+test-dia224_utt2,Deeper,neutral,neutral
+test-dia228_utt2,You would think,neutral,neutral
+test-dia271_utt0,I have no idea what you just said,neutral,neutral
+test-dia240_utt16,Which one Was it bald or was it tall,surprise,negative
+test-dia92_utt4,Awww y'know what your nickname is Mr Big,joy,positive
+test-dia33_utt6,Oh come on what am I gonna do its been hours and it won’t stop crying,sadness,negative
+test-dia22_utt16,It's nothing to freak out about,neutral,neutral
+test-dia245_utt3,Oh just some pictures I made and hung up I thought they’d brighten up the place They do don’t you think,joy,positive
+test-dia195_utt6,I mean gosh Chandler what you did it's it's a wonderful thing and I really appreciate it,joy,positive
+test-dia229_utt8,It’s uh right through there,neutral,neutral
+test-dia93_utt15,I I I saw you on stage talking to that beautiful woman y’know Sarah,neutral,neutral
+test-dia113_utt10,It's throwing and catching,anger,negative
+test-dia116_utt2,Hey Knick fan am I interested in your views on fatherhood Uh no,anger,negative
+test-dia69_utt0,Excuse me look we've been here for over an hour and a lot of people less sick than my friend have gone in,anger,negative
+test-dia179_utt0,Forgive me You haven't been taking my calls in a week,anger,negative
+test-dia28_utt4,Oh yeah How’d yours happen,neutral,neutral
+test-dia178_utt9,What do you mean,surprise,negative
+test-dia268_utt11,Don't worry after a while he'll tune it out,neutral,neutral
+test-dia140_utt14,I'll help you,neutral,neutral
+test-dia49_utt4,But it's dark out,neutral,neutral
+test-dia12_utt4,Well why don’t you tell her to stop being silly,anger,negative
+test-dia144_utt10,What—Why wouldn’t you want me at your wedding,anger,negative
+test-dia267_utt9,Have fun,neutral,neutral
+test-dia65_utt3,No way are you cool enough to pull of Clint,disgust,negative
+test-dia61_utt0,and then Zana just let one rip,surprise,positive
+test-dia25_utt13,Yeah come here,neutral,neutral
+test-dia279_utt6,Yeah that seems fair We never use them,neutral,neutral
+test-dia124_utt8,Chandler,surprise,positive
+test-dia144_utt13,I believe you know my husband,neutral,neutral
+test-dia260_utt7,No,neutral,neutral
+test-dia78_utt2,You really really need to get some sleep honey,neutral,neutral
+test-dia98_utt2,Wow you guys this is big,surprise,positive
+test-dia120_utt16,I don’t have anything against the beautiful guest room especially since everybody we know lives about 30 seconds away,anger,negative
+test-dia49_utt13,Yeah I can say that I have a conference and you can say you have a chef thing,neutral,neutral
+test-dia124_utt1,Well I I guess I gotta go,sadness,negative
+test-dia278_utt7,Oh my God That’s the creep that you’re with at the,surprise,negative
+test-dia133_utt4,Thanks a million,joy,positive
+test-dia99_utt1,Having a swim,neutral,neutral
+test-dia18_utt1,All right then you'd better show me some of that too then,neutral,neutral
+test-dia264_utt1,Hang on buddy,anger,negative
+test-dia42_utt8,Yeah—no just that last song,neutral,neutral
+test-dia143_utt1,Why don’t you just stop doing stupid things Then you wouldn’t have to apologize,neutral,neutral
+test-dia217_utt6,But we we didn’t have sex uh did we,fear,negative
+test-dia22_utt2,I just came over to drop off nothing So that weekend kinda sucked huh,neutral,neutral
+test-dia229_utt7,Umm can I use your bathroom,neutral,neutral
+test-dia34_utt8,I mean y’know I’m just waiting for the perfect guy,neutral,neutral
+test-dia58_utt2,Let me tell you about this chick I scored with last night Oh no wait a minute that was you,joy,positive
+test-dia22_utt11,So this isn't over,neutral,neutral
+test-dia7_utt3,Yeah it’s two guys in a ring and the rules are“They’re,neutral,neutral
+test-dia249_utt1,Oh you got me,neutral,neutral
+test-dia33_utt7,Umm she Rach not it she,neutral,neutral
+test-dia192_utt11,And how people will believe anything you tell them as long as it’s a compliment,neutral,neutral
+test-dia254_utt3,What are you doing We're going to a hospital,surprise,negative
+test-dia14_utt10,Oh all right,neutral,neutral
+test-dia246_utt7,From PS 129,neutral,neutral
+test-dia170_utt2,Why do you want to see my hand,neutral,neutral
+test-dia205_utt3,Oh my God You guys You gotta come see this There's some creep out there with a telescope,fear,negative
+test-dia240_utt10,Oh that was a real person,surprise,positive
+test-dia246_utt8,I shared my puddin’ which you man,anger,negative
+test-dia270_utt10,Hey hey Yertle the Turtle A classic,joy,positive
+test-dia76_utt3,And Joey,neutral,neutral
+test-dia278_utt3,Oh my mom called they’re gonna run our engagement announcement in the local paper so we’re looking for a good picture of us,joy,positive
+test-dia181_utt2,Hi,joy,positive
+test-dia153_utt0,Where there is no fear of commitment,neutral,neutral
+test-dia146_utt6,Oh no yeah no that part’s great,joy,positive
+test-dia117_utt2,Thanks,neutral,neutral
+test-dia186_utt2,I understandwho would cancel an actual date to go to a fake bachelor party,neutral,neutral
+test-dia175_utt13,Rach I’m sorry but you didn’t give me any contracts,surprise,negative
+test-dia184_utt9,Really,surprise,negative
+test-dia130_utt5,Yeah,joy,positive
+test-dia28_utt11,Yeah Me Oh hey that’s me Hey uh I take it you’re just visiting someone,neutral,neutral
+test-dia160_utt3,I mean what,anger,negative
+test-dia178_utt5,Do you know what Pheebs,neutral,neutral
+test-dia246_utt10,I I think everybody’s pretending they don’t hear you,neutral,neutral
+test-dia152_utt0,Because I can and my Mom couldn’t and I thought y'know I figured that was something I got from our Dad,neutral,neutral
+test-dia267_utt2,Listen Joey I got a problem I just got a call from my dance captain he's having a relationship crisis and can't get out of Long Island,neutral,neutral
+test-dia244_utt7,The spitter,disgust,negative
+test-dia242_utt3,Just make contact smile,anger,negative
+test-dia80_utt6,All right I’ll try But if I can’t you can stay with Chandler and I until you get settled,neutral,neutral
+test-dia198_utt8,You're like like the anti Paolo,anger,negative
+test-dia25_utt9,Oh I see so this suit is making a point,neutral,neutral
+test-dia107_utt0,Honey I was wondering,neutral,neutral
+test-dia254_utt6,All right all right,anger,negative
+test-dia76_utt5,And Ross,neutral,neutral
+test-dia232_utt1,Uhh yeah She uh she uh she uh might've mentioned him,neutral,neutral
+test-dia202_utt3,Hey Joey,joy,positive
+test-dia88_utt0,Welcome everybody welcome to Amazing Discoveries,joy,positive
+test-dia64_utt6,Okay,neutral,neutral
+test-dia169_utt1,Hell yeah I’ll marry you,joy,positive
+test-dia279_utt15,I think you look fine,neutral,neutral
+test-dia90_utt5,Try telling my wife that,sadness,negative
+test-dia1_utt6,Push,joy,positive
+test-dia19_utt0,Really A purse,surprise,positive
+test-dia173_utt4,They are completely different—Okay,anger,negative
+test-dia278_utt5,That’s not true there are great pictures of us,surprise,positive
+test-dia146_utt5,Yeah I feel kinda bad for them but I’m also really psyched ‘cause I don’t have to move in here,joy,positive
+test-dia200_utt2,And if she didn’t take it and I didn’t take it; and you didn’t take it then who did,anger,negative
+test-dia65_utt9,It’s Clint,anger,negative
+test-dia202_utt4,Erin Still here,joy,positive
+test-dia97_utt11,Everybody smile Okay thanks a lot Enjoy your stay at,joy,positive
+test-dia200_utt1,It was in my room all night,anger,negative
+test-dia253_utt8,Hey Chandler why don’t we talk this over at the Ranger game tomorrow,neutral,neutral
+test-dia125_utt19,They canceled Mac and CHEESE,anger,negative
+test-dia145_utt1,Hey Chandler what are you doing here,surprise,positive
+test-dia175_utt8,Y’know like the thing when you put the phone in your pants,disgust,negative
+test-dia2_utt8,You can do it,joy,positive
+test-dia139_utt8,Yeah I know and I bet you thought it would be weird But it’s not,joy,positive
+test-dia226_utt4,That’s easy You just have to think of him as a as a jar of pickles that won’t open,neutral,neutral
+test-dia270_utt5,What's it look like,neutral,neutral
+test-dia124_utt2,Oh my Bing a ling I’ll wait for you Do you even know how long you’re going to be gone,sadness,negative
+test-dia32_utt1,Take it easy if you want there’s cookies on the counter or or sangria I can make sangria,joy,positive
+test-dia129_utt6,Show 'em how it's done,neutral,neutral
+test-dia102_utt1,Yeah she was bald she’s not now,neutral,neutral
+test-dia115_utt4,I was shrieking like a Marine,neutral,neutral
+test-dia29_utt2,Oh dude don't worry about it I found an unattended maid's car We're way ahead of the game,neutral,neutral
+test-dia173_utt0,I see Y’know umm Phoebe makes sock bunnies,neutral,neutral
+test-dia192_utt10,And how none of it matters when the people really love each other,neutral,neutral
+test-dia70_utt22,It's like my favorite fairy tale come true The princess the stable boy and the lesbian,joy,positive
+test-dia169_utt7,She’s not pregnant It’s Rachel Rachel’s the one who’s pregnant,neutral,neutral
+test-dia137_utt14,I think she’s trying to pull a fast one on Big Daddy,anger,negative
+test-dia132_utt5,I’m sorry that information is restricted to hospital staff,neutral,neutral
+test-dia96_utt7,C'mon we're roommates My eyes My eyes,disgust,negative
+test-dia118_utt1,Oh I wish there was something I can do to make you feel better,sadness,negative
+test-dia123_utt2,No No no He is totally incompetent I called the chef who recommended him to me He said "Ha ha Gotcha",disgust,negative
+test-dia205_utt5,Oh that is so sick,disgust,negative
+test-dia119_utt5,But Ben is coming over tonight and he can’t see this,fear,negative
+test-dia66_utt0,Welcome to Las Vegas,neutral,neutral
+test-dia124_utt5,Okay good bye Good bye,sadness,negative
+test-dia126_utt9,What are,neutral,neutral
+test-dia140_utt16,And plus it'll give me something to do,neutral,neutral
+test-dia123_utt4,Why not,anger,negative
+test-dia234_utt12,Tommyyyy Say what’s your favourite thing about summer,joy,positive
+test-dia116_utt11,Isn't,anger,negative
+test-dia70_utt11,You know this isn't fair,anger,negative
+test-dia25_utt16,Okay good bye,anger,negative
+test-dia122_utt4,That's,neutral,neutral
+test-dia2_utt0,Okay,neutral,neutral
+test-dia178_utt4,Oh right Coach Ruben,neutral,neutral
+test-dia275_utt0,Fine,neutral,neutral
+test-dia228_utt11,Gunther I quit,sadness,negative
+test-dia70_utt5,Molly ah do you mind giving us just a minute,neutral,neutral
+test-dia196_utt5,So so if anyone has has a better suggestion let's hear it,anger,negative
+test-dia2_utt2,Uhh yes I did but there isn't Okay here we go,sadness,negative
+test-dia107_utt4,Hmm,neutral,neutral
+test-dia80_utt0,What You got us evicted,anger,negative
+test-dia174_utt0,No And then I called him and he wasn’t there,neutral,neutral
+test-dia158_utt3,Maybe he’s intimated by really smart strong successful women,neutral,neutral
+test-dia129_utt3,Well people,sadness,negative
+test-dia128_utt0,What are you doing,neutral,neutral
+test-dia279_utt12,They’re not listening too me,surprise,negative
+test-dia133_utt12,Well I I gotta go break up with Bonnie,sadness,negative
+test-dia95_utt17,Umm see I was thinking maybe you two could switch apartments because Phoebe's more our kind of people,fear,negative
+test-dia17_utt8,I know,anger,negative
+test-dia112_utt10,Oh you didn’t have to come in with me,neutral,neutral
+test-dia117_utt3,Yeah yeah I was watching,neutral,neutral
+test-dia166_utt7,You’re right,neutral,neutral
+test-dia163_utt9,Oh good God Ross How the hell do you do it,surprise,negative
+test-dia224_utt8,A strong confident woman,neutral,neutral
+test-dia46_utt8,Sticky shoes sticky shoes always make me smile Sticky shoes sticky shoes next time I’ll avoid the pillleeeee,joy,positive
+test-dia230_utt6,Well I sorta did a stupid thing last night,neutral,neutral
+test-dia58_utt9,Because you’re still seeing him and uh he’s a good guy,sadness,negative
+test-dia174_utt18,Oh okay Hey two beers,neutral,neutral
+test-dia267_utt6,Aw come on Joey it's easy,neutral,neutral
+test-dia43_utt2,The players,neutral,neutral
+test-dia123_utt7,He,neutral,neutral
+test-dia85_utt4,Why did I have to start working out again,disgust,negative
+test-dia147_utt10,Oh yeah,joy,positive
+test-dia104_utt2,Oooh wrong answer,neutral,neutral
+test-dia98_utt9,OK,neutral,neutral
+test-dia53_utt11,Oh and somebody can get those leather pants she’s always wanted,joy,positive
+test-dia113_utt1,Four hours You guys have been doing this for four hours,surprise,negative
+test-dia234_utt14,Ohh that’s a good one,joy,positive
+test-dia244_utt8,Oh ho and yes the guy that enjoyed my name so much he felt the need to make a little noise every time he said it,anger,negative
+test-dia49_utt16,Wait What about Joey,neutral,neutral
+test-dia66_utt3,Hope you had a nice flight,neutral,neutral
+test-dia239_utt3,Someone was in the lady's room I couldn’t wait I left the lid up for ya though,neutral,neutral
+test-dia112_utt9,Yeah we both can And we both will,neutral,neutral
+test-dia86_utt0,It’s a trifle,neutral,neutral
+test-dia177_utt0,Oh and I need to talk to you,neutral,neutral
+test-dia234_utt2,It’s it’s hot,neutral,neutral
+test-dia196_utt10,Magic 8 Ball should I never see Rachel again,neutral,neutral
+test-dia199_utt15,Hey,joy,positive
+test-dia39_utt7,But that was after the wedding it’s not bad luck then,neutral,neutral
+test-dia164_utt6,And monkeys can’t write out prescriptions,neutral,neutral
+test-dia260_utt0,Hey everybody Rachel was so good today She didn't gossip at all,joy,positive
+test-dia17_utt1,I was always Joanne,neutral,neutral
+test-dia175_utt0,You wanna go in the bedroom It’s a little more comfortable,neutral,neutral
+test-dia140_utt7,I mean what about those,neutral,neutral
+test-dia267_utt0,Ah Joey,neutral,neutral
+test-dia126_utt7,Okay I’ll be right back,neutral,neutral
+test-dia237_utt0,Is it better than the other salmon mousse,neutral,neutral
+test-dia15_utt4,Bye,neutral,neutral
+test-dia59_utt2,Whoa I'm sorry Excuse me We had this cart,anger,negative
+test-dia278_utt11,I know but look at meall tan,joy,positive
+test-dia22_utt19,We're in a relationship,surprise,negative
+test-dia157_utt2,Step away from the crib I have a weapon,anger,negative
+test-dia252_utt6,Does it,anger,negative
+test-dia192_utt9,What Excuse me,surprise,negative
+test-dia261_utt3,All right we'll start off slow The only thing you have to do tonight is come up with the name of your main character,neutral,neutral
+test-dia240_utt1,Oh yes there is,anger,negative
+test-dia12_utt9,Now wh what is more important love or silliness,neutral,neutral
+test-dia250_utt5,Wow that was kinda brutal,surprise,negative
+test-dia160_utt12,No more J man and Channie’s,sadness,negative
+test-dia236_utt0,Mmmm Good,joy,positive
+test-dia42_utt3,After that Yeah No I mean if I can help,surprise,positive
+test-dia25_utt1,Oh I am my side still hurts from when you crashed into me yesterday,neutral,neutral
+test-dia29_utt7,No but I want I want the pinecones,joy,positive
+test-dia267_utt4,Listen Joey seeing as you've got the most experience I want you to take these dancers and show them the combination,neutral,neutral
+test-dia50_utt1,Sounds like two people are really enjoying the Dewey decimal system,neutral,neutral
+test-dia153_utt4,It have a fear of heights you go to the top of the building,fear,negative
+test-dia226_utt8,Hi,joy,positive
+test-dia210_utt9,Well actually I know what time Chester and Marcia said,neutral,neutral
+test-dia246_utt4,See that scientist in the classes he and I used to play together all the time in grade school but now Peter,neutral,neutral
+test-dia37_utt7,For Chandler,anger,negative
+test-dia116_utt1,Yeah so uh so uh what's the deal with this father guy I mean if someone was havin' my baby somewhere I'd wanna know about it you know,neutral,neutral
+test-dia120_utt11,Oh I’m sorry Of course I mean that Interesting idea umm talk about it but no,disgust,negative
+test-dia268_utt5,Hi,neutral,neutral
+test-dia215_utt4,That’s good I got to admit I thought it was something else,joy,positive
+test-dia108_utt6,Oh Ohhhhh Oh Phoebe come here Aw this is my new bed You gotta feel this bad boy,joy,positive
+test-dia70_utt21,Ok Well uh Joey I guess we have no problem,neutral,neutral
+test-dia262_utt9,Yeah sure that’d be great,neutral,neutral
+test-dia168_utt17,I make $1600 a week doing what I do; any of you guys make that,anger,negative
+test-dia140_utt12,Y'know I mean I I I'm an actor I don't have the discipline that takes y'know,sadness,negative
+test-dia263_utt0,Hi,neutral,neutral
+test-dia217_utt4,Really,surprise,negative
+test-dia126_utt13,Here you go honey,joy,positive
+test-dia269_utt0,Well y'know monogamy can be a uh tricky concept I mean anthropologically speaking,neutral,neutral
+test-dia196_utt7,All right don't be shy any suggestion will do,anger,negative
+test-dia174_utt17,Look I don’t feel like dancing I feel like having a drink Okay,sadness,negative
+test-dia127_utt0,What the hell was that,anger,negative
+test-dia112_utt20,Ooh an ink stain Hey can I watch how you get this out,joy,positive
+test-dia195_utt0,Okay look don't don't be mad okay,fear,negative
+test-dia233_utt10,Yay okay,joy,positive
+test-dia29_utt9,It's not the same,neutral,neutral
+test-dia263_utt5,She says Marcel's humping thing's not a phase Apparently he's reached sexual maturity,sadness,negative
+test-dia128_utt1,I’m leaning This is where I lean,neutral,neutral
+test-dia250_utt0,Well I y'know I was just umm I was just thinking and hoping that umm maybe you’d want to get back together,fear,negative
+test-dia89_utt2,Wow it is easy Now I can have milk everyday,surprise,positive
+test-dia163_utt8,I think she was,neutral,neutral
+test-dia84_utt1,Nothing,anger,negative
+test-dia106_utt0,Oh yeah Smokey Joe here got half way to the highway and collapsed,anger,negative
+test-dia111_utt10,Yeah No No,anger,negative
+test-dia65_utt5,Umm Gene,neutral,neutral
+test-dia226_utt0,So how are things going with Paul,neutral,neutral
+test-dia230_utt0,You know I think I was sixteen,neutral,neutral
+test-dia126_utt11,Yeah I recognize the ankles,neutral,neutral
+test-dia269_utt4,Alright There's a theory put forth by Richard Leakey,neutral,neutral
+test-dia167_utt14,Are you just repeating what I'm saying,anger,negative
+test-dia160_utt10,Come on,sadness,negative
+test-dia72_utt4,You listen to me,anger,negative
+test-dia33_utt5,Oh oh no just stopped to throw up a little bit,sadness,negative
+test-dia28_utt0,Oh uh up or down,neutral,neutral
+test-dia212_utt5,Well we’re really not that close Okay so I guess this is uh good bye then,neutral,neutral
+test-dia2_utt6,Straight up over your head,anger,negative
+test-dia253_utt10,Oh well that’s uh a little later than I uh generally care to stay but sure,joy,positive
+test-dia207_utt0,Ah oh God Oh honey oh that's OK,sadness,negative
+test-dia165_utt3,I don’t know But maybe if we keep that drawer shut it’ll die,disgust,negative
+test-dia210_utt8,What,surprise,negative
+test-dia173_utt2,No she doesn’t,neutral,neutral
+test-dia64_utt8,Ah Gunther I can’t pay for this right now because I’m not working so I’ve had to cut down on some luxuries like uh payin’ for stuff,neutral,neutral
+test-dia229_utt6,But if you’re thinking you can put a fish in there and it wouldn’t get sucked up into the mechanism well you’d be wrong,neutral,neutral
+test-dia72_utt7,It’s my turn,anger,negative
+test-dia70_utt2,Oh I didn't go to college,neutral,neutral
+test-dia222_utt8,What am I making him by the way,neutral,neutral
+test-dia253_utt7,Oh wait a second I didn’t say I wasn’t free,surprise,positive
+test-dia247_utt1,Yeah right away Mr Kaplan,neutral,neutral
+test-dia266_utt13,Oh God you saw me Oh,surprise,negative
+test-dia70_utt7,Thanx,neutral,neutral
+test-dia11_utt1,I mean there’s no way Joey’s gonna make it in time,fear,negative
+test-dia262_utt13,So ask me what I did today,neutral,neutral
+test-dia126_utt15,Diet Coke,neutral,neutral
+test-dia279_utt13,Of course they’re listening to you Everybody listens to you,neutral,neutral
+test-dia77_utt4,All right so are we not having dinner at all,sadness,negative
+test-dia222_utt6,I got new sheets,joy,positive
+test-dia21_utt6,So your brother's straight huh Seriously,surprise,positive
+test-dia73_utt2,Well maybe that’s because you’re closer to you So you look bigger to you from where you are,anger,negative
+test-dia118_utt8,Well I umm I mean this is just off the top of my head now umm but I have this friend,neutral,neutral
+test-dia268_utt8,Above all even though your chances of conceiving through natural means aren't great you never know,neutral,neutral
+test-dia174_utt3,Hello,neutral,neutral
+test-dia273_utt1,Ah he can’t make it he said he had to his Whoa oh,surprise,negative
+test-dia34_utt11,Y’know give him my flower,neutral,neutral
+test-dia249_utt7,Oh thank you so much Mr Kaplan thank you so much,joy,positive
+test-dia68_utt9,Are they in love,joy,positive
+test-dia8_utt2,It was just so awkward and bumpy,neutral,neutral
+test-dia120_utt18,No I’m not mocking you or you beautiful guest room,neutral,neutral
+test-dia118_utt6,Well maybe there is one thing you can do,neutral,neutral
+test-dia155_utt0,I mean I don’t feel like I even have a girlfriend anymore,anger,negative
+test-dia195_utt9,Of course,neutral,neutral
+test-dia158_utt4,Sophie would you please climb out of my butt Why hasn’t he called Rachel Why,anger,negative
+test-dia125_utt5,Oh my my new assistant was very happy that I hired my new assistant,neutral,neutral
+test-dia119_utt1,Hey you guys Listen I’m sorry that I was hogging the game before——Oh my God Your friends have some unfortunate initials,sadness,negative
+test-dia103_utt0,Hey,joy,positive
+test-dia143_utt7,Well you broke up with Julie Grath How much weight could she have gained,anger,negative
+test-dia28_utt16,Uh you gotta press the button,neutral,neutral
+test-dia22_utt14,No it was a fight,neutral,neutral
+test-dia111_utt13,You're kidding,surprise,negative
+test-dia265_utt1,Julie Julie isn't that great I mean isn't that just kick you in the crotch spit on your neck fantastic,joy,positive
+test-dia93_utt10,Hi how are ya,neutral,neutral
+test-dia116_utt5,Good luck and uh take care huh,sadness,negative
+test-dia76_utt9,So um where did Paolo come from,neutral,neutral
+test-dia211_utt4,Whoa whoa whoa whoa I I—Hey I did,anger,negative
+test-dia47_utt7,Not once did we do that,neutral,neutral
+test-dia125_utt2,Hey—Ooh how’s Hilda Is she working out,neutral,neutral
+test-dia114_utt3,No no no no no no no no It’s okay I mean I—look Rach I know I scared you off with that whole Naked Thursday’s thing but we don’t have to do that,neutral,neutral
+test-dia178_utt1,I’m doing okay I think it’s going well Do you think they’re having fun Am I talking to fast,neutral,neutral
+test-dia98_utt8,Could we talk about this later,anger,negative
+test-dia20_utt7,Well I ain't gonna say no to that,neutral,neutral
+test-dia70_utt14,Can't you guys open your minds to the possibility that I actally like her and might want something real,anger,negative
+test-dia241_utt2,Much,joy,positive
+test-dia25_utt10,Now that you’re on you’re own you’re free to look as stupid as you like,anger,negative
+test-dia89_utt1,This works with any milk carton,neutral,neutral
+test-dia59_utt0,You got the clothes clean Now that's the important part,neutral,neutral
+test-dia180_utt3,Bye,neutral,neutral
+test-dia254_utt17,Rossy Rossy,neutral,neutral
+test-dia71_utt10,Don’t you worry I have nothing to hide,neutral,neutral
+test-dia263_utt1,Hey,neutral,neutral
+test-dia161_utt8,Yeah oh hey you are right on time,neutral,neutral
+test-dia13_utt6,Define me,anger,negative
+test-dia91_utt0,Hey Ross will you pass me that knife,neutral,neutral
+test-dia253_utt12,Well I don’t really know what that is but,neutral,neutral
+test-dia70_utt10,No the leather sticks to my ass,disgust,negative
+test-dia17_utt27,Like me tiny doctor’,anger,negative
+test-dia73_utt4,All right,neutral,neutral
+test-dia233_utt4,Yes but I wanted you to want to live with me but okay if you're having so much fun over here,sadness,negative
+test-dia20_utt0,It's not a purse It's a shoulder bag,anger,negative
+test-dia199_utt4,Well uh his answering machine was,sadness,negative
+test-dia119_utt3,Chandler sucks He couldn’t have gotten this good,surprise,negative
+test-dia199_utt13,I guess I just figured that somewhere down the road we would be on again,sadness,negative
+test-dia246_utt5,Hey Peter,neutral,neutral
+test-dia102_utt5,Well I’m sorry I thought you said it was okay,sadness,negative
+test-dia156_utt4,Oh Why not,neutral,neutral
+test-dia167_utt15,All right let's move on,neutral,neutral
+test-dia95_utt0,Oh I thought this was your party and it turns out it’s a party for Howard He's just the sweetest little man,surprise,positive
+test-dia275_utt2,Fine,neutral,neutral
+test-dia252_utt0,Oh my God If you say that one more time,anger,negative
+test-dia101_utt3,Oh there’s banana on it,neutral,neutral
+test-dia9_utt1,Oh well it’s not so bad,neutral,neutral
+test-dia120_utt10,Okay so you mean no as in "Gee Chandler what an interesting idea Let’s discuss it before we reject it completely",joy,positive
+test-dia28_utt10,Oh let me guess some idiot on a cell phone wasn’t paying attention,neutral,neutral
+test-dia9_utt16,Yes they can stay with us,neutral,neutral
+test-dia71_utt9,You need to y’know make sure I don’t have any horrible scars or tattoos,neutral,neutral
+test-dia22_utt3,Yeah it did,joy,positive
+test-dia86_utt5,It tastes like feet,disgust,negative
+test-dia229_utt4,Oh I probably shouldn’t—so I will Oh Wow It’s like it’s raining,surprise,positive
+test-dia109_utt5,Because you know you could make little puppets out of them and you could use them in your theater of cruelty,anger,negative
+test-dia117_utt0,Okay ladies that ends today’s class and let’s remember let’s be safe out there,neutral,neutral
+test-dia180_utt8,Well she seems very nice and everything but that whole thing about her coming all the way down here just to see if I was okay,anger,negative
+test-dia139_utt9,Okay So well I’ll umm I’ll have her home by midnight,neutral,neutral
+test-dia12_utt15,Okay All right Now Chandler you you wanna live with Monica right,neutral,neutral
+test-dia278_utt8,I don’t know what it is I just can’t take a good picture,sadness,negative
+test-dia99_utt2,What about the chick,neutral,neutral
+test-dia47_utt3,"You wanna go over to Joey and Chandler’s",neutral,neutral
+test-dia13_utt7,Love me I need love,anger,negative
+test-dia33_utt10,Yeah no kidding this just proves no good can come from having sex with Ross,anger,negative
+test-dia231_utt3,I love you both,neutral,neutral
+test-dia41_utt1,Oh yeah that was great Thanks to you the hottest cocktail waitress there is quitting to teach the third grade,anger,negative
+test-dia57_utt5,But you will always be the guy who peed on me,disgust,negative
+test-dia196_utt4,I mean I either keep my wife and lose one of my my my best friends or I keep my friend and get divorced the second time before I'm 30,anger,negative
+test-dia191_utt4,Yeah,neutral,neutral
+test-dia241_utt8,I don’t think so,neutral,neutral
+test-dia198_utt4,What are you still doing here She just broke up with the guy it's time for you to swoop in,surprise,negative
+test-dia230_utt2,I'm still on "no",neutral,neutral
+test-dia62_utt1,Yeah Well I think our second fight is going to be a,anger,negative
+test-dia199_utt7,I don’t think he’s the one I’m sad about,sadness,negative
+test-dia16_utt5,Yeah people get pretty generous around the holidays And it never hurts to wear tight trousers,neutral,neutral
+test-dia263_utt8,So what does this mean,neutral,neutral
+test-dia230_utt7,What stupid thing did you do,neutral,neutral
+test-dia121_utt1,Aww me too Now let's finish this and go to bed,joy,positive
+test-dia242_utt1,It's been fourteen and a half minutes and you still have not said one word,anger,negative
+test-dia46_utt4,My feet’s best friends pals to the end,joy,positive
+test-dia267_utt1,Joey Tribbiani,neutral,neutral
+test-dia96_utt16,'Kay,neutral,neutral
+test-dia187_utt4,Oh what a fun office,joy,positive
+test-dia80_utt3,Rachel always cries,anger,negative
+test-dia182_utt5,Oh good,joy,positive
+test-dia118_utt10,Absolutely But you you would really feel better about me rejecting you if your actor friend can audition for my movie,surprise,positive
+test-dia140_utt2,Hey y'know what you should do,neutral,neutral
+test-dia125_utt8,Can you can you hang on a second,neutral,neutral
+test-dia154_utt14,Do you wanna do you wanna send this one out together,neutral,neutral
+test-dia202_utt0,Hey What’s up,neutral,neutral
+test-dia99_utt3,Chicks don’t swim,neutral,neutral
+test-dia78_utt8,Oh really let me see let me see,joy,positive
+test-dia39_utt10,I know Hey how’s Chandler doin’,neutral,neutral
+test-dia203_utt10,Yeah thank you Rachel you are soo cool,joy,positive
+test-dia171_utt1,Me too,joy,positive
+test-dia244_utt13,And this actor guy who I’m not sure about because when he called and I answered the phone ‘Chandler Bing’ he said ‘Whoa whoa short message’,neutral,neutral
+test-dia14_utt2,Yeah,joy,positive
+test-dia56_utt4,No I don’t see it,anger,negative
+test-dia55_utt2,Uh huh Why do you think it takes me so long to answer the door,joy,positive
+test-dia215_utt5,Yeah I Well I really actually wanted to say umm that but um I figured I probably shouldn’t because y’know I have to leave,neutral,neutral
+test-dia140_utt9,Wait a second I could star in it,joy,positive
+test-dia58_utt16,Oh yeah Yeah Don’t worry about me I’ll be fine,sadness,negative
+test-dia63_utt0,Hey,neutral,neutral
+test-dia138_utt1,Who cares I repel women,disgust,negative
+test-dia206_utt1,Yeah it is amazing it lasted that long,neutral,neutral
+test-dia93_utt8,Oh Chandler Wayne,neutral,neutral
+test-dia255_utt7,Monica your dad just beeped in but can you make it quick Talking to Rome I'm talking to Rome,joy,positive
+test-dia189_utt7,Really To what,surprise,negative
+test-dia44_utt2,Oh come on I don’t care Come on Whose is it,joy,positive
+test-dia175_utt11,This isn’t funny,anger,negative
+test-dia260_utt4,Ooh you nailed the Old Lady,surprise,positive
+test-dia65_utt4,Okay so what name am I cool enough to pull off,surprise,negative
+test-dia164_utt4,Oh you guys with this joke I gotta say I know I cracked up but I’m not even sure I got it,neutral,neutral
+test-dia182_utt9,It's nine o'clock in the morning,surprise,negative
+test-dia140_utt0,That part was perfect for me I can't believe I didn't get it,anger,negative
+test-dia113_utt14,Oh my—Oh good God,surprise,negative
+test-dia7_utt6,What’s fish hooking,surprise,negative
+test-dia43_utt5,All right Pheebs stick out your plate,neutral,neutral
+test-dia20_utt1,It looks like a women's purse,neutral,neutral
+test-dia100_utt1,You guys feel safe,neutral,neutral
+test-dia258_utt3,Plus y'know I think it should be Joe,neutral,neutral
+test-dia241_utt0,Feel better,neutral,neutral
+test-dia64_utt10,Uh I don’t know,neutral,neutral
+test-dia10_utt3,Yeah none of us have to deal with pressure at our jobs,neutral,neutral
+test-dia28_utt15,Wait What No Elevator No,anger,negative
+test-dia119_utt4,I did But it came at a price,neutral,neutral
+test-dia14_utt3,Yeah,joy,positive
+test-dia121_utt2,Okay There's only one left three letter word not dog but,neutral,neutral
+test-dia9_utt6,Excuse me,surprise,positive
+test-dia4_utt0,Ohh,surprise,positive
+test-dia205_utt1,No way MrSalty is a sailor all right he's got to be like thetoughest snack there is,anger,negative
+test-dia266_utt1,Uh yeah if you want too,neutral,neutral
+test-dia143_utt6,What,surprise,negative
+test-dia187_utt5,I don't know which one but I do know I need a cigarette,neutral,neutral
+test-dia244_utt5,Why nobody good,neutral,neutral
+test-dia29_utt0,Oh we did and you still have all your lamps,neutral,neutral
+test-dia58_utt4,So you uh want to do something tonight,neutral,neutral
+test-dia238_utt2,Sweetie you think you can get in there,neutral,neutral
+test-dia125_utt17,We’re not even shootin’ them anymore,surprise,negative
+test-dia279_utt3,You stole them from me,anger,negative
+test-dia123_utt3,Okay Okay but you can’t fire him today,neutral,neutral
+test-dia145_utt8,Sure Okay,neutral,neutral
+test-dia32_utt11,Ohh y'know I I heard about what happened that must have been just terrible for you losing your mother that way,sadness,negative
+test-dia93_utt0,I can’t believe I’m going to lose this job,sadness,negative
+test-dia185_utt2,Ezel Ezel Ezel,surprise,negative
+test-dia196_utt17,All right let me see Will Chandler have sex tonight Don't count on it Seems like it works to me,neutral,neutral
+test-dia173_utt1,No,surprise,negative
+test-dia205_utt0,I can't believe you would actually say that I would much rather be MrPeanut than MrSalty,surprise,negative
+test-dia141_utt1,Oh mostly fashion so there may be models here from time to time I hope that’s cool,neutral,neutral
+test-dia252_utt16,A lot of things happened on that trip that we should never ever talk about,neutral,neutral
+test-dia231_utt7,I did But the store wouldn’t take her back So then I took her to the shelter and you know what I found out,anger,negative
+test-dia34_utt17,Rachel I’m never gonna think it’s okay for you to cheat on your husband,anger,negative
+test-dia95_utt10,No I'm not,neutral,neutral
+test-dia45_utt6,Oh but Mon if you touch my guitar again I’ll have to pound on you for a little bit,anger,negative
+test-dia68_utt1,Rach I told you everything I knew last night,anger,negative
+test-dia128_utt4,What,surprise,negative
+test-dia183_utt6,I’m an actor I’m kinda getting my picture up there on the wall,neutral,neutral
+test-dia90_utt4,I’m sorry your wife is gay I guess women aren’t that great either,sadness,negative
+test-dia72_utt9,And if you bring in one woman and she has her baby before me I’m going to sue you,anger,negative
+test-dia111_utt11,Ah the forbidden love of a man and his door,neutral,neutral
+test-dia1_utt7,Push,joy,positive
+test-dia173_utt9,I totally forgot about tonight and the fact that we’re supposed to,neutral,neutral
+test-dia4_utt2,It kicked I think the baby kicked,surprise,positive
+test-dia12_utt1,Ross we can handle this,neutral,neutral
+test-dia17_utt13,Ross tonight was about the two of you getting along Oh would you just see my chiropractor already,anger,negative
+test-dia237_utt7,That's so great 'Cause you already know how to do that,joy,positive
+test-dia24_utt2,I want to keep one,neutral,neutral
+test-dia130_utt13,But it’s absolutely your decision,neutral,neutral
+test-dia225_utt1,Yes Yes I’m the next caller You were gonna have me hang up,joy,positive
+test-dia230_utt1,Please just a little bit off the back,neutral,neutral
+test-dia58_utt12,Yeah Totally Totally and you,joy,positive
+test-dia157_utt3,It's okay it's okay Rach it's me Put down the scrunchy,neutral,neutral
+test-dia104_utt1,No,surprise,negative
+test-dia48_utt6,London baby,joy,positive
+test-dia212_utt2,Every moment is precious,sadness,negative
+test-dia128_utt3,Brenda a bee,fear,negative
+test-dia123_utt12,Okay well then I’ll fire him today and you go out with him for another week,neutral,neutral
+test-dia108_utt0,Ugh,disgust,negative
+test-dia237_utt2,Yeah well is that,neutral,neutral
+test-dia175_utt17,No I would see you looking embarrassed because they are,anger,negative
+test-dia279_utt11,Yeah I mean come on Ross no one will even notice I mean they’re probably not even listening,neutral,neutral
+test-dia53_utt4,I know Phoebe is gonna love dressing them in these,joy,positive
+test-dia214_utt4,Plus it was it was probably mostly my fault anyway,sadness,negative
+test-dia166_utt3,I didn’t look at it Stupid baby’s head was blocking most of it,anger,negative
+test-dia275_utt3,All right We're gonna go It's not for another six hours We're gonna go then,neutral,neutral
+test-dia231_utt8,If they can’t find a home for her they kill her And I’m not gonna let that happen to little Yasmine,anger,negative
+test-dia113_utt4,No no Don't do it Don't,fear,negative
+test-dia53_utt7,Oh my God We are throwing the most depressing baby shower ever,sadness,negative
+test-dia263_utt7,She says as time goes on he's gonna start getting agressive and violent,sadness,negative
+test-dia50_utt3,You didn’t bring,neutral,neutral
+test-dia21_utt2,Here you go,neutral,neutral
+test-dia39_utt5,Well he better not come by here He can’t see the bride in the wedding dress,neutral,neutral
+test-dia154_utt3,Oh great Hey hey Joey do you want to check out pictures of me and Mona ice skating,joy,positive
+test-dia226_utt5,So what are you saying I should run him under hot water and bang his head against a table,surprise,negative
+test-dia25_utt12,Oh absolutely I like it even more on you than I did on Colonel Sanders Ross Ross I’m kidding,neutral,neutral
+test-dia64_utt12,And to go from that to this I just Plus I’d have to wait on all my friends,sadness,negative
+test-dia181_utt1,You're so pretty,joy,positive
+test-dia145_utt4,It is a crime that you and I don't spend more time together,neutral,neutral
+test-dia76_utt17,Ah Paolo this is Phoebe,neutral,neutral
+test-dia218_utt0,What are we gonna do,neutral,neutral
+test-dia133_utt6,Okay I’ll see you in our room,neutral,neutral
+test-dia160_utt4,Are are are Rachel and I not as close as you guys,anger,negative
+test-dia175_utt6,Okay please tell me that this is just one of your jokes that you do that I don’t get,joy,positive
+test-dia120_utt4,Okay whatever I really haven’t thought about it that much,neutral,neutral
+test-dia155_utt5,Oh my God I cannot keep having this same fight with you Ross Look urrgh maybe we should take a break,sadness,negative
+test-dia234_utt10,Yeah,neutral,neutral
+test-dia9_utt5,Hey buddy do you think I can borrow your uniform this Thursday,neutral,neutral
+test-dia217_utt2,I don’t know Do do you have any clothes on,neutral,neutral
+test-dia49_utt9,Hey,joy,positive
+test-dia166_utt6,Okay look just do it gently,neutral,neutral
+test-dia6_utt0,Previously on Friends,neutral,neutral
+test-dia230_utt4,No no no no no I'm not fallin' for that again,anger,negative
+test-dia174_utt14,Hey dinosaur guy look at you so sad Come dance,neutral,neutral
+test-dia13_utt0,Oh,neutral,neutral
+test-dia204_utt2,What,surprise,negative
+test-dia42_utt7,Okay so you were trying to play bad this whole time,surprise,positive
+test-dia22_utt4,So I guess this is over,sadness,negative
+test-dia217_utt0,Ohhh,surprise,negative
+test-dia72_utt13,Go get back on that case honey,anger,negative
+test-dia208_utt6,Rach come on what,neutral,neutral
+test-dia250_utt8,Very cold hard unyielding y'know nothing,neutral,neutral
+test-dia22_utt17,Really Okay Great,joy,positive
+test-dia16_utt1,Listen uh I’d prefer it if you didn’t call me Joey,neutral,neutral
+test-dia213_utt7,Yeah,joy,positive
+test-dia151_utt1,What,neutral,neutral
+test-dia239_utt5,Ginger,neutral,neutral
+test-dia47_utt9,Hey,neutral,neutral
+test-dia271_utt1,Put Joey on the phone,neutral,neutral
+test-dia25_utt8,Y'know what I didn’t wear this suit for a year because you hated it Well guess what You’re not my girlfriend anymore so,anger,negative
+test-dia54_utt9,Now it also says here that you lied about your sexual preference before marriage,neutral,neutral
+test-dia254_utt12,Monica come on now Let's go baby coming,neutral,neutral
+test-dia166_utt4,Go and tell Rachel right now before Ross finds out,sadness,negative
+test-dia71_utt3,Oh that’s great Okay well I’ve heard everything I need to hear I just need to uh Leslie,surprise,positive
+test-dia83_utt6,Why What happened,surprise,negative
+test-dia100_utt18,Leslie Who are you Leslie,fear,negative
+test-dia157_utt4,What are you doing Well I heard Emma's stirring so,neutral,neutral
+test-dia30_utt3,I wish No you know he was just trying of Ross's hug and roll thing,joy,positive
+test-dia169_utt10,Phoebe I think he would notice when you didn't have a baby in nine months,anger,negative
+test-dia30_utt4,Ross is what,surprise,positive
+test-dia35_utt3,Long story honey,neutral,neutral
+test-dia120_utt0,Sure OK,joy,positive
+test-dia263_utt4,She's not gonna make you wear one of those big plastic cones is she,fear,negative
+test-dia60_utt0,Yeah but what if it's not okay I mean what if there's a reason we can't have a baby,fear,negative
+test-dia132_utt12,pants,neutral,neutral
+test-dia33_utt4,It worked,surprise,positive
+test-dia214_utt7,Yeah,joy,positive
+test-dia128_utt6,I think I know what's going on here,disgust,negative
+test-dia277_utt0,For us kissing is as important as any,sadness,negative
+test-dia212_utt1,Oh please,neutral,neutral
+test-dia188_utt8,Hey that woman's got an ass like Carole's What I thought we were trying to find stuff,joy,positive
+test-dia37_utt3,You got to hate from that You were thinking a big leap there,fear,negative
+test-dia161_utt7,No way you are right on time,neutral,neutral
+test-dia231_utt11,That's horrible Well you did the right thing man,disgust,negative
+test-dia17_utt0,Hey when you guys were kids and you played a happy,neutral,neutral
+test-dia43_utt4,Oh please it's a relief is what it is is what it is,neutral,neutral
+test-dia201_utt4,My roommate bet me five bucks that I couldn't and then he stuck a board through the handles and locked me,neutral,neutral
+test-dia170_utt1,Oh let me see Let me see your hair,surprise,positive
+test-dia56_utt10,Wow I can't believe that's our baby,surprise,positive
+test-dia167_utt11,I think that yours is a question with many possible answers,neutral,neutral
+test-dia100_utt0,Why are you taking care of you with no problem huh,neutral,neutral
+test-dia256_utt0,So um so what's up You came to see me yesterday,joy,positive
+test-dia95_utt15,I'm skiing,joy,positive
+test-dia221_utt0,Hi Barry Remember me I'm the girl,neutral,neutral
+test-dia188_utt3,Peach pit That night we uh we had eaches,neutral,neutral
+test-dia279_utt9,Why don't you phase it out Yeah phase the accent out,neutral,neutral
+test-dia184_utt5,I mean hi,neutral,neutral
+test-dia8_utt3,Don't be,surprise,negative
+test-dia145_utt0,Hey ladies what are you in here for,neutral,neutral
+test-dia272_utt1,the caterer rank to say it's going to be chicken kiev instead of chicken taro,neutral,neutral
+test-dia56_utt2,Oh oh it's beautiful I see it now,joy,positive
+test-dia267_utt3,So does that mean the audition's off,sadness,negative
+test-dia133_utt0,Hi,joy,positive
+test-dia266_utt12,Oh so you weren't trying to entice me just now with your nakedness,surprise,positive
+test-dia51_utt0,Hey Hi,joy,positive
+test-dia157_utt5,What are you doing Well I heard Emma stirring so I came in to make sure she could reach Huggsy,neutral,neutral
+test-dia228_utt8,So I don't think I should do it anymore,sadness,negative
+test-dia133_utt1,Hi,joy,positive
+test-dia188_utt0,What,neutral,neutral
+test-dia260_utt9,Yes,joy,positive
+test-dia258_utt7,Stalin Stalin Do I know that name That sounds familiar,neutral,neutral
+test-dia112_utt3,I also have to find a new video store a new bank a new adult book store a new grocery store a new book store a new adult book store a new adult book store a new adult,disgust,negative
+test-dia39_utt4,You're right Thanks for keeping me honest Dad,neutral,neutral
+test-dia279_utt0,Give me a note they are mo,anger,negative
+test-dia125_utt10,if you'll excuse me for a minute,neutral,neutral
+test-dia93_utt13,the reason he just said what do you need,neutral,neutral
+test-dia53_utt5,Huh Except Phoebe's not going to be the one who gets to dress them,neutral,neutral
+test-dia163_utt5,And what you said about Nana,neutral,neutral
+test-dia132_utt19,No,surprise,negative
+test-dia80_utt8,All right,neutral,neutral
+test-dia64_utt2,she is going to know that you stole the joke,anger,negative
+test-dia125_utt0,Bye Hey,joy,positive
+test-dia207_utt1,what oh no you just rolled over the juice box,sadness,negative
+test-dia219_utt1,Janus what are you doing here,sadness,negative
+test-dia162_utt1,Do it,neutral,neutral
+test-dia143_utt8,A hundred and fortyfive pounds,disgust,negative
+test-dia70_utt0,So you see Molly what people don't understand is that acting is a discipline Takes a lot of hard work,neutral,neutral
+test-dia38_utt1,Oh one of my students got an audition I'm so proud,joy,positive
+test-dia12_utt8,That is so silly,joy,positive
+test-dia162_utt4,Uh yeah,neutral,neutral
+test-dia125_utt3,Oh my new assistant is working out yes,neutral,neutral
+test-dia116_utt9,Oh it is,neutral,neutral
+test-dia109_utt3,That's okay,neutral,neutral
+test-dia86_utt1,It's got all of these layers,neutral,neutral
+test-dia144_utt11,What could I have possibly done,anger,negative
+test-dia119_utt0,I got that I'll escape over there I'll come back over here Alright come on Ms PacMan's gut,neutral,neutral
+test-dia197_utt3,Yeah,neutral,neutral
+test-dia179_utt1,Well I'm totally over it Chandler Friends forever Don't come out here Would you mind doing a picture with us Ah well,anger,negative
+test-dia154_utt16,Yeah you know Happy Holidays from Mona and Ross It'll be cute okay,joy,positive
+test-dia254_utt14,That's nice Get out Let's go Let's go,disgust,negative
+test-dia16_utt2,Because since I don't know anyone here I thought it might be fun to try out a cool work nickname,neutral,neutral
+test-dia64_utt1,I was gonna stick it in the ATM but now I think I'll show the sexy teller that I am a published writer,neutral,neutral
+test-dia75_utt5,Um alrighty Um before we get started I just I need you to state for the you know official record that you are in fact frankly,neutral,neutral
+test-dia192_utt5,the little girl creep you out,anger,negative
+test-dia54_utt2,So based on your petition you are seeking an annulment on the grounds that Mr Geller is mentally unstable,neutral,neutral
+test-dia47_utt12,Oh yeah Well how'd she take it,neutral,neutral
+test-dia120_utt3,And then we can have like a roll top desk with little comment cards so people can tell us how much they love staying here,joy,positive
+test-dia250_utt2,Oh come on Phoebe would you just think about it,sadness,negative
+test-dia70_utt15,Look the truth is I haven't felt this way about anyone since Rachel,sadness,negative
+test-dia206_utt4,How do I get this reputation as dropper,anger,negative
+test-dia64_utt14,What,surprise,negative
+test-dia262_utt2,Wow skates,joy,positive
+test-dia139_utt7,Rachel Rachel Well you're not at home You're you're right here Yeah I know,surprise,positive
+test-dia95_utt14,Hey fibs Hi,joy,positive
+test-dia20_utt5,Maybe you need sex I had sex a couple days ago,neutral,neutral
+test-dia153_utt11,Yeah Joe I assure you if I'm staring down the barrel of a gun I'm gonna be pretty much peeing every which way,fear,negative
+test-dia35_utt2,Where have you been,neutral,neutral
+test-dia156_utt9,Because we we we split up Monica and I split up Hold me,sadness,negative
+test-dia259_utt15,It is not,anger,negative
+test-dia37_utt0,So I hear you hate me,anger,negative
+test-dia244_utt12,this photographer who seemed really dumb,neutral,neutral
+test-dia101_utt2,Hey why are you mopping your ceiling Ugh there's banana on it,sadness,negative
+test-dia144_utt7,Hi Fran and congratulations,neutral,neutral
+test-dia15_utt5,Cut it out Ross I'd hate to have to save your life and kick your ass on the same day,anger,negative
+test-dia232_utt3,Uhhuh He's really shy I don't think he's up to meeting everyone yet,neutral,neutral
+test-dia16_utt4,Looks like there's like 300 bucks in this,surprise,negative
+test-dia98_utt3,Pants and a sweater Why Mom,anger,negative
+test-dia130_utt7,Sure why not,neutral,neutral
+test-dia213_utt9,Yeah you too,neutral,neutral
+test-dia22_utt1,Hi,neutral,neutral
+test-dia204_utt3,She's living my life and she's doing it better than me,anger,negative
+test-dia250_utt4,Okay um see you thieves,neutral,neutral
+test-dia11_utt4,Okay,neutral,neutral
+test-dia228_utt5,Because I don't care,neutral,neutral
+test-dia232_utt6,Really That's what you heard You said that,surprise,positive
+test-dia38_utt3,You bet What's the part,joy,positive
+test-dia224_utt3,deeper,neutral,neutral
+test-dia58_utt15,You know I don't have an appointment but I sure could use a physical Are you sure you're okay Oh yeah yeah don't worry about me I'll be fine,neutral,neutral
+test-dia180_utt1,That sounds good I'll call you Or you call me Whatever,neutral,neutral
+test-dia107_utt12,Come on you gotta have one,surprise,positive
+test-dia34_utt1,So easy for you I mean you're not married you get to have sex with whoever you want,disgust,negative
+test-dia70_utt13,you,anger,negative
+test-dia123_utt6,What You said he was so sweet,surprise,negative
+test-dia152_utt4,Oh right Okay yeah my mom could and I can't We don't have that,neutral,neutral
+test-dia189_utt5,What do you think of the Abby Chandler,neutral,neutral
+test-dia254_utt9,Yeah like in a cat,neutral,neutral
+test-dia156_utt5,It's the semifinals of her bocce ball tournament,neutral,neutral
+test-dia173_utt10,Oh it's okay I don't know,neutral,neutral
+test-dia60_utt5,Oh you can do it in the parking lot of a Taco Bell but you can't do it at a doctor's office,anger,negative
+test-dia198_utt3,Come on 211,neutral,neutral
+test-dia78_utt7,Guess what They published my pa,joy,positive
+test-dia2_utt9,Okay you got it,neutral,neutral
+test-dia132_utt10,Now do you want this man's blood on your,anger,negative
+test-dia169_utt5,Why Why can't you marry me,surprise,negative
+test-dia175_utt7,Like what,neutral,neutral
+test-dia17_utt2,Question was egg the gellers the war cry of your neighborhood,neutral,neutral
+test-dia266_utt14,You weren't trying to entice me with your nakedness,joy,positive
+test-dia41_utt2,I can't believe it He still hasn't called,anger,negative
+test-dia183_utt3,Are you kidding me,anger,negative
+test-dia253_utt3,that might be okay even if it was just kind of a fling that might be alright with Rachel,neutral,neutral
+test-dia243_utt5,In the afternoon Mr Zellner came into my office after lunch he put them on my desk and then I put it posted on it,neutral,neutral
+test-dia95_utt4,I can't believe you gave him money I thought you were great it was totally unreasonable that they asked me for that money,surprise,negative
+test-dia213_utt10,C'mon,neutral,neutral
+test-dia169_utt11,It's Joey,surprise,negative
+test-dia240_utt12,I was wondering if there's any tips you could give me I'm leaving the show,surprise,negative
+test-dia34_utt9,See I'm seeing this guy Roger right Yeah I mean he's not purp,neutral,neutral
+test-dia244_utt9,Nice to meet you Chandler Bing Bing,neutral,neutral
+test-dia159_utt1,Alright alright I'll do it,anger,negative
+test-dia96_utt4,Thank you,joy,positive
+test-dia5_utt4,No please,neutral,neutral
+test-dia137_utt13,She goes and makes a date with a guy on the same night she has plans with me,anger,negative
+test-dia68_utt8,I don't know,neutral,neutral
+test-dia142_utt1,All right,neutral,neutral
+test-dia266_utt3,Yeah sure,neutral,neutral
+test-dia254_utt0,Let it go let's go Come on now people Women and ladies,neutral,neutral
+test-dia164_utt7,You are not allowed to laugh at my joke,anger,negative
+test-dia241_utt9,Maybe it's because I'm on television I'm an actor on Days of Our Lives Wow really,joy,positive
+test-dia16_utt0,Hey Joey could you pass the chicks,neutral,neutral
+test-dia165_utt4,I can't believe we're living here,sadness,negative
+test-dia210_utt7,I know what time he said,joy,positive
+test-dia195_utt7,I know I have this weird thing where I want everything to be in the perfect place,joy,positive
+test-dia154_utt17,Okay,joy,positive
+test-dia161_utt10,Yes you can very much,joy,positive
+test-dia129_utt2,I know it's the best I could get out of them,neutral,neutral
+test-dia135_utt4,I will,joy,positive
+test-dia186_utt1,But actually sorry I can't even make it I'm seeing Mona again tonight,neutral,neutral
+test-dia222_utt13,Wow I really get crabby when I cook,surprise,positive
+test-dia96_utt0,Here I need to borrow some moisturizer For what,neutral,neutral
+test-dia211_utt3,Joey,surprise,negative
+test-dia252_utt2,You,anger,negative
+test-dia274_utt1,Well if you don't have anything to copy why are you going down there,neutral,neutral
+test-dia93_utt4,I don't want to talk to you Wayne I hate you You ruined my life,neutral,neutral
+test-dia150_utt1,People are looking I don't care I don't care,anger,negative
+test-dia215_utt7,I do know,sadness,negative
+test-dia119_utt6,Come on by age seven kids have already seen orgies Was it just me,surprise,negative
+test-dia83_utt3,you,neutral,neutral
+test-dia46_utt0,My favorite shoes so good to me I wear them every day,joy,positive
+test-dia120_utt9,No,disgust,negative
+test-dia240_utt9,No I'm Joey Tribbiani We did a scene together yesterday I'm the guy in the coma,joy,positive
+test-dia135_utt0,Rachel one of your customers seemed to have left his billfold Joshua Bergin,neutral,neutral
+test-dia217_utt10,Oh I mean we were really drunk I'm just glad we didn't do anything stupid Tell me about it,neutral,neutral
+test-dia229_utt10,Yeah it looks pretty great in there,joy,positive
+test-dia155_utt3,Oh my God Okay it's not,surprise,negative
+test-dia70_utt17,Come on,joy,positive
+test-dia156_utt13,Ring my boy We're gonna get you over this,neutral,neutral
+test-dia164_utt5,What You didn't get it The doctor is a monkey,neutral,neutral
+test-dia202_utt7,Well listen I better get going,joy,positive
+test-dia96_utt8,I warned you,neutral,neutral
+test-dia260_utt1,I didn't even when I found out,joy,positive
+test-dia180_utt5,Yeah there you go,joy,positive
+test-dia132_utt1,Could you help me with something The patient I'm looking for has a broken leg and he's in a wheelchair and he's like early to midthirties very traffic,neutral,neutral
+test-dia274_utt4,Thank you very much,joy,positive
+test-dia199_utt11,Any luck,sadness,negative
+test-dia46_utt3,Don't care what people say,joy,positive
+test-dia116_utt8,What,neutral,neutral
+test-dia160_utt13,Okay I gotta ask who calls us that,anger,negative
+test-dia178_utt8,I'll probably be playing a zone defense,neutral,neutral
+test-dia163_utt2,Hey all that stuff you said about true love,sadness,negative
+test-dia191_utt6,Oh sure Do you need me to train somebody new,joy,positive
+test-dia160_utt1,I mean all I'm asking for is just a little emotion,anger,negative
+test-dia131_utt5,Oh hey show them the picture of your uterus,neutral,neutral
+test-dia139_utt6,Rachel Rachel,neutral,neutral
+test-dia65_utt1,What So what are we supposed to call you,neutral,neutral
+test-dia1_utt4,Let's get that ball and really move Hey hey Ho ho,joy,positive
+test-dia125_utt1,Hey,neutral,neutral
+test-dia47_utt4,Can't it's not there,neutral,neutral
+test-dia90_utt3,I'm sorry your husband cheated on you,sadness,negative
+test-dia88_utt10,What if I told you there's a revolutionary new product that guarantees you'll never have to open up milk cartons again Meet the Milk Master 2000,neutral,neutral
+test-dia199_utt0,Well I just called Joshua,neutral,neutral
+test-dia141_utt4,I love you Are you hugging the door right now No,neutral,neutral
+test-dia25_utt2,Oh God I'm so sorry,sadness,negative
+test-dia112_utt21,She must have left,neutral,neutral
+test-dia126_utt8,What are you doing here,surprise,negative
+test-dia152_utt1,Wait you mean like this Yeah,neutral,neutral
+test-dia161_utt5,Good luck with your girlfriend,neutral,neutral
+test-dia169_utt19,Was that story over,neutral,neutral
+test-dia252_utt5,Does that seem like something you can do,anger,negative
+test-dia268_utt0,Wow fortunately she has a very pretty face,surprise,negative
+test-dia122_utt1,You know how good I was,surprise,negative
+test-dia70_utt16,Okay I didn't think I could ever love again,sadness,negative
+test-dia78_utt9,Great Look Ooh hi,joy,positive
+test-dia103_utt2,If you have a minute I'd like to talk to you about something I'm really uncomfortable talking about,fear,negative
+test-dia158_utt1,No sorry,sadness,negative
+test-dia101_utt1,Hey,neutral,neutral
+test-dia56_utt9,Aww thank you You're welcome,neutral,neutral
+test-dia1_utt0,Come on Lydia you can do it Push,neutral,neutral
+test-dia141_utt3,You are the master No Mom That's funny you look like you're gonna be the next one Don't say it,neutral,neutral
+test-dia265_utt0,But we haven't seen each other since then while I land in China guess who's in charge of the day,surprise,positive
+test-dia189_utt6,I think it's great It's great You know they're thinking of changing the name of this place,neutral,neutral
+test-dia259_utt3,Remember evolution,joy,positive
+test-dia165_utt1,No I think I saw some in here,neutral,neutral
+test-dia219_utt0,Did she see us yet Did she see us,neutral,neutral
+test-dia239_utt9,Yes I do,neutral,neutral
+test-dia64_utt9,Well if you want you can work here,neutral,neutral
+test-dia272_utt5,Well up yours too,anger,negative
+test-dia7_utt4,You can like bite and pull people's hair,surprise,negative
+test-dia225_utt4,Thank you very much,neutral,neutral
+test-dia12_utt5,You're doing it,anger,negative
+test-dia270_utt0,Hi is Carol here,neutral,neutral
+test-dia271_utt3,And it's an interview with Jill Mavic,fear,negative
+test-dia96_utt9,Who is being loud,anger,negative
+test-dia168_utt4,Diverse,neutral,neutral
+test-dia97_utt5,Do you have a chair with your name on it,neutral,neutral
+test-dia56_utt0,I didn't want her to think I was a terrible mother I can't even see my own baby,sadness,negative
+test-dia182_utt0,Thank you Happy Holidays,joy,positive
+test-dia213_utt11,All right all right I'll sleep with my girlfriend but I'm just doing it for you guys,neutral,neutral
+test-dia157_utt1,It's okay Emma you stay asleep,neutral,neutral
+test-dia261_utt4,Done,joy,positive
+test-dia194_utt2,Hey you know that teacher who had a baby with her student,neutral,neutral
+test-dia114_utt1,Or not Uh Rach why don't you just move in with me,neutral,neutral
+test-dia135_utt5,Oh absolutely,joy,positive
+test-dia123_utt11,We can't fire a man dump him in the same day he'll kill himself,sadness,negative
+test-dia95_utt12,You,joy,positive
+test-dia69_utt5,You know I feel like I've lost her,joy,positive
+test-dia126_utt4,I think I would you actually would you go check on that honey We don't have any bears here,fear,negative
+test-dia270_utt7,Yes I'm familiar with the concept We can just look for it,neutral,neutral
+test-dia237_utt3,I don't know We're talking about whipped fish Monica I'm just happy I'm keeping it down you know,disgust,negative
+test-dia118_utt7,What Anything Anything,joy,positive
+test-dia112_utt5,A new grocery store,neutral,neutral
+test-dia14_utt5,Now don't hold back Okay,neutral,neutral
+test-dia10_utt2,I don't know if you'd understand,neutral,neutral
+test-dia270_utt2,Well I uh just came by to pick up my skull Well uh well not mine but Come in Thanks,neutral,neutral
+test-dia271_utt5,Yeah like that thought never entered my mind,neutral,neutral
+test-dia2_utt5,Okay you know I'll lift it straight up,anger,negative
+test-dia167_utt3,Um well I would have to say that it's a tragic love story,neutral,neutral
+test-dia113_utt7,Yeah that's right,anger,negative
+test-dia124_utt13,No no I want to see you take off,neutral,neutral
+test-dia244_utt2,Hey,neutral,neutral
+test-dia54_utt0,Okay you two are asking the court for an annulment,neutral,neutral
+test-dia175_utt10,I'm not dead I'm serious,anger,negative
+test-dia187_utt0,So it's down to these two Nancy I know you like this one and I think I agree Rachel what do you think,neutral,neutral
+test-dia54_utt5,What Yes heroin and crack,surprise,negative
+test-dia258_utt0,How about Joey Paponi,neutral,neutral
+test-dia279_utt4,Give me a kiss,anger,negative
+test-dia237_utt4,What happened to you,surprise,negative
+test-dia190_utt0,No I can't believe I'm getting my nails done,surprise,negative
+test-dia143_utt4,What,neutral,neutral
+test-dia74_utt1,Listen if you decide to do this we'll be supportive like crazy,neutral,neutral
+test-dia259_utt8,I've heard enough I've made my decision,neutral,neutral
+test-dia254_utt7,What is that,surprise,negative
+test-dia168_utt1,And when she comes in hopefully she won't recognize it because well why would she,neutral,neutral
+test-dia112_utt0,Oh there it is,neutral,neutral
+test-dia193_utt1,I'm on time,joy,positive
+test-dia36_utt1,Behind my brother's back is exactly the kind of crazy thing you won't be hearing from me,anger,negative
+test-dia65_utt2,Okay uh for now temporarily you can call me Clint,neutral,neutral
+test-dia37_utt6,But what is that,anger,negative
+test-dia120_utt17,Are you mocking me,anger,negative
+test-dia263_utt9,I'm gonna have to give him love,sadness,negative
+test-dia251_utt3,Really,surprise,positive
+test-dia252_utt15,But that doesn't mean you have to talk about it,neutral,neutral
+test-dia17_utt18,All right I haven't lived here in a while so I have to ask you something,neutral,neutral
+test-dia74_utt2,We just want you to think it through,neutral,neutral
+test-dia228_utt3,Okay fine Delta you know what I am a terrible waitress,neutral,neutral
+test-dia168_utt7,Okay which one of you guys is Gunther Central for Hey Joey,neutral,neutral
+test-dia154_utt10,Wow,joy,positive
+test-dia268_utt6,Well I'm sorry there wasn't better news from your test last week but I wanted to talk to you about your options,neutral,neutral
+test-dia231_utt10,And it's not just chicks you know it's all kinds of other animals,disgust,negative
+test-dia22_utt13,No no it was a fight,joy,positive
+test-dia255_utt1,Okay I don't know you you just you have a quality,joy,positive
+test-dia259_utt2,I study evolution,joy,positive
+test-dia114_utt0,All right well the place was closed I'll just copy it later,neutral,neutral
+test-dia71_utt7,Not a problem,neutral,neutral
+test-dia80_utt2,He made Rachel cry,disgust,negative
+test-dia166_utt11,I am a gentle person,neutral,neutral
+test-dia227_utt3,I also said number one,neutral,neutral
+test-dia56_utt6,Yeah,neutral,neutral
+test-dia39_utt0,Hi Hi Hi Has um anyone seen Chan,neutral,neutral
+test-dia201_utt3,I got in there myself once,neutral,neutral
+test-dia74_utt3,Honey maybe you can talk to somebody who's had a baby like your mom,neutral,neutral
+test-dia164_utt2,You know Barracuda was the first song I learned to play on the keyboard,neutral,neutral
+test-dia131_utt7,I don't see the baby where is it,neutral,neutral
+test-dia271_utt2,What's up man,neutral,neutral
+test-dia260_utt6,Did you touch any of the guitars while you were there,anger,negative
+test-dia96_utt5,Where's Joey His mom's in the He's in the bathroom,neutral,neutral
+test-dia231_utt1,Yes that's Yasmine Bleak,neutral,neutral
+test-dia261_utt7,or Joseph,neutral,neutral
+test-dia163_utt0,You know I don't understand why they didn't cry It was a beautiful speech,sadness,negative
+test-dia226_utt2,Although you know he's a private guy,neutral,neutral
+test-dia32_utt7,Oh well you know we were always together right In fact the other kids had a nickname for the three of us,neutral,neutral
+test-dia21_utt4,No no That's all right Don't tell me I don't think either answer would make me feel better so Here,sadness,negative
+test-dia100_utt14,Why are there only two of you,fear,negative
+test-dia124_utt3,Well just until we find an energy source to replace fuel,neutral,neutral
+test-dia147_utt7,All right okay I gotta go,neutral,neutral
+test-dia177_utt1,About what,neutral,neutral
+test-dia103_utt3,Sure How about you showering with your mom,surprise,negative
+test-dia208_utt3,That's the word,neutral,neutral
+test-dia215_utt8,Thanks for watching,sadness,negative
+test-dia137_utt5,What are you doing tonight,neutral,neutral
+test-dia111_utt4,Okay Look it was stupid,sadness,negative
+test-dia104_utt0,No excellent excellent and finally are you into any weird stuff You know sexually,joy,positive
+test-dia190_utt1,There's a guy right over there,neutral,neutral
+test-dia272_utt2,And then the florist's going to say that there aren't any tulips,neutral,neutral
+test-dia243_utt0,Hey feel free to look but I'm telling you those contracts are not on this,anger,negative
+test-dia80_utt7,Go All right all right all right,anger,negative
+test-dia4_utt1,What It can't I think the baby ca,neutral,neutral
+test-dia211_utt6,We should,neutral,neutral
+test-dia109_utt1,You know good for you Uh porters or rolls of porters,joy,positive
+test-dia41_utt3,Who Josh It's Joshua,surprise,negative
+test-dia77_utt2,That cup is mine,anger,negative
+test-dia173_utt18,Well I did put a lot of thought into the tape,neutral,neutral
+test-dia173_utt5,Are we okay,surprise,negative
+test-dia124_utt10,There you are There you are,surprise,positive
+test-dia263_utt2,Where have you been I just got back from the vet,neutral,neutral
+test-dia65_utt0,I have no name,neutral,neutral
+test-dia249_utt3,Well I've got a project for you that's a lot more related to,neutral,neutral
+test-dia64_utt16,Maybe I could be a waiter Could I use the phone,neutral,neutral
+test-dia156_utt8,And why can't three of us go out together,neutral,neutral
+test-dia28_utt6,It's kind of embarrassing,neutral,neutral
+test-dia9_utt11,My bed my clothes Look at my favorite blue sweater,sadness,negative
+test-dia180_utt2,You got it You got it,neutral,neutral
+test-dia12_utt6,Two very good points Look I've known you both a long time and I've never seen either of you one millionth as happy as you've been since you got together,sadness,negative
+test-dia211_utt5,I went out with her That's my wife,anger,negative
+test-dia117_utt6,Well then she'd take her keys and try to jam them in,neutral,neutral
+test-dia254_utt16,Thank you,neutral,neutral
+test-dia266_utt4,So do I,neutral,neutral
+test-dia171_utt8,Okay here's where we go to the live shot of Times Square Nice work everyone,joy,positive
+test-dia5_utt6,I talk in my sleep,neutral,neutral
+test-dia196_utt13,Ask again later,neutral,neutral
+test-dia191_utt0,I don't know,sadness,negative
+test-dia242_utt5,You're definitely scaring her,neutral,neutral
+test-dia185_utt7,Alright well finish your coffee let's go,neutral,neutral
+test-dia194_utt3,hm hm hm,surprise,negative
+test-dia28_utt14,Yeah I would like that,joy,positive
+test-dia115_utt2,Excuse me little one I have a very solid backhand,anger,negative
+test-dia113_utt3,Let me in,neutral,neutral
+test-dia21_utt5,I love you Phoebe,joy,positive
+test-dia72_utt1,this room's available okay okay wait you listen to me,joy,positive
+test-dia279_utt1,Why,anger,negative
+test-dia131_utt4,Good,neutral,neutral
+test-dia80_utt9,I mean I'll have to check with him first but I think you'll be cool,neutral,neutral
+test-dia266_utt9,And what is that Ross,neutral,neutral
+test-dia138_utt3,What What,surprise,negative
+test-dia14_utt9,We're just celebrating that Joey got his health insurance back,joy,positive
+test-dia66_utt2,Yes I did Thank you very much Excellent,joy,positive
+test-dia96_utt17,You know how in a relationship you have these key moments that you know you'll remember for the rest of your life Well every,neutral,neutral
+test-dia58_utt1,Hey,joy,positive
+test-dia130_utt0,So what did we decide Does your uncle Nathan get an invite or not,neutral,neutral
+test-dia228_utt0,Remind me to review with you which pot is decaf and which is regular,neutral,neutral
+test-dia49_utt3,Uh nine,neutral,neutral
+test-dia133_utt2,It was just helping me out My head got all sunburned,neutral,neutral
+test-dia140_utt4,You know like write a play,neutral,neutral
+test-dia66_utt1,Yes,joy,positive
+test-dia70_utt4,Ollie people don't study acting,neutral,neutral
+test-dia83_utt2,Yeah I ended up in the storage room and not alone,neutral,neutral
+test-dia78_utt1,Because I don't work at the Szechuan dragon,neutral,neutral
+test-dia224_utt7,You are a strong confident woman who does not need to smoke,neutral,neutral
+test-dia34_utt5,Oh my God You're a 30yearold virgin,surprise,negative
+test-dia144_utt5,Monica,surprise,negative
+test-dia221_utt1,Okay okay Look I realize you guys have been wondering what exactly happened between Carol and me,neutral,neutral
+test-dia259_utt1,Okay look,neutral,neutral
+test-dia71_utt0,And what's cool is the character is from Naples,joy,positive
+test-dia250_utt3,Okay no but thanks,neutral,neutral
+test-dia215_utt1,July,neutral,neutral
+test-dia158_utt2,Why Why He said he'd call Why hasn't he called,sadness,negative
+test-dia128_utt7,You do,neutral,neutral
+test-dia5_utt2,Marjorie,neutral,neutral
+test-dia274_utt0,Okay listen just give me anything I can make two of,neutral,neutral
+test-dia33_utt8,It's over,neutral,neutral
+test-dia32_utt4,So um anyway um I've been looking for my father and um have you heard from him or seen him Oh no I'm sorry I,neutral,neutral
+test-dia252_utt1,You,anger,negative
+test-dia32_utt10,Oh poor Lily,sadness,negative
+test-dia174_utt2,Oh thank you That's very helpful I'm glad you came over,neutral,neutral
+test-dia112_utt11,Oh you didn't have to come in with me Are you kidding This is where they get out stains This is like Disneyland for me,joy,positive
+test-dia9_utt17,Have you figured out what started the fire Mr Fireman,neutral,neutral
+test-dia100_utt17,Oh you can't answer Leslie Where are you Leslie,neutral,neutral
+test-dia112_utt16,Hope you don't think I'm crazy but I feel like I was meant to pick this up Do you believe in that kind of thing a little,joy,positive
+test-dia42_utt2,You know what I'm not gonna play anymore Would you Can you finish my set,neutral,neutral
+test-dia240_utt6,Can I get some ice here,sadness,negative
+test-dia47_utt0,God it's gonna be weird like when I come home and you're not here you know,sadness,negative
+test-dia146_utt3,No no they just hit a big blowout over what to do with my room,neutral,neutral
+test-dia112_utt19,I'd love to Let me just tell my friends,joy,positive
+test-dia132_utt11,Hands,neutral,neutral
+test-dia139_utt2,Me too,neutral,neutral
+test-dia88_utt2,Guys please don't watch this,disgust,negative
+test-dia144_utt2,Now wait a minute You be nice alright I didn't bring you here so you can ambush her,anger,negative
+test-dia17_utt20,Yeah I am so dead,neutral,neutral
+test-dia133_utt7,Thanks for watching and I hope you found this video interesting,neutral,neutral
+test-dia169_utt15,Thank you,surprise,negative
+test-dia106_utt1,I have a lung capacity of a twoyearold,neutral,neutral
+test-dia253_utt2,uh you know i just got out of a big relationship I'm not looking for anything serious,sadness,negative
+test-dia41_utt8,No wait wait okay you know what you were right,surprise,negative
+test-dia195_utt3,Chandler are you afraid of me or something,neutral,neutral
+test-dia41_utt4,It's Joshua,anger,negative
+test-dia125_utt11,Hey funny you should call,joy,positive
+test-dia35_utt4,All right Carole I need you to keep pushing I need it I need it Excuse me can I have this,neutral,neutral
+test-dia159_utt0,Ross listen if you do not get this annulment I will,anger,negative
+test-dia113_utt0,Monika stop throwing it so hard We're on the same team,anger,negative
+test-dia95_utt6,Thanks for watching,neutral,neutral
+test-dia133_utt9,I know,neutral,neutral
+test-dia97_utt1,Hey Monica it's Joey Hey Joey Oh you remember me even though you're a big ston,joy,positive
+test-dia239_utt7,Don't you have to use the bathroom Nope,neutral,neutral
+test-dia85_utt3,Look if I'm gonna go to the doctor for anything it's gonna be for this thing sticking out of my stomach,anger,negative
+test-dia118_utt2,Well really,surprise,positive
+test-dia156_utt12,You know what would really help me through this tough time is choking someone Kinda choke ya,anger,negative
+test-dia203_utt0,I think I brought back half the beach in my hair It was so much easier when I used to shave my head,anger,negative
+test-dia244_utt14,Put on the floor or come over no more,neutral,neutral
+test-dia99_utt7,See I told you they don't swim,neutral,neutral
+test-dia113_utt15,You guys I don't know what I'm gonna do with this thing,anger,negative
+test-dia51_utt1,Bye,joy,positive
+test-dia198_utt1,Well looks like we kicked your butts,joy,positive
+test-dia139_utt4,Thanks for watching,joy,positive
+test-dia28_utt13,if you have some time you know and maybe you might want to visit someone,neutral,neutral
+test-dia28_utt8,How about you Car accident,neutral,neutral
+test-dia173_utt8,that,sadness,negative
+test-dia137_utt7,Uh Dude dude,surprise,negative
+test-dia169_utt18,About a month ago this guy spent the night with Rachel now I didn't see who it was but,disgust,negative
+test-dia195_utt11,All right hold on OK First things first OK now did Ross sit anywhere while he was naked,neutral,neutral
+test-dia140_utt6,Huh,neutral,neutral
+test-dia246_utt13,This is saved Gift shop,neutral,neutral
+test-dia5_utt5,So uh what are you in for,neutral,neutral
+test-dia12_utt18,Yes,neutral,neutral
+test-dia17_utt14,Yeah I'm gonna go to a doctor who went to medical school at a mini mall,disgust,negative
+test-dia278_utt10,Yeah I'm not in that,neutral,neutral
+test-dia97_utt0,Hey Monica it's Joey Hey Joey,joy,positive
+test-dia46_utt6,Though only one night not much li,neutral,neutral
+test-dia137_utt12,After she gave me that big speech,surprise,negative
+test-dia206_utt2,I don't know my arm is killing me,neutral,neutral
+test-dia115_utt5,All right here Watch me execute the three Ps of championship play Power precision and panache,neutral,neutral
+test-dia247_utt4,I'll bet you're thinking what's an intelligent girl who wants to be in fashion doing making coffee,surprise,positive
+test-dia130_utt2,Yeah invite him,neutral,neutral
+test-dia240_utt0,I'm going to keep dating him Mother and there's nothing you can,anger,negative
+test-dia167_utt1,which I think we're,neutral,neutral
+test-dia188_utt7,Then we got dressed and III walked her to the the bus stop I'm fine,neutral,neutral
+test-dia47_utt8,Hi Hi,neutral,neutral
+test-dia72_utt6,have come and gone with their babies I'm next It's my turn It's only,anger,negative
+test-dia112_utt1,That's not your regular dry cleaners I know,neutral,neutral
+test-dia261_utt8,Oh,neutral,neutral
+test-dia258_utt11,Joseph Stalin I think you'd remember that,joy,positive
+test-dia53_utt3,Oh that is so sweet,joy,positive
+test-dia73_utt1,They don't look any bigger than me,neutral,neutral
+test-dia260_utt3,Hey keeps check this out,joy,positive
+test-dia111_utt9,Are we okay now Yeah,fear,negative
+test-dia88_utt6,Well you said it Mike I don't Oh Oh There's got to be a better way And there is Kevin,anger,negative
+test-dia17_utt15,Hey Pheebs What are you doing,neutral,neutral
+test-dia53_utt1,Little village people,neutral,neutral
+test-dia266_utt0,May I come in,neutral,neutral
+test-dia262_utt16,What Oh,surprise,negative
+test-dia262_utt8,You want some coffee,neutral,neutral
+test-dia268_utt1,Oh I still can't believe this My uterus is an inhospitable environment I've always tried so hard to be a good hostess Well I can't believe my sperm have low motile,surprise,negative
+test-dia130_utt9,Good,neutral,neutral
+test-dia20_utt2,Look trust me I'm telling you all the men are carrying them in the spring catalogue Look Hey look men carrying the bag,neutral,neutral
+test-dia49_utt7,I'm really getting tired of sneaking around all the time,neutral,neutral
+test-dia124_utt11,I had to have one last,surprise,positive
+test-dia198_utt9,My Catholic friend is right,neutral,neutral
+test-dia52_utt10,Hey Gunther you're an asoul,anger,negative
+test-dia252_utt13,But you understand how hard it is to forget about that,sadness,negative
+test-dia130_utt8,Really,surprise,positive
+test-dia161_utt2,It turns out that she wants to get back together with me,neutral,neutral
+test-dia120_utt14,why Asteroids is perfect It's the oldest game,neutral,neutral
+test-dia36_utt0,Come on up,neutral,neutral
+test-dia102_utt8,Why does she have a bad personality,neutral,neutral
+test-dia241_utt13,450 please Oh let me get this These are for you,neutral,neutral
+test-dia257_utt1,You know it,surprise,negative
+test-dia254_utt13,I can't believe it I'm gonna be in hand I'm gonna have like a nephew,joy,positive
+test-dia52_utt11,deal,anger,negative
+test-dia151_utt2,Is this a little too Phoebes,neutral,neutral
+test-dia57_utt2,Would you stop,joy,positive
+test-dia69_utt1,I mean that guy with the toe thing who's he sleeping with,anger,negative
+test-dia167_utt9,Well how would you know You didn't even read it,anger,negative
+test-dia33_utt0,All right well we already tried feeding her changing her burping her Oh try this one Go back in time and listen to Phoebe,sadness,negative
+test-dia175_utt3,This is your idea of sexy talk,surprise,positive
+test-dia17_utt12,I tip more than that when there's a bug in my food,disgust,negative
+test-dia140_utt8,Come on Ross be realistic you know If I did write something what are the chances I could get those guys to star in it,sadness,negative
+test-dia254_utt4,What so I can't look nice There might be doctors there,neutral,neutral
+test-dia262_utt15,I bought a restaurant and I would like you to be the head chef,joy,positive
+test-dia64_utt4,Yeah Well I'm not gonna go now,anger,negative
+test-dia213_utt3,Well big deal So Joey's had a lot of girlfriends It doesn't mean that he's great in bed,neutral,neutral
+test-dia110_utt0,She really said that,surprise,positive
+test-dia128_utt8,Look I know it must be hard that your wife is a lesbian but it's wrong You're married,disgust,negative
+test-dia52_utt8,You didn't expect her to live there with a baby did you,surprise,negative
+test-dia150_utt5,Rachel has those in burgundy,neutral,neutral
+test-dia149_utt2,I'm just sorry we don't got popcorn,sadness,negative
+test-dia162_utt3,I'LL DO YOU,neutral,neutral
+test-dia261_utt6,It's not,neutral,neutral
+test-dia223_utt1,I'm not worried I'm uh I'm fascinated,fear,negative
+test-dia145_utt7,you know man to well me,neutral,neutral
+test-dia121_utt0,You know I love doing crossword puzzles with you honey,joy,positive
+test-dia253_utt0,Didn't think you were gay I do now,joy,positive
+test-dia237_utt10,Here you go Maybe this will cheer you up,joy,positive
+test-dia75_utt4,Sit,anger,negative
+test-dia76_utt11,No I mean tonight in the building suddenly into our lives,neutral,neutral
+test-dia61_utt1,Look not that I don't enjoy talking about people we went to high school with because I do But maybe we could talk about something else,disgust,negative
+test-dia38_utt2,I was wondering if you would consider coaching me for it,neutral,neutral
+test-dia17_utt17,Monica kind of trusted me with something and she shouldn't have,fear,negative
+test-dia29_utt1,Well I didn't factor in the room tax Oh dude don't worry about it,surprise,negative
+test-dia109_utt6,We can't do that,neutral,neutral
+test-dia234_utt4,You idiot You gonna spill hot coffee all over me,anger,negative
+test-dia211_utt0,You Get out of my shop,anger,negative
+test-dia234_utt11,great Bye,surprise,positive
+test-dia267_utt5,What,surprise,negative
+test-dia241_utt3,Listen not that I'm insecure about my manhood or anything you know but I think I need to hook up with a woman like right now,neutral,neutral
+test-dia167_utt5,Oh oh oh Symbolism And uh the the uh wildness of the moors which I think is is mirrors,joy,positive
+test-dia44_utt3,Diane Keaton,neutral,neutral
+test-dia120_utt13,I just don't think that you know arcade games go in the beautiful guest room The beautiful guest room is going to be filled with antiques,neutral,neutral
+test-dia98_utt10,Can I borrow the phone I wanna call my apartment and check on my grandma Sure Wait what's my number,neutral,neutral
+test-dia185_utt4,Really No,surprise,negative
+test-dia150_utt0,People are looking I don't care,sadness,negative
+test-dia64_utt3,Oh what are you gonna do follow me down,anger,negative
+test-dia246_utt11,Anyway look I don't know about you and your jackets and your separate tables but Ross is one of my best friends And if I save him a seat I'm telling you he will sit in it,neutral,neutral
+test-dia144_utt4,That bitch,anger,negative
+test-dia95_utt13,They'll see you talking to me and that's I'm a hit,joy,positive
+test-dia71_utt11,So there you go That's me,neutral,neutral
+test-dia9_utt8,Uhoh How bad is it Oh it's bad It's really bad,sadness,negative
+test-dia125_utt13,Cancelled,surprise,negative
+test-dia174_utt4,Hi it's me,sadness,negative
+test-dia143_utt3,All right I have to ask,sadness,negative
+test-dia9_utt4,Thank you,surprise,negative
+test-dia218_utt1,I I will always have gum,neutral,neutral
+test-dia222_utt7,Making him a very fancy meal,joy,positive
+test-dia130_utt10,I don't think I'd be comfortable having any of my old lovers there,sadness,negative
+test-dia169_utt13,We don't know,neutral,neutral
+test-dia48_utt0,Okay if you need the vacuum it's in my closet on the lefthand side The garbage bags are next to the refrigerator,neutral,neutral
+test-dia214_utt5,so I'm not really that comfortable with dancing with like you know WEEHEE,joy,positive
+test-dia93_utt2,Yeah help me get this mini fridge past the security guard,neutral,neutral
+test-dia187_utt7,Rachel Yeah You smoke Oh no,neutral,neutral
+test-dia252_utt10,Yeah I know,sadness,negative
+test-dia96_utt13,Yeah well I only have 20 minutes until Ethan so you know,neutral,neutral
+test-dia46_utt1,I wear them every day,joy,positive
+test-dia154_utt6,oh yeah probably at the end oh my god all he took were pictures of my breasts,surprise,negative
+test-dia95_utt11,No I'm not No if anything I'm making you look better,surprise,positive
+test-dia167_utt0,It's this tragic love story between Kathy and Heathcliff and it takes place on these like really creepy Moors and Ingalls,sadness,negative
+test-dia17_utt5,Wait wait I want to see this After I divorce him half of that kingdom is going to be mine,joy,positive
+test-dia224_utt6,Cigarettes don't control you,neutral,neutral
+test-dia76_utt18,You betcha,joy,positive
+test-dia199_utt8,I know that I said I'm totally okay with Ross getting married but as it turns out I don't think I'm handling it all that well,sadness,negative
+test-dia251_utt2,But I gotta tell you I am a little relieved,neutral,neutral
+test-dia100_utt7,Okay I'm sorry I didn't mean to scare you I just have to clean that up okay,neutral,neutral
+test-dia17_utt7,Oh I cannot believe he's using our divorce to sell mattresses,anger,negative
+test-dia246_utt0,How come,neutral,neutral
+test-dia4_utt5,Oh my God I overslept I was supposed to be on the set a half an hour ago I gotta get out of here,fear,negative
+test-dia59_utt1,I guess except everything looks like jammies now,neutral,neutral
+test-dia115_utt1,Wait a minute Charlie You have no back hand,neutral,neutral
+test-dia247_utt3,I know,joy,positive
+test-dia273_utt3,Joey I can see you okay You're hiding behind the coats,neutral,neutral
+test-dia72_utt3,this room's available okay okay wait you listen to me,anger,negative
+test-dia131_utt0,Hi,neutral,neutral
+test-dia135_utt2,Will you call him,neutral,neutral
+test-dia34_utt3,Monica you've you've done it right,surprise,positive
+test-dia32_utt3,Thank you,neutral,neutral
+test-dia133_utt5,Oh you're welcome Amelia,joy,positive
+test-dia21_utt1,No but it'll be okay They're pretty cool My brother's strange so,neutral,neutral
+test-dia98_utt6,Power company guys Eligible looters,anger,negative
+test-dia57_utt4,All right Okay all right I think you're great I think you're sweet and you're smart And I love you,joy,positive
+test-dia131_utt3,Oh everything went great,joy,positive
+test-dia25_utt11,You like it right,neutral,neutral
+test-dia184_utt7,No you can't let this stop you from getting massages,sadness,negative
+test-dia140_utt10,Or that,neutral,neutral
+test-dia253_utt1,See my friend my friend Rachel she wants to be set up,neutral,neutral
+test-dia171_utt5,Three two one,neutral,neutral
+test-dia278_utt9,Oh here's a great one,joy,positive
+test-dia231_utt6,I'm done,surprise,positive
+test-dia102_utt6,Yeah I said it was okay when I thought she was some weird bald chick I mean you know that girl has got hair all over her head,anger,negative
+test-dia196_utt3,Well I don't know what else to do,sadness,negative
+test-dia228_utt9,I'm going to give you my week's notice,sadness,negative
+test-dia100_utt19,Leslie now would be a good time for your first words,sadness,negative
+test-dia240_utt8,You're not the fan who's dying are you,neutral,neutral
+test-dia184_utt8,No look I have lots of clients that make the same noise as you do,neutral,neutral
+test-dia223_utt2,You know it's like biology,neutral,neutral
+test-dia193_utt4,Okay uh why don't uh why don't you all start to read while I,neutral,neutral
+test-dia72_utt11,And my husband he is a lawyer,anger,negative
+test-dia16_utt6,Get the waiters gather around to hear tonight's specials Okay,neutral,neutral
+test-dia68_utt12,Oh I know one thing What,joy,positive
+test-dia173_utt3,Now Vivi what she makes they're sock rabbits,neutral,neutral
+test-dia9_utt7,Excuse me Joey he's working You would look good in that,anger,negative
+test-dia103_utt5,Well for like months Five to be,surprise,positive
+test-dia10_utt1,You know I mean no offense but what you guys all do is very di,neutral,neutral
+test-dia187_utt2,Oh don't be sorry That's part of your job here to give your opinions And then I take credit for them I'm kidding,neutral,neutral
+test-dia97_utt6,Uh well yeah yeah I got all that go,neutral,neutral
+test-dia225_utt2,Hey can you take a duck and a chick to the theater,neutral,neutral
+test-dia116_utt0,She's not much of a phone person Yeah,neutral,neutral
+test-dia49_utt11,You know we'd have no interruptions and we could be naked the entire time,joy,positive
+test-dia117_utt8,Who me the attacker Yes that's right,surprise,negative
+test-dia88_utt7,There's gotta be a better way And there is Kevin,neutral,neutral
+test-dia182_utt4,Tim,fear,negative
+test-dia153_utt3,But it seems to me it's pretty much like anything else you know Face your fear,neutral,neutral
+test-dia168_utt18,Marry me,neutral,neutral
+test-dia137_utt1,Hello,neutral,neutral
+test-dia12_utt3,Enough of the silliness Well why don't you tell her to stop being sick,anger,negative
+test-dia52_utt9,I guess I don't really think about it,neutral,neutral
+test-dia204_utt7,She spent three hundred dollars on art supplies,anger,negative
+test-dia216_utt3,Monica and Rachel made out,neutral,neutral
+test-dia140_utt13,I don't have the discipline that it takes you know I can't do it,sadness,negative
+test-dia197_utt1,Thank you for watching,neutral,neutral
+test-dia130_utt4,Yeah that's fine,neutral,neutral
+test-dia123_utt9,Just don't pick up your phone then he comes over I'm so worried about you be a man,disgust,negative
+test-dia76_utt4,Hi,neutral,neutral
+test-dia232_utt7,I might have said that Why is that funny,neutral,neutral
+test-dia262_utt14,So what did you do today Pete,neutral,neutral
+test-dia72_utt8,IT'S ONLY FA,anger,negative
+test-dia76_utt1,Everybody this is Talo Talo I want you to meet my friends,neutral,neutral
+test-dia30_utt5,you know like where he hugs you and then he kind of rolls you away and Oh My God,disgust,negative
+test-dia128_utt5,Yes it's flown into your blouse and you'd better undo your buttons lest it sting you,anger,negative
+test-dia153_utt7,In this case you have a fear of commitment So I say you go in there and you be the most committed guy there ever was,neutral,neutral
+test-dia86_utt3,Raspberries more lady fingers then beef sauteed with peas and onions,neutral,neutral
+test-dia49_utt14,Oh I've always wanted to go to this culinary fair that they have in Jersey,joy,positive
+test-dia121_utt3,cat,neutral,neutral
+test-dia113_utt13,Don't worry guys it's not a cat,anger,negative
+test-dia125_utt12,I was just looking over next week's script,neutral,neutral
+test-dia8_utt0,Oh Bob he was nothing compared to you I had to bite my lip to keep from screaming your name,sadness,negative
+test-dia196_utt12,Later is not good enough,anger,negative
+test-dia9_utt2,Yeah most of the damage is pretty much contained in the bedrooms,sadness,negative
+test-dia37_utt4,All right fine fine fine fine fine we have got to do something about our little situation here Joey,anger,negative
+test-dia32_utt2,Cookies are good thanks,neutral,neutral
+test-dia15_utt0,Yeah Oh you know what If I hurt a shot right now I'd throw my body,joy,positive
+test-dia116_utt7,Oh that is so not,neutral,neutral
+test-dia242_utt2,one word oh god do something,anger,negative
+test-dia42_utt0,Thank you Thanks,joy,positive
+test-dia83_utt7,I fooled around with Joey's sister Well that's not the worst part What is the worst part,sadness,negative
+test-dia255_utt5,Oh my god I'm falling from Rome,surprise,positive
+test-dia242_utt0,All right all right all right It's been 14 and a half minutes and you still have not said one word Oh God,neutral,neutral
+test-dia80_utt5,You go down there and you suck up to him I mean you suck like you've never sucked before,neutral,neutral
+test-dia107_utt6,You remember not having sex in high school,sadness,negative
+test-dia13_utt1,But I don't Me maybe,neutral,neutral
+test-dia262_utt4,Oh,neutral,neutral
+test-dia198_utt10,She's distraught,neutral,neutral
+test-dia145_utt3,Yeah,surprise,positive
+test-dia239_utt1,No this is just part of a daredevil game that I play called wait until last moment before I burst and die,anger,negative
+test-dia237_utt11,Oh you know I had a grape about five hours ago so I better split this with you,neutral,neutral
+test-dia1_utt3,Push him out push him out way up,joy,positive
+test-dia154_utt2,Hi Look I got our pictures developed from Rockefeller Center,joy,positive
+test-dia270_utt8,Wow you guys sure have a lot of books about being a lesbian,surprise,positive
+test-dia157_utt0,Look at you all sweet and innocent sleeping like an angel with those most chubby little hands wrapped around you,neutral,neutral
+test-dia211_utt2,Here and now with my wife,anger,negative
+test-dia178_utt3,Little baby girl Chandler Where have I heard that before,neutral,neutral
+test-dia222_utt10,I thought I was making them filet mignon,surprise,negative
+test-dia95_utt9,Yeah but you're making me look bad,anger,negative
+test-dia244_utt1,Okay well maybe not on those levels,neutral,neutral
+test-dia251_utt1,I'm really sorry Yeah I mean I'm sorry too,neutral,neutral
+test-dia161_utt1,Yeah you know the girlfriend I told you about last night,neutral,neutral
+test-dia208_utt12,Yeah I guess so,neutral,neutral
+test-dia25_utt0,Ow What honey,neutral,neutral
+test-dia184_utt6,All right this is so embarrassing Oh my god I'm never gonna get massaged again,fear,negative
+test-dia96_utt12,Oh you get the whole night huh,surprise,positive
+test-dia246_utt3,is crazy in a perfect world a world without lab coats and blazes but you not in a perfect world you in a museum now,neutral,neutral
+test-dia229_utt5,It's like it's raining Pretty cool huh,joy,positive
+test-dia58_utt13,Great it's so amazing I mean last time dr Roger came over I'm so nervous,joy,positive
+test-dia226_utt6,No that's what you do when you want to get the truth out of someone,neutral,neutral
+test-dia168_utt6,You Be Cool,neutral,neutral
+test-dia3_utt1,Wait wait look look I'm sorry it's just I've never even met How,fear,negative
+test-dia266_utt8,I just want this to be about what it is,joy,positive
+test-dia241_utt4,Yeah I understand,neutral,neutral
+test-dia121_utt5,I love you too,joy,positive
+test-dia199_utt1,Oh how'd it go,sadness,negative
+test-dia156_utt2,Oh my exwife didn't work Unless you call turning into her mother work Well fine Tomorrow night then,neutral,neutral
+test-dia253_utt9,Hold on You know I just got a box of Cubans,neutral,neutral
+test-dia153_utt5,You're afraid of bugs Get a bug,neutral,neutral
+test-dia227_utt2,You said number two,neutral,neutral
+test-dia174_utt13,Oh yeah got it,anger,negative
+test-dia108_utt5,Hi You know in England this car would be on the other side of the store Woosh,joy,positive
+test-dia241_utt5,Yeah Hey Hi,joy,positive
+test-dia238_utt4,Here's my retainer,neutral,neutral
+test-dia95_utt8,That's always fun to be,joy,positive
+test-dia7_utt0,Oh But without the costumes,neutral,neutral
+test-dia105_utt2,I didn't want to make any noise Then don't break in,anger,negative
+test-dia222_utt0,Hey Mon If you were hoping to sleep with Joshua for the first time tonight which one of these would you want to be wearing,neutral,neutral
+test-dia76_utt6,Hi,neutral,neutral
+test-dia76_utt13,That is funny and Rachel keeps touching him,neutral,neutral
+test-dia171_utt0,No,anger,negative
+test-dia253_utt11,Maybe before the game we can enjoy some eightyearold smallbatch basil havens,neutral,neutral
+test-dia259_utt12,Now let it go,anger,negative
+test-dia268_utt4,Hi,neutral,neutral
+test-dia133_utt14,Well yeah,neutral,neutral
+test-dia17_utt30,Okay well you are just going to have to,anger,negative
+test-dia203_utt2,Thank you for watching,surprise,positive
+test-dia14_utt0,Have you really done this before Yeah yeah yeah,surprise,positive
+test-dia213_utt6,Yeah,surprise,positive
+test-dia163_utt7,And you know what,neutral,neutral
+test-dia170_utt3,I want to see what's in your hand I want to see the trash,disgust,negative
+test-dia230_utt3,Uh morning Okay Hey do you guys think you could close your eyes for just a sec,neutral,neutral
+test-dia73_utt8,Okay I know what I've got to do I've got to go Red Ross,anger,negative
+test-dia49_utt8,I know me too Hey you know what What if we went away for the whole weekend you know No interruptions,neutral,neutral
+test-dia224_utt4,You are now completely asleep,neutral,neutral
+test-dia190_utt3,Chandler don't worry This doesn't make you any less of a guy,neutral,neutral
+test-dia39_utt6,As I recall when we got married I saw the groom in the wedding dress,joy,positive
+test-dia166_utt0,You still haven't told Rachel you weren't really proposing,surprise,negative
+test-dia241_utt7,You know you look familiar Do I know you from somewhere,surprise,positive
+test-dia161_utt11,Ahh,surprise,positive
+test-dia78_utt0,Why,sadness,negative
+test-dia178_utt7,Nuhuh No we are all responsible for our own babies,neutral,neutral
+test-dia174_utt12,Ooh honey look he just came over,neutral,neutral
+test-dia112_utt7,When I get up there I'm gonna kick some ass,anger,negative
+test-dia208_utt9,Oh please He'll be with his real family the twins and Little Miss New Boobs,sadness,negative
+test-dia16_utt3,Hey Dragon here's your tips on Monday and Tuesday,neutral,neutral
+test-dia258_utt8,Well it does not ring a bell with me,neutral,neutral
+test-dia170_utt4,Ew Oh it's all dirty You should throw this out,disgust,negative
+test-dia222_utt12,And then you realized if you bitched about it then you would stop cooking and you would have to make your famous baked potato and diet coke,anger,negative
+test-dia217_utt11,Tell me about it,neutral,neutral
+test-dia258_utt2,Joey Switzerland,neutral,neutral
+test-dia126_utt1,I know That's why I like it here,joy,positive
+test-dia132_utt13,It is absolutely essential that you tell me what room the man my assistant described is staying in,neutral,neutral
+test-dia89_utt0,easy this is to do Go ahead,neutral,neutral
+test-dia224_utt1,deeper,neutral,neutral
+test-dia278_utt2,What are you guys doing,neutral,neutral
+test-dia220_utt1,I mean when last we left you you were totally in love with you know,anger,negative
+test-dia145_utt9,Um are you crazy Are you insane If you live with Phoebe you two are gonna be you know living together,surprise,positive
+test-dia55_utt0,Oh Phoebe just because I'm alone doesn't mean I want to walk around naked,neutral,neutral
+test-dia130_utt12,Oh no no Ross you know I absolutely adore Rachel it's just that I thought it might be a bit awkward for you,sadness,negative
+test-dia87_utt0,Does anyone else think David Copperfield's cute,neutral,neutral
+test-dia46_utt5,with them on one hot cheeky,joy,positive
+test-dia244_utt10,So how many more do you have tomorrow,neutral,neutral
+test-dia180_utt0,Oh uh I'm okay,neutral,neutral
+test-dia11_utt0,We gotta do something,sadness,negative
+test-dia128_utt2,Okay,neutral,neutral
+test-dia199_utt3,What'd he say,neutral,neutral
+test-dia100_utt12,Well that's just the way things go,neutral,neutral
+test-dia107_utt11,No,neutral,neutral
+test-dia154_utt0,Hey Hi,joy,positive
+test-dia108_utt9,Oh All right take this bet You can make other friends,joy,positive
+test-dia243_utt1,You've got newspapers you've got magazines you've oh,neutral,neutral
+test-dia216_utt0,Yeah II heard Ah I think it's great Ah Oh I'm so happy for you,joy,positive
+test-dia189_utt9,Man you are Westminster Krabby,neutral,neutral
+test-dia102_utt0,You said she was bald,anger,negative
+test-dia232_utt8,Because I'm very happy for him,joy,positive
+test-dia13_utt5,You know this kind of codependent emotionally stunted sitting in your stupid coffee house with your stupid big cups which I'm sorry might as well have nipples on them,anger,negative
+test-dia182_utt8,What is this,surprise,negative
+test-dia100_utt3,I'm gonna take that spit bubble as a yeah I do,neutral,neutral
+test-dia167_utt13,Would you care to vent your one,neutral,neutral
+test-dia4_utt8,They're just ten blocks away If I run I can make it,neutral,neutral
+test-dia239_utt6,I'm talking to Ginger,neutral,neutral
+test-dia12_utt11,Love is the best medicine That's laughter,joy,positive
+test-dia11_utt3,Oh but don't tell them Monica's pregnant because they frown on that,neutral,neutral
+test-dia14_utt4,You just take a big big swing okay,neutral,neutral
+test-dia139_utt5,Thank you for watching,neutral,neutral
+test-dia47_utt5,I'm just gonna be across the hall We can still do all the same stuff,neutral,neutral
+test-dia259_utt4,You should monkey into ma,anger,negative
+test-dia107_utt3,No I had to return it to the costume place,sadness,negative
+test-dia120_utt12,So that's it,surprise,negative
+test-dia193_utt3,where you will see a uh,neutral,neutral
+test-dia1_utt5,Let's go I was just Yeah OK,joy,positive
+test-dia266_utt2,Do you want me to,neutral,neutral
+test-dia187_utt6,So what do you say we take a break we go outside and we'll figure this thing out when we come back,neutral,neutral
+test-dia169_utt12,I can't believe it Rachel's pregnant Yeah She's a father,surprise,positive
+test-dia13_utt3,You're not See that's why you're so great,surprise,positive
+test-dia212_utt6,It's not goodbye I'm not leaving until you get on that plane,sadness,negative
+test-dia43_utt0,I was thinking about having people over for the game,neutral,neutral
+test-dia97_utt9,So uh I gotta go Monica My uh my sushi's here,neutral,neutral
+test-dia167_utt6,Excellent What Rachel has shrewdly observed here,joy,positive
+test-dia204_utt1,This woman's living my life,anger,negative
+test-dia195_utt10,Oh well you're the best You come here to me,joy,positive
+test-dia215_utt10,Okay now's not the time Joey all right You can yell at me tomorrow,sadness,negative
+test-dia53_utt12,Oh she's gonna love that,joy,positive
+test-dia116_utt6,You know what the Celtics' problem is They let the players run the team,neutral,neutral
+test-dia28_utt9,car accident,sadness,negative
+test-dia250_utt7,Alright once you betray me I become like the ice woman,neutral,neutral
+test-dia64_utt0,So you stole my joke and you stole my money,anger,negative
